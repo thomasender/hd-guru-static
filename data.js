@@ -565,4 +565,49 @@ export const lessons = [
 <p>Du bist nicht hier, um dein IC zu "erfüllen". Du bist hier, um du selbst zu sein. Das IC zeigt, was passiert, wenn du authentisch bist.</p>
 <p class="next-insight" data-next="12">🔮 <strong>Nächster Insight:</strong> Not-Self — wie jeder Typ in die Falle tappt.</p>`
   }
+,
+  {
+    id: 12,
+    day: 12,
+    title: "Not-Self — Die Falle",
+    subtitle: "Wie jeder Typ seinen Weg verliert",
+    teaser: "Jeder Typ hat einen Not-Self — einen Ort, an dem du aufhörst, du selbst zu sein.",
+    icon: "🪤",
+    content: `<h2 class="content-h2">Not-Self — Die Falle</h2>
+<hr class="content-divider">
+<p><strong>Not-Self ist das Gegenteil von dir selbst.</strong></p>
+<p>Es ist, wenn du aufhörst, nach deiner Strategie zu leben, und stattdessen in die Muster verfällst, die dir nicht gehören. Jeder Typ hat einen spezifischen Not-Self-Ort.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Not-Self nach Typ</h3>
+<h4 class="content-h3">Generator → Frustration</h4>
+<p>Generatoren, die nicht ihrer Spur folgen, werden frustriert. Sie tun Dinge, die nicht ihrer Sakral-Antwort entsprechen. Sie antworten nicht — sie initiieren. Das Sakral schreit: "NEIN!" Aber der Kopf sagt: "Logisch, das ergibt Sinn."</p>
+<p>Generator-Not-Self: <strong>Frustration</strong>. Das Gefühl, dass nichts funktioniert, obwohl du so hart arbeitest.</p>
+<h4 class="content-h3">Manifestor → Wut</h4>
+<p>Manifestors, die nicht informieren, werden wütend. Sie handeln — aber niemand weiß warum. Andere fühlen sich überrascht, kontrolliert, vor den Kopf gestoßen. Die Wut ist der Schrei: "Ich wurde nicht gehört."</p>
+<p>Manifestor-Not-Self: <strong>Wut</strong>. Das Gefühl, dass die Welt dir im Weg steht.</p>
+<h4 class="content-h3">Projektor → Bitterkeit</h4>
+<p>Projektors, die nicht eingeladen werden, werden bitter. Sie sehen, wie andere geführt werden — Menschen ohne jede Befähigung. Und sie selbst sitzen außen vor.</p>
+<p>Projektor-Not-Self: <strong>Bitterkeit</strong>. Das Gefühl, dass andere nicht auf dich hören, obwohl du die Lösung weißt.</p>
+<h4 class="content-h3">Reflector → Enttäuschung</h4>
+<p>Reflectors, die zu schnell urteilen (ohne 28 Tage zu warten), werden enttäuscht. Sie sehen die Welt durch eine verzerrte Linse — eine Momentaufnahme, nicht die Wahrheit.</p>
+<p>Reflector-Not-Self: <strong>Enttäuschung</strong>. Das Gefühl, dass nichts und niemand gut genug ist.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Wie Not-Self sich anfühlt</h3>
+<p>Not-Self ist subtil. Es fühlt sich nicht falsch an — es fühlt sich <em>normal</em> an. Deshalb ist es so gefährlich.</p>
+<p>Der Test: <strong>Frage dich: "Bin ich gerade ich selbst — oder spiele ich eine Rolle?"</strong></p>
+<p>Frustration, Wut, Bitterkeit, Enttäuschung — das sind die emotionalen Alarmsignale.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Der Weg raus</h3>
+<p>Not-Self ist kein Schicksal. Es ist ein Muster, das du durchbrechen kannst.</p>
+<p>Für Generatoren: Hör auf zu initiieren. Warte auf die Antwort.</p>
+<p>Für Manifestors: Informiere, bevor du handelst. Nicht um Erlaubnis — nur zur Info.</p>
+<p>Für Projektors: Warte auf die Einladung. Nicht aufdrängen. Deine Führung ist mehr wert, wenn sie gewollt ist.</p>
+<p>Für Reflectors: Warte 28 Tage. Eine Nacht ist nicht genug. Ein Monat ist der Test.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die goldene Regel</h3>
+<p><em>"When you are not in your strategy, you are in your not-self."</em> — Ra Uru Hu</p>
+<p>Dein Not-Self ist der Wegweiser. Jedes Mal, wenn du Frustration, Wut, Bitterkeit oder Enttäuschung fühlst — frage dich: "Folge ich gerade meiner Strategie?"</p>
+<p>Wenn nicht: Stopp. Atme. Warte auf die Antwort.</p>
+<p class="next-insight" data-next="13">🔮 <strong>Nächster Insight:</strong> Die 4 Transmitter — die kollektive Energie der Menschheit.</p>`
+  }
 ];

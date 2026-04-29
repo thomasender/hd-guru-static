@@ -51,6 +51,20 @@ if (available.length === 0) {
 const lesson = available[0];
 console.log(`\nPicking lesson: "${lesson.title}" (Pool ID ${lesson.id})`);
 
+// ── Idempotency: prevent double-run ─────────────────────────────────
+// Read HTML once for the check
+const htmlContentCheck = fs.readFileSync(htmlPath, 'utf8');
+// Check 1: data.js already has this lesson?
+if (usedIds.has(nextId)) {
+  console.log(`⚠️  Lesson ${nextId} already in data.js — skipping (idempotency check).`);
+  process.exit(0);
+}
+// Check 2: HTML already has the card?
+if (htmlContentCheck.includes(`data-lesson-id="${nextId}"`)) {
+  console.log(`⚠️  Lesson ${nextId} already in HTML — skipping (idempotency check).`);
+  process.exit(0);
+}
+
 // ── Build the card HTML ──────────────────────────────────────────────
 const cardHtml = `
           <div class="card-wrapper" data-lesson-id="${nextId}">
