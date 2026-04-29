@@ -54,14 +54,15 @@ console.log(`\nPicking lesson: "${lesson.title}" (Pool ID ${lesson.id})`);
 // ── Idempotency: prevent double-run ─────────────────────────────────
 // Read HTML once for the check
 const htmlContentCheck = fs.readFileSync(htmlPath, 'utf8');
-// Check 1: data.js already has this lesson?
-if (usedIds.has(nextId)) {
-  console.log(`⚠️  Lesson ${nextId} already in data.js — skipping (idempotency check).`);
+// Check: HTML already has the card for this next ID?
+// (data.js idempotency is handled by the usedIds pool check below)
+if (htmlContentCheck.includes(`data-lesson-id="${nextId}"`)) {
+  console.log(`⚠️  Lesson ${nextId} already in HTML — skipping.`);
   process.exit(0);
 }
-// Check 2: HTML already has the card?
-if (htmlContentCheck.includes(`data-lesson-id="${nextId}"`)) {
-  console.log(`⚠️  Lesson ${nextId} already in HTML — skipping (idempotency check).`);
+// Check: the chosen pool lesson already used in data.js? (idempotency for double-runs)
+if (usedIds.has(lesson.id)) {
+  console.log(`⚠️  Pool lesson ${lesson.id} "${lesson.title}" already used — skipping.`);
   process.exit(0);
 }
 

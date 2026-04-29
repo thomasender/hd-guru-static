@@ -653,4 +653,45 @@ export const lessons = [
 <p>Wir sind alle durch diese Transmitters verbunden — auch wenn wir sie nicht "besitzen".</p>
 <p class="next-insight" data-next="14">🔮 <strong>Nächster Insight:</strong> Gate 1 — das Tor des Genies.</p>`
   }
+,
+  {
+    id: 14,
+    day: 14,
+    title: "Gate 1 — Das Tor des Genies",
+    subtitle: "Die kreative Vision, die niemand aufhalten kann",
+    teaser: "Gate 1 ist das Tor zur kreativen Selbst-Expression. Aber es braucht die richtige Richtung.",
+    icon: "💡",
+    content: `<h2 class="content-h2">Gate 1 — Das Tor des Genies</h2>
+<hr class="content-divider">
+<p><strong>Gate 1 ist eines der mächtigsten Gates im System.</strong></p>
+<p>Es ist das erste Hexagramm im I Ching: <strong>Qian — Der Schöpfer</strong>. In HD ist es das Tor der <em>Selbst-Expression</em> — die Fähigkeit, etwas Neues in die Welt zu bringen, das vorher nicht existierte.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 1 ist im <strong>G-Zentrum</strong> (Identität) verankert. Wenn es definiert ist, hast du Zugang zu einer <strong>ununterbrochenen Quelle kreativer Vision</strong>.</p>
+<p>Das ist nicht dasselbe wie Talent. Talent kann man lernen. Gate 1 ist anders — es ist eine <em>Seins-Form</em>. Du siehst Dinge, die andere nicht sehen. Du weißt, was als nächstes kommt.</p>
+<p>Aber: Gate 1 allein ist wie eine Glühbirne ohne Stromkreis. Es braucht einen <strong>Kanal</strong>, um sich zu manifestieren — einen Weg nach außen.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p>Gate 1 kann auch problematisch sein:</p>
+<p><strong>Die Vision ohne Bodenhaftung:</strong> Du siehst alles, aber du kannst nichts umsetzen. Gate 1 ohne Kanal = Luftschlösser.</p>
+<p><strong>Das Genie-Syndrom:</strong> "Ich bin brillant, aber niemand versteht mich." Gate 1 ist nicht dafür da, bewiesen zu werden. Es ist dafür da, <em>inspiriert</em> zu werden — von anderen, von der Welt.</p>
+<p><strong>Arroganz:</strong> Wenn Gate 1 nicht mit Demut verbunden ist, wird es zur Waffe. "Meine Vision ist die richtige."</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 1 mit Kanal 1-8</h3>
+<p>Kanal 1-8 verbindet Gate 1 mit der Kehle. Das ist die <strong>kräftigste Kombination für Selbst-Expression</strong> in HD.</p>
+<p>Mit Kanal 1-8: Die Vision kann artikuliert werden. Du siehst <em>und</em> du sagst es. Du schaffst <em>und</em> andere verstehen es.</p>
+<p>Ohne Kanal: Die Vision bleibt im Inneren. Du weißt, aber du kannst es nicht teilen.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 1 inoffen</h3>
+<p>Wenn Gate 1 offen ist (kein Zugang zur kreativen Vision):</p>
+<p>Das ist kein Makel. Es bedeutet, dass du <strong>nicht auf eigene Vision angewiesen</strong> bist. Du kannst von außen inspiriert werden — durch andere, durch die Welt.</p>
+<p>Offenes Gate 1 = du lernst durch Beobachtung. Du eignest dir Wissen von außen an. Du bist offen für die Visionen anderer.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 1 & die Persönlichkeit</h3>
+<p>Schau auf deinen Chart: Ist Gate 1 rot (Persönlichkeit) oder schwarz (Design)?</p>
+<p>Rot = deine <strong>bewusste</strong> kreative Vision — was du über dich selbst weißt.</p>
+<p>Schwarz = deine <strong>unbewusste</strong> kreative Vision — was dich antreibt, ohne dass du es weißt.</p>
+<p>Beide sind wertvoll. Beide brauchen einen Kanal, um real zu werden.</p>
+<p class="next-insight" data-next="15">🔮 <strong>Nächster Insight:</strong> Gate 8 — Selbst-Genug.</p>`
+  }
 ];
