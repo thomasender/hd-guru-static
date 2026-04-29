@@ -610,4 +610,47 @@ export const lessons = [
 <p>Wenn nicht: Stopp. Atme. Warte auf die Antwort.</p>
 <p class="next-insight" data-next="13">🔮 <strong>Nächster Insight:</strong> Die 4 Transmitter — die kollektive Energie der Menschheit.</p>`
   }
+,
+  {
+    id: 13,
+    day: 13,
+    title: "Die 4 Transmitter",
+    subtitle: "Die kollektive Energie, die uns alle antreibt",
+    teaser: "Es gibt 4 fundamentale Energien, die die Menschheit bewegen. Welche fließt durch dich?",
+    icon: "📡",
+    content: `<h2 class="content-h2">Die 4 Transmitter — Die kollektive Energie</h2>
+<hr class="content-divider">
+<p><strong>Jenseits des individuellen Körpers gibt es eine kollektive Dimension.</strong></p>
+<p>HD nennt sie <strong>Transmitters</strong> — Energien, die durch bestimmte Kanäle fließen und die Menschheit als Ganzes antreiben. Sie verbinden dich mit dem Kollektiv.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die 4 Transmitter</h3>
+<h4 class="content-h3">1. Der Tribal Transmitter (Kanal 19-49)</h4>
+<p>Verbindet das Emotionale Zentrum (Solar Plexus) mit dem G-Zentrum (Identität).</p>
+<p>Dieser Transmitter treibt <strong>Familie, Fürsorge und Überleben</strong> an. Er ist die Energie, die uns dazu bringt, für unsere Kinder zu sorgen, für unsere Gemeinschaft zu kämpfen.</p>
+<p>Menschen mit diesem Transmitter haben eine tiefe Verbindung zu Familie — und eine tiefe Verletzlichkeit, wenn diese bedroht wird.</p>
+<hr class="content-divider">
+<h4 class="content-h3">2. Der Individuelle Transmitter (Kanal 13-33)</h4>
+<p>Verbindet das Kehle-Zentrum (Manifestation) mit dem G-Zentrum (Identität).</p>
+<p>Dieser Transmitter treibt <strong>Geschichten und Historie</strong> an. Er ist der Geschichtenerzähler, der das kollektive Gedächtnis weitergibt.</p>
+<p>Menschen mit 13-33 sind die "Kassierer" der Menschheit. Sie dokumentieren, was war, damit andere wissen, was kommt.</p>
+<hr class="content-divider">
+<h4 class="content-h3">3. Der Logische Transmitter (Kanal 14-2)</h4>
+<p>Verbindet das Sakral-Zentrum (Lebenskraft) mit dem G-Zentrum.</p>
+<p>Dieser Transmitter treibt <strong>Evolution durch Exzellenz</strong> an. gate 14 = "Power of Possessions" (nicht materiell — besitzen von Wissen), gate 2 = "The Receiver".</p>
+<p>Menschen mit diesem Transmitter sammeln Wissen, um es in Exzellenz zu verwandeln. Die highest skilled in jedem Bereich haben diesen Kanal.</p>
+<hr class="content-divider">
+<h4 class="content-h3">4. Der Sexuelle / Mutation Transmitter (Kanal 29-46)</h4>
+<p>Verbindet das Sakral-Zentrum mit dem Mund (Kommunikation). Dies ist der Kanal der <strong>Reproduktion und Verwandlung</strong>.</p>
+<p>Er treibt die Fähigkeit an, neue Leben zu schaffen — buchstäblich (Kinder) oder metaphorisch (Kreation). Der Transmitter der Neugeburt.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Warum das wichtig ist</h3>
+<p>Transmitters zeigen dir, <strong>wo du mit dem Kollektiv verbunden bist</strong>. Wenn du einen dieser Kanäle hast, trägst du eine kollektive Verantwortung.</p>
+<p>Wenn nicht: Du hast Zugang zu diesen Energien — aber auf andere Weise. Vielleicht als Konsument, als Unterstützer, als Teil des größeren Bildes.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Dein Test</h3>
+<p>Schau auf deinen Chart: Hast du Kanal 19-49, 13-33, 14-2 oder 29-46?</p>
+<p>Wenn ja — das ist deine kollektive Stimme. Wenn nicht — frage dich, wie du zu diesen Energien in Beziehung stehst.</p>
+<p>Wir sind alle durch diese Transmitters verbunden — auch wenn wir sie nicht "besitzen".</p>
+<p class="next-insight" data-next="14">🔮 <strong>Nächster Insight:</strong> Gate 1 — das Tor des Genies.</p>`
+  }
 ];
