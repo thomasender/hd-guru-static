@@ -520,4 +520,49 @@ export const lessons = [
 <p>Bald kommen die nächsten 10 Lektionen. Aber nimm dir die Zeit, das Gelernte zu verdauen.</p>
 <p>Dein Human Design Guru 🐍</p>`
   }
+,
+  {
+    id: 11,
+    day: 11,
+    title: "Dein Incarnation Cross",
+    subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
+    teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
+    icon: "✴️",
+    content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
+<hr class="content-divider">
+<p><strong>Type und Profil sind erst der Anfang.</strong></p>
+<p>HD hat noch eine tiefere Schicht: Dein <strong>Incarnation Cross</strong> (IC). Es ist die Kombination aus 4 Gates — zwei aus deiner Persönlichkeit (bewusst) und zwei aus deinem Design (unbewusst). Zusammen ergeben sie eine Aussage darüber, <em>warum du hier bist</em>.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Struktur</h3>
+<p>Dein IC hat <strong>2 Lines of Incarnation</strong> (Lebenslinien). Jede Linie hat 2 Gates.</p>
+<p>Die obere Linie = bewusst (Persönlichkeit). Die untere Linie = unbewusst (Design).</p>
+<p>Das macht 4 Gates. Diese 4 Gates definieren dein <strong>Thema</strong> — nicht was du tust, sondern <em>was du repräsentierst</em>.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die 12 Haupt-Inkarnationskreuze</h3>
+<h4 class="content-h3">1. Kreuz der Erleuchtung (23-43)</h4>
+<p>Du bist hier, um eine <strong>Erleuchtung</strong> zu bringen — eine neue Wahrheit, die die alte Ordnung in Frage stellt. Nicht immer willkommen. Gandhis Kreuz. Nicht für schwache Nerven.</p>
+<h4 class="content-h3">2. Kreuz der Versuchung (11-44)</h4>
+<p>Du verleitest andere zu neuen Ideen. Prophetische Energie. Menschen sehen dich als eine Verkörperung von etwas Größerem. Verantwortung ist hoch.</p>
+<h4 class="content-h3">3. Kreuz der Frage (3-58)</h4>
+<p>Du bist hier, um das Leben in Frage zu stellen. Nicht um Antworten zu geben — um zu fragen, was noch niemand fragt. Der ewige Sucher.</p>
+<h4 class="content-h3">4. Kreuz der Bestimmung (10-25)</h4>
+<p>Du lebst deine Bestimmung, indem du <em>bist</em>, nicht indem du tust. Die reinste Form von "sei selbst". gate 25 = "Spirit of the Self", gate 10 = "Self-Behavior".</p>
+<h4 class="content-h3">5. Kreuz der Dienerin (15-5)</h4>
+<p>Du bist hier, um anderen zu helfen, ihre eigene Extreme zu finden — oder ihre eigene Harmonie. Gate 15 = "Modesty", gate 5 = "Wait". Du zeigst durch dein Sein.</p>
+<h4 class="content-h3">6. Kreuz der Form (1-8)</h4>
+<p>Du bist hier, um <strong>Form zu geben</strong> — einer Idee, einer Bewegung, einervision. Kreative Visionäre. Gate 1 = "Creative Self-Expression", gate 8 = "Contribution".</p>
+<h4 class="content-h3">7. Kreuz des Wächters (24-61)</h4>
+<p>Du bewachst eine Wahrheit. Gate 24 = "Rationalizing", gate 61 = "Inner Truth". Manchmal kommt die Wahrheit zu früh. Manchmal zu spät. Du musst warten können.</p>
+<h4 class="content-h3">8. Kreuz der始 Inspiration (2-14)</h4>
+<p>Du empfängst Inspiration und gibst sie weiter. Gate 2 = "Receiver", gate 14 = "Power of Possessions". Nicht das Empfangen ist die Kunst — das Weitergeben.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Wie man sein IC liest</h3>
+<p>Geh auf mybodygraph.com, unten im Chart siehst du dein Incarnation Cross. Es sind 4 Gates, die zusammen eine Art <strong>Satz</strong> bilden.</p>
+<p>Zum Beispiel: "Kreuz der Erleuchtung" (23-43) = "Ich bringe eine Erleuchtung (23), die alte Muster bricht (43)."</p>
+<hr class="content-divider">
+<h3 class="content-h2">Dein IC ist kein Ziel</h3>
+<p>Ra war sehr klar: <em>"Don't try to live your Incarnation Cross. It's not a prescription. It's a description."</em></p>
+<p>Du bist nicht hier, um dein IC zu "erfüllen". Du bist hier, um du selbst zu sein. Das IC zeigt, was passiert, wenn du authentisch bist.</p>
+<p class="next-insight" data-next="12">🔮 <strong>Nächster Insight:</strong> Not-Self — wie jeder Typ in die Falle tappt.</p>`
+  }
 ];
