@@ -65,7 +65,7 @@ export const lessons = [
 <h3 class="content-h2">Deine Aufgabe diese Woche</h3>
 <p>Finde deinen BodyGraph auf <strong>mybodygraph.com</strong> (kostenlos). Gib deinen Geburtsort, dein Geburtsdatum und deine Uhrzeit ein.</p>
 <p>Was ist dein Typ? Was ist deine Autorität? Das sind die zwei wichtigsten Dinge, die du heute mitnimmst.</p>
-<p class="next-insight" data-next="3">🔮 <strong>Nächster Insight:</strong> Die 9 Zentren — dein inneres Architektur-System.</p>`
+<div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="3">🔮 <strong>Nächster Insight:</strong> Die 9 Zentren — dein inneres Architektur-System. →</a></div>`
   },
   {
     id: 3,
@@ -112,7 +112,7 @@ export const lessons = [
 <h3 class="content-h2">Der Schlüssel</h3>
 <p>Die Zentren definieren, <strong>wie du Energie konsumierst, transformierst und exprimierst</strong>.</p>
 <p>Heute Abend: Schau auf deinen BodyGraph. Welche Zentren sind definiert (ausgefüllt)? Welche sind offen (leer)? Das ist dein energetisches Profil.</p>
-<p class="next-insight" data-next="4">🔮 <strong>Nächster Insight:</strong> Die 4 Typen — wie sie die Welt bewegen.</p>`
+<div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="4">🔮 <strong>Nächster Insight:</strong> Die 4 Typen — wie sie die Welt bewegen. →</a></div>`
   },
   {
     id: 4,
@@ -161,7 +161,7 @@ export const lessons = [
 <hr class="content-divider">
 <h3 class="content-h2">Finde deinen Typ</h3>
 <p>Morgen mehr dazu. Heute: Schau auf deinen Chart. Hast du ein gefülltes Sakral-Zentrum? Dann bist du ein Generator oder Manifesting Generator.</p>
-<p class="next-insight" data-next="5">🔮 <strong>Nächster Insight:</strong> Strategie & Autorität — wie du wirklich entscheidest.</p>`
+<div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="5">🔮 <strong>Nächster Insight:</strong> Strategie & Autorität — wie du wirklich entscheidest. →</a></div>`
   },
   {
     id: 5,
@@ -212,7 +212,7 @@ export const lessons = [
 <h3 class="content-h2">Diese Woche: Übung</h3>
 <p>Setz dich morgen hin und mach eine Liste von 5 Entscheidungen, die du gerade triffst. Für jede: Hör auf deine Autorität. Was sagt sie?</p>
 <p>Nicht der Kopf. Der Bauch.</p>
-<p class="next-insight" data-next="6">🔮 <strong>Nächster Insight:</strong> Die 12 Profile — deine Persönlichkeits-Archetypen.</p>`
+<div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="6">🔮 <strong>Nächster Insight:</strong> Die 12 Profile — deine Persönlichkeits-Archetypen. →</a></div>`
   },
   {
     id: 6,
@@ -278,7 +278,7 @@ export const lessons = [
 <h3 class="content-h2">Warum das wichtig ist</h3>
 <p>Das Profil sagt dir, <strong>wie du in der Welt wirkst</strong> — nicht was du tun sollst.</p>
 <p>Ein 5/1 ist kein "Typ 5". Er ist eine einzigartige Kombination aus Wandler und Entdecker. Die meisten Tools geben dir nur eine Zahl. HD gibt dir zwei.</p>
-<p class="next-insight" data-next="7">🔮 <strong>Nächster Insight:</strong> Gates & Linien — die 64 Hexagramme und die I Ching Verbindung.</p>`
+<div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="7">🔮 <strong>Nächster Insight:</strong> Gates & Linien — die 64 Hexagramme und die I Ching Verbindung. →</a></div>`
   },
   {
     id: 7,
@@ -333,7 +333,7 @@ export const lessons = [
 <p>Ra sagte: HD ist das I Ching, aber auf den Menschen angewendet.</p>
 <p>Das alte I Ching beschreibt die Muster des Lebens. HD beschreibt die Muster in dir.</p>
 <p>Die 64 Gates sind dieselben 64 Möglichkeiten der Existenz — aber in HD hast du nicht nur die Symbole, sondern eine vollständige genetische Karte, die zeigt, welche davon in dir aktiv sind.</p>
-<p class="next-insight" data-next="8">🔮 <strong>Nächster Insight:</strong> Die 36 Kanäle — was sie bedeuten und warum sie wichtiger sind als einzelne Gates.</p>`
+<div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="8">🔮 <strong>Nächster Insight:</strong> Die 36 Kanäle — was sie bedeuten und warum sie wichtiger sind als einzelne Gates. →</a></div>`
   },
   {
     id: 8,
@@ -390,7 +390,7 @@ export const lessons = [
 <p>Schau auf deinen BodyGraph: Welche Kanäle hast du? Nicht einzelne Gates — <strong>Kanäle</strong>. Die Linien zwischen den Gates.</p>
 <p>Schreib die Nummern auf: Kanal 1-8? Kanal 14-2?</p>
 <p>Morgen schauen wir uns an, was sie bedeuten.</p>
-<p class="next-insight" data-next="9">🔮 <strong>Nächster Insight:</strong> Die 6 Kreisläufe — wie dein System zusammenarbeitet.</p>`
+<div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="9">🔮 <strong>Nächster Insight:</strong> Die 6 Kreisläufe — wie dein System zusammenarbeitet. →</a></div>`
   },
   {
     id: 9,
@@ -451,7 +451,7 @@ export const lessons = [
 <p>1. <strong>Energie besser kanalisieren:</strong> Du weißt, wo du natürlich stark bist</p>
 <p>2. <strong>Frustration vermeiden:</strong> Du hörst auf, gegen deine Natur zu arbeiten</p>
 <p>3. <strong>Beziehungen verstehen:</strong> Du siehst, warum andere anders funktionieren als du</p>
-<p class="next-insight" data-next="10">🔮 <strong>Nächster Insight:</strong> Design & Persönlichkeit — die zwei Körper, in denen du lebst.</p>`
+<div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="10">🔮 <strong>Nächster Insight:</strong> Design & Persönlichkeit — die zwei Körper, in denen du lebst. →</a></div>`
   },
   {
     id: 10,
@@ -563,7 +563,7 @@ export const lessons = [
 <h3 class="content-h2">Dein IC ist kein Ziel</h3>
 <p>Ra war sehr klar: <em>"Don't try to live your Incarnation Cross. It's not a prescription. It's a description."</em></p>
 <p>Du bist nicht hier, um dein IC zu "erfüllen". Du bist hier, um du selbst zu sein. Das IC zeigt, was passiert, wenn du authentisch bist.</p>
-<p class="next-insight" data-next="12">🔮 <strong>Nächster Insight:</strong> Not-Self — wie jeder Typ in die Falle tappt.</p>`
+<div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="12">🔮 <strong>Nächster Insight:</strong> Not-Self — wie jeder Typ in die Falle tappt. →</a></div>`
   }
 ,
   {
@@ -608,7 +608,7 @@ export const lessons = [
 <p><em>"When you are not in your strategy, you are in your not-self."</em> — Ra Uru Hu</p>
 <p>Dein Not-Self ist der Wegweiser. Jedes Mal, wenn du Frustration, Wut, Bitterkeit oder Enttäuschung fühlst — frage dich: "Folge ich gerade meiner Strategie?"</p>
 <p>Wenn nicht: Stopp. Atme. Warte auf die Antwort.</p>
-<p class="next-insight" data-next="13">🔮 <strong>Nächster Insight:</strong> Die 4 Transmitter — die kollektive Energie der Menschheit.</p>`
+<div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="13">🔮 <strong>Nächster Insight:</strong> Die 4 Transmitter — die kollektive Energie der Menschheit. →</a></div>`
   }
 ,
   {
@@ -651,7 +651,7 @@ export const lessons = [
 <p>Schau auf deinen Chart: Hast du Kanal 19-49, 13-33, 14-2 oder 29-46?</p>
 <p>Wenn ja — das ist deine kollektive Stimme. Wenn nicht — frage dich, wie du zu diesen Energien in Beziehung stehst.</p>
 <p>Wir sind alle durch diese Transmitters verbunden — auch wenn wir sie nicht "besitzen".</p>
-<p class="next-insight" data-next="14">🔮 <strong>Nächster Insight:</strong> Gate 1 — das Tor des Genies.</p>`
+<div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="14">🔮 <strong>Nächster Insight:</strong> Gate 1 — das Tor des Genies. →</a></div>`
   }
 ,
   {
@@ -692,7 +692,7 @@ export const lessons = [
 <p>Rot = deine <strong>bewusste</strong> kreative Vision — was du über dich selbst weißt.</p>
 <p>Schwarz = deine <strong>unbewusste</strong> kreative Vision — was dich antreibt, ohne dass du es weißt.</p>
 <p>Beide sind wertvoll. Beide brauchen einen Kanal, um real zu werden.</p>
-<p class="next-insight" data-next="15">🔮 <strong>Nächster Insight:</strong> Gate 8 — Selbst-Genug.</p>`
+<div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="15">🔮 <strong>Nächster Insight:</strong> Gate 8 — Selbst-Genug. →</a></div>`
   }
 ,
   {
@@ -729,6 +729,6 @@ export const lessons = [
 <p><em>"Sei self-contributing, nicht self-sufficient."</em></p>
 <p>Gate 8 ist nicht dazu da, alleine zu bleiben. Es ist dazu da, <strong>aus der eigenen Fülle zu geben</strong> — nicht aus Mangel oder Abhängigkeit.</p>
 <p>Die Frage ist nicht: "Kann ich alleine stehen?" Die Frage ist: "Was gebe ich aus meiner Fülle?"</p>
-<p class="next-insight" data-next="16">🔮 <strong>Nächster Insight:</strong> Gate 41 — der Traum, der noch kommt.</p>`
+<div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="16">🔮 <strong>Nächster Insight:</strong> Gate 41 — der Traum, der noch kommt. →</a></div>`
   }
 ];
