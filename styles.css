@@ -332,6 +332,11 @@ body {
 }
 
 /* Next Insight button */
+.next-insight-wrapper {
+  position: relative;
+  margin: 20px 0 8px;
+}
+
 .next-insight {
   margin: 20px 0 8px;
 }
@@ -452,6 +457,7 @@ body {
   flex: 1;
   overflow-y: auto;
   padding: 28px 32px;
+  margin-bottom: 2rem;
   font-size: 13px;
   line-height: 1.7;
   color: #2D3B36;

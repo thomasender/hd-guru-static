@@ -18,6 +18,25 @@ import { lessons } from './data.js';
   const closeBtn = document.getElementById('overlay-close');
   const cards = document.querySelectorAll('.card-wrapper');
 
+  // ── URL helpers ──────────────────────────────────────────────────
+  function setLessonUrl(lessonId) {
+    const url = new URL(window.location.href);
+    url.searchParams.set('open', lessonId);
+    history.pushState({ lessonId }, '', url.toString());
+  }
+
+  function clearLessonUrl() {
+    const url = new URL(window.location.href);
+    url.searchParams.delete('open');
+    history.pushState({}, '', url.toString());
+  }
+
+  function getLessonFromUrl() {
+    const params = new URLSearchParams(window.location.search);
+    const id = parseInt(params.get('open'), 10);
+    return lessons.find(l => l.id === id) ? id : null;
+  }
+
   // ── Open overlay ──────────────────────────────────────────────────
   function openLesson(lessonId) {
     const lesson = lessons.find(l => l.id === lessonId);
@@ -32,17 +51,17 @@ import { lessons } from './data.js';
     overlaySubtitle.textContent = lesson.subtitle;
     overlayContent.innerHTML = lesson.content;
 
-    // Attach next-insight handler
-    const nextBtn = overlayContent.querySelector('.next-insight');
+    // Attach next-insight handler (new: look for .next-insight-btn inside wrapper)
+    const nextBtn = overlayContent.querySelector('.next-insight-btn');
     if (nextBtn) {
-      nextBtn.addEventListener('click', function () {
+      nextBtn.addEventListener('click', function (e) {
+        e.preventDefault();
         const nextId = parseInt(this.dataset.next, 10);
         if (nextId && nextId <= lessons.length) {
-          // Start exit animation
           overlayCard.className = 'overlay-card card-exiting';
           overlay.classList.remove('overlay-visible');
           overlayPhase = 'exiting';
-
+          setLessonUrl(nextId);
           setTimeout(() => {
             openLesson(nextId);
           }, 520);
@@ -52,6 +71,9 @@ import { lessons } from './data.js';
 
     // Lock scroll
     document.body.style.overflow = 'hidden';
+
+    // Update URL
+    setLessonUrl(lessonId);
 
     // Start enter animation
     overlayCard.className = 'overlay-card card-entering';
@@ -77,6 +99,7 @@ import { lessons } from './data.js';
       overlayPhase = 'closed';
       overlayCard.className = 'overlay-card';
       document.body.style.overflow = '';
+      clearLessonUrl();
     }, 520);
   }
 
@@ -107,5 +130,26 @@ import { lessons } from './data.js';
       closeOverlay();
     }
   });
+
+  // Browser back/forward
+  window.addEventListener('popstate', e => {
+    if (e.state && e.state.lessonId) {
+      if (overlayPhase === 'open' || overlayPhase === 'entering') {
+        closeOverlay();
+        setTimeout(() => openLesson(e.state.lessonId), 550);
+      } else {
+        openLesson(e.state.lessonId);
+      }
+    } else {
+      if (overlayPhase === 'open') closeOverlay();
+    }
+  });
+
+  // ── Auto-open from URL ─────────────────────────────────────────────
+  const urlLessonId = getLessonFromUrl();
+  if (urlLessonId) {
+    // Small delay so page is visible first
+    setTimeout(() => openLesson(urlLessonId), 100);
+  }
 
 })();
