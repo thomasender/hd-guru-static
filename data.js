@@ -694,4 +694,41 @@ export const lessons = [
 <p>Beide sind wertvoll. Beide brauchen einen Kanal, um real zu werden.</p>
 <p class="next-insight" data-next="15">🔮 <strong>Nächster Insight:</strong> Gate 8 — Selbst-Genug.</p>`
   }
+,
+  {
+    id: 15,
+    day: 15,
+    title: "Gate 8 — Selbst-Genug",
+    subtitle: "Das Tor, das sich selbst trägt",
+    teaser: "Gate 8 gibt dir die Kraft, ganz du selbst zu sein — ohne Erlaubnis von außen.",
+    icon: "🏛️",
+    content: `<h2 class="content-h2">Gate 8 — Selbst-Genug</h2>
+<hr class="content-divider">
+<p><strong>Gate 8 ist das Tor der Selbst-Genügsamkeit.</strong></p>
+<p>Es ist Hexagramm 64 im I Ching: <strong>Wei Chi — Vor der Vollendung</strong>. Aber in HD ist es etwas anderes: Es ist das Tor, das sagt: <em>"Ich brauche niemanden, der mir sagt, wer ich bin."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 8 gibt dir die Fähigkeit, <strong>dich selbst zu tragen</strong>. Nicht abhängig zu sein von externer Bestätigung. Nicht darauf zu warten, dass jemand anderes dir den Wert gibt.</p>
+<p>Menschen mit einem definierten Gate 8 haben eine natürliche Integrität. Sie können alleine stehen. Das ist ihre Stärke — und manchmal ihre Schwäche.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Isolation:</strong> "Ich brauche niemanden." kann zu "Ich will niemanden" werden. Gate 8 kann dich in die Einsamkeit führen, wenn es nicht bewusst gelebt wird.</p>
+<p><strong>Arroganz:</strong> Die Haltung "Ich weiß es besser" kann Gate 8 in eine Festung verwandeln. Dann bist du nicht selbst-genügsam — du bist abgeschottet.</p>
+<p><strong>Beitrags-Widerstand:</strong> Gate 8 will nicht beitragen, wenn es nicht <em>das Ganze</em> beitragen kann. Die Perfektion, die die Fehler verhindert.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 8 mit Kanal 1-8</h3>
+<p>Mit Kanal 1-8 (Selbst-Expression):</p>
+<p>Das ist die Kombination von kreativer Vision (1) und Selbst-Genug (8). Du schaffst, weil du schaffen <em>musst</em> — nicht um Anerkennung zu bekommen.</p>
+<p>Mit dieser Kombination bist du der "wahre Auteur" — jemand, der trotz Widerstand weitermacht, weil das Schaffen selbst die Belohnung ist.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 8 & HD-Typen</h3>
+<p>Gate 8 ist am stärksten bei <strong>Projektors</strong> — Menschen ohne Sakral-Energie, die nicht "arbeiten" können wie Generatoren.</p>
+<p>Für Projektoren ist Gate 8 eine Erinnerung: Du brauchst keine Energie wie ein Generator, um wertvoll zu sein. Dein Beitrag ist einzigartig, auch wenn er anders kommt.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Sei self-contributing, nicht self-sufficient."</em></p>
+<p>Gate 8 ist nicht dazu da, alleine zu bleiben. Es ist dazu da, <strong>aus der eigenen Fülle zu geben</strong> — nicht aus Mangel oder Abhängigkeit.</p>
+<p>Die Frage ist nicht: "Kann ich alleine stehen?" Die Frage ist: "Was gebe ich aus meiner Fülle?"</p>
+<p class="next-insight" data-next="16">🔮 <strong>Nächster Insight:</strong> Gate 41 — der Traum, der noch kommt.</p>`
+  }
 ];
