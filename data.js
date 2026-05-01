@@ -731,4 +731,42 @@ export const lessons = [
 <p>Die Frage ist nicht: "Kann ich alleine stehen?" Die Frage ist: "Was gebe ich aus meiner Fülle?"</p>
 <div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="16">🔮 <strong>Nächster Insight:</strong> Gate 41 — der Traum, der noch kommt. →</a></div>`
   }
+,
+  {
+    id: 16,
+    day: 16,
+    title: "Gate 30 — Das Feuer des Wollens",
+    subtitle: "Das Tor, das weiß was es will",
+    teaser: "Gate 30 treibt dich an, mehr zu wollen — aber Wollen ist nicht immer Bekommen.",
+    icon: "🔥",
+    content: `<h2 class="content-h2">Gate 30 — Das Feuer des Wollens</h2>
+<hr class="content-divider">
+<p><strong>Gate 30 ist das Tor des Feuers — des Wollens, des Sehnens, des Erkennens.</strong></p>
+<p>Es ist Hexagramm 30 im I Ching: <strong>Li — Das Haftende</strong> (der Vogel, die Flamme, das Klebrige). In HD ist es das Tor des <em>Wollens</em> — die Kraft, die uns antreibt, mehr zu wollen.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 30 gibt dir eine <strong>klare Richtung des Wollens</strong>. Du weißt, was du willst. Du fühlst, was du willst. Du erkennst, was du willst — und was nicht.</p>
+<p>Das klingt einfach. Aber Gate 30 hat eine Schattenseite: <strong>Wollen und Bekommen sind zwei verschiedene Dinge.</strong></p>
+<p>Gate 30 definiert: Du kennst dein Feuer. Aber es ist eine Ressource, die sich selbst verbraucht, wenn sie nicht richtig eingesetzt wird.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Sucht:</strong> Gate 30 kann zur Sucht werden — nach Erfolg, nach Anerkennung, nach dem "Mehr". Das Feuer brennt, aber es heizt nicht.</p>
+<p><strong>Frustration:</strong> "Ich weiß, was ich will. Aber ich bekomme es nicht." Das ist der Kern-Frust von Gate 30.</p>
+<p><strong>Übertragung:</strong> Gate 30 will Wissen — aber es kann auch von einer Erkenntnis zur nächsten springen, ohne je stehen zu bleiben.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 30 & Typen</h3>
+<p><strong>Generatoren mit Gate 30</strong>: Die Kombination aus Sakral-Energie und dem Feuer des Wollens ist mächtig. Aber das Sakral muss entscheiden, nicht das Wollen.</p>
+<p><strong>Manifestoren mit Gate 30</strong>: Die Initiativ-Energie + das Feuer = Kraftvoll, aber auch wütend, wenn das Wollen nicht erfüllt wird.</p>
+<p><strong>Projektors mit Gate 30</strong>: Das Wollen ist da, aber die Energie fehlt. Das ist eine besondere Art von Frustration.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 30 & die emotionale Welle</h3>
+<p>Gate 30 sitzt im <strong>Solar Plexus</strong> — dem emotionalen Zentrum. Das bedeutet: Das Wollen ist <em>emotional</em>, nicht rational.</p>
+<p>Wenn du emotionale Autorität hast: Dein Wollen muss auf der emotionalen Klarheitswelle reiten. Nicht das Feuer entscheidet — die Klarheit.</p>
+<p>Wenn du keine emotionale Autorität hast: Das Wollen kann überwältigend sein. Aber du hast andere Autoritäten (Sacral, Splenic), die helfen können.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Du kannst nicht wollen, was du nicht hast. Und du kannst nicht haben, was du nicht erkennst."</em></p>
+<p>Gate 30 ist die Energie der Sehnsucht — aber Sehnsucht ist nicht dasselbe wie Bestimmung. Frage dich: <strong>Was will ich wirklich — jenseits des Feuers?</strong></p>
+<p class="next-insight" data-next="17">🔮 <strong>Nächster Insight:</strong> Gate 15 — die Extreme der Menschheit.</p>`
+  }
 ];
