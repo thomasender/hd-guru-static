@@ -769,4 +769,42 @@ export const lessons = [
 <p>Gate 30 ist die Energie der Sehnsucht — aber Sehnsucht ist nicht dasselbe wie Bestimmung. Frage dich: <strong>Was will ich wirklich — jenseits des Feuers?</strong></p>
 <p class="next-insight" data-next="17">🔮 <strong>Nächster Insight:</strong> Gate 15 — die Extreme der Menschheit.</p>`
   }
+,
+  {
+    id: 17,
+    day: 17,
+    title: "Gate 15 — Die Extreme der Menschheit",
+    subtitle: "Das Tor der Moderation und des Kosmos",
+    teaser: "Gate 15 steht für die Spannung zwischen Kleinheit und Größe — und die Kunst der Moderation.",
+    icon: "⚖️",
+    content: `<h2 class="content-h2">Gate 15 — Die Extreme der Menschheit</h2>
+<hr class="content-divider">
+<p><strong>Gate 15 ist das Tor der Modestie — oder der Extreme.</strong></p>
+<p>Es ist Hexagramm 15 im I Ching: <strong>Qian — Bescheidenheit</strong>. In HD ist es das Tor der <em>Menschlichen Extreme</em> — die Fähigkeit, sowohl die kleinste als auch die größte Form von etwas zu sehen.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 15 definiert: Die Fähigkeit, <strong>den großen Bogen zu sehen</strong> — von den Extreme der Menschheit bis zur eigenen Moderation.</p>
+<p>Gate 15 ist im G-Zentrum (Identität) verankert. Es definiert, wie du dich selbst siehst — nicht im Vergleich zu anderen, sondern im Vergleich zum Kosmos.</p>
+<p>Menschen mit Gate 15 haben eine natürliche <strong>Demut</strong>. Sie wissen, dass sie Teil von etwas Größerem sind. Das macht sie zu den besten Teamplayern — oder zu den einsamsten Menschen.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 15 & Kanal 15-10</h3>
+<p>Kanal 15-10 ("Ethik") verbindet Gate 15 mit Gate 10 (Selbst-Verhalten) durch das G-Zentrum.</p>
+<p>Das ist einer der tiefsten Kanäle in HD: <strong>Der Kanal der ethischen Selbst-Transformation</strong>.</p>
+<p>Mit 15-10: Du transformierst dich selbst durch das Verständnis der menschlichen Extreme. Du weißt, was Moderation ist, weil du die Extreme kennst.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Selbst-Erniedrigung:</strong> Gate 15 kann sich zu klein fühlen — im Vergleich zum Kosmos, zur Menschheit, zur Geschichte. "Ich bin nichts."</p>
+<p><strong>Grandiosität:</strong> Die andere Seite: "Ich bin Teil von allem." kann zu "Ich bin alles" werden. gate 15 als Flucht vor der eigenen Begrenztheit.</p>
+<p><strong>Überanpassung:</strong> Die Suche nach Moderation kann dazu führen, dass du nie ein Extreme ausprobierst — nie wirklich lebst.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 15 & HD-Typen</h3>
+<p><strong>Reflectors mit Gate 15</strong>: Die seltenste Kombination. Lunar beings, die die Extreme der Menschheit in sich spiegeln. Sie sind der Spiegel für andere.</p>
+<p><strong>Projektors mit Gate 15</strong>: Natürliche Führer, die wissen, wann Puncto ist. Die Moderation ist ihre größte Gabe — und ihre größte Herausforderung.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Sei bescheiden — nicht weil du klein bist, sondern weil du weißt, dass du Teil von etwas Größerem bist."</em></p>
+<p>Gate 15 erinnert uns: <strong>Die Extreme sind der Weg zur Moderation</strong>. Nicht das Vermeiden von Extreme — das Durchleben und Verstehen.</p>
+<p>Die Frage ist nicht: "Bin ich moderat genug?" Die Frage ist: "Kenne ich die Extreme — meine eigenen und die der Menschheit?"</p>
+<p class="next-insight" data-next="18">🔮 <strong>Nächster Insight:</strong> Gate 10 — Selbst-Verhalten.</p>`
+  }
 ];
