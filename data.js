@@ -807,4 +807,42 @@ export const lessons = [
 <p>Die Frage ist nicht: "Bin ich moderat genug?" Die Frage ist: "Kenne ich die Extreme — meine eigenen und die der Menschheit?"</p>
 <p class="next-insight" data-next="18">🔮 <strong>Nächster Insight:</strong> Gate 10 — Selbst-Verhalten.</p>`
   }
+,
+  {
+    id: 18,
+    day: 18,
+    title: "Gate 10 — Selbst-Verhalten",
+    subtitle: "Das Tor, das zeigt, wer du wirklich bist",
+    teaser: "Gate 10 bestimmt, wie du dich selbst und andere behandelst — dein Verhalten als Spiegel.",
+    icon: "🪞",
+    content: `<h2 class="content-h2">Gate 10 — Selbst-Verhalten</h2>
+<hr class="content-divider">
+<p><strong>Gate 10 ist das Tor des Selbst-Verhaltens — wie du dich selbst behandelst.</strong></p>
+<p>Es ist Hexagramm 10 im I Ching: <strong>Lu — Das Zertreten</strong>. In HD ist es das Tor, das definiert, <em>wie du gehst</em> — nicht im Sinne von Fortbewegung, sondern im Sinne von Haltung.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 10 definiert: <strong>Deine Beziehung zu dir selbst.</strong> Wie du mit dir umgehst, wenn niemand zusieht. Wie du dich selbst behandelst — mit Respekt, mit Güte, mit Härte?</p>
+<p>Menschen mit Gate 10 haben eine natürliche <strong>Integrität des Selbst</strong>. Sie können sich selbst treu bleiben — auch unter Druck. Sie haben eine "Art zu sein", die nicht verhandelbar ist.</p>
+<p>Gate 10 ist ein Übergangs-Gate — es fliesst durch das G-Zentrum und weiter zu anderen Zentren. Es ist der Weg, auf dem deine Identität sich manifestiert.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 10-20 — Der Kanal der Werte</h3>
+<p>Mit Kanal 10-20: Dein Selbst-Verhalten fliesst zur Kehle — du <strong>manifestierst deine Werte</strong> durch dein Verhalten. Was du tust, ist ein Ausdruck dessen, wer du bist.</p>
+<p>Ohne Kanal: Dein Selbst-Verhalten ist mehr intern — eine innere Haltung, nicht unbedingt nach außen sichtbar.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Selbst-Idolatrie:</strong> "Mein Weg ist der richtige Weg." Gate 10 kann zurstarren Selbstliebe werden — oder zurstarren Selbstkritik.</p>
+<p><strong>Starrheit:</strong> Das "Ich bin, wie ich bin" kann sich weigern zu wachsen. Gate 10 will nicht impressioniert sein — aber manchmal muss man es.</p>
+<p><strong>Arroganz:</strong> Die Haltung "Ich gehe meinen Weg" kann zu "Dein Weg ist falsch" werden.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 10 & HD-Typen</h3>
+<p><strong>Manifestors mit Gate 10</strong>: Ihr Selbst-Verhalten ist ihre Art zu initiieren. Sie "gehen voran" — nicht physisch, sondern energetisch.</p>
+<p><strong>Generatoren mit Gate 10</strong>: Ihr Selbst-Verhalten zeigt sich in ihrer Arbeit. Was sie tun, ist ein Ausdruck dessen, wer sie sind.</p>
+<p><strong>Projektors mit Gate 10</strong>: Ihr Selbst-Verhalten ist ihre Führung. Andere sehen, wie sie mit sich selbst umgehen — und lernen davon.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Handle so, dass du dich selbst achten kannst."</em></p>
+<p>Gate 10 ist die Basis für jede Beziehung — zu sich selbst und zu anderen. Wenn du dich selbst nicht achtest, kannst du nicht erwarten, dass andere es tun.</p>
+<p>Die Frage ist nicht: "Bin ich gut genug?" Die Frage ist: "Behandle ich mich selbst mit der Achtung, die ich verdiene?"</p>
+<p class="next-insight" data-next="19">🔮 <strong>Nächster Insight:</strong> Gate 25 — die Selbst-Liebe.</p>`
+  }
 ];
