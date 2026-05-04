@@ -845,4 +845,43 @@ export const lessons = [
 <p>Die Frage ist nicht: "Bin ich gut genug?" Die Frage ist: "Behandle ich mich selbst mit der Achtung, die ich verdiene?"</p>
 <p class="next-insight" data-next="19">🔮 <strong>Nächster Insight:</strong> Gate 25 — die Selbst-Liebe.</p>`
   }
+,
+  {
+    id: 19,
+    day: 19,
+    title: "Gate 25 — Die Selbst-Liebe",
+    subtitle: "Das Tor des Geistes, der sich selbst bootstrapt",
+    teaser: "Gate 25 ist das Tor der bedingungslosen Selbst-Liebe — nicht Ego, sondern Akzeptanz.",
+    icon: "🌿",
+    content: `<h2 class="content-h2">Gate 25 — Die Selbst-Liebe</h2>
+<hr class="content-divider">
+<p><strong>Gate 25 ist das Tor des Spirits — der bedingungslosen Selbst-Liebe.</strong></p>
+<p>Es ist Hexagramm 13 im I Ching: <strong>Tong Ren — Menschenfreundschaft</strong>. In HD ist es das Tor, das sagt: <em>"Ich liebe mich bedingungslos — nicht weil ich perfekt bin, sondern weil ich bin."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 25 definiert: <strong>Deine Fähigkeit, dich selbst zu lieben</strong> — nicht als Ego, sondern als Akzeptanz dessen, was du bist.</p>
+<p>Das ist radikales Zeug. Die meisten von uns wurden darauf trainiert, sich selbst zu bewerten — gut genug, schlau genug, erfolgreich genug. Gate 25 sagt: <strong>List dich selbst, weil du existierst.</strong></p>
+<p>Menschen mit Gate 25 haben eine natürliche Leichtigkeit. Sie verurteilen sich nicht. Sie verurteilen andere nicht. Sie wissen: Wir sind alle im selben Boot.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 25 & Kanal 25-51</h3>
+<p>Kanal 25-51 ("Der Forscher") verbindet Gate 25 mit Gate 51 (Schock). Das ist einer der intensivsten Kanäle in HD:</p>
+<p><strong>"Spirit bootstraps itself through shock"</strong> — Der Geist bootstrappt sich selbst durch Schock.</p>
+<p>Mit 25-51: Du lernst Selbst-Liebe durch Prüfung. Du wirst geschockt, verletzt, in Frage gestellt — und findest durch diese Schocks hindurch zur Selbst-Liebe.</p>
+<p>Das ist kein leichter Weg. Aber es ist ein authentischer.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Selbst-Mitleid:</strong> Gate 25 kann sich als Opfer sehen — "Ich liebe mich, aber die Welt versteht mich nicht."</p>
+<p><strong>Über-Göttlichkeit:</strong> "Ich bin Liebe." kann zum躲避 werden — statt die eigene Verletzlichkeit anzunehmen.</p>
+<p><strong>Mangel an Grenzen:</strong> Bedingungslose Liebe kann bedeuten, dass du keine Grenzen setzt. Gate 25 muss lernen: Selbst-Liebe ist nicht dasselbe wie Selbst-Aufgabe.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 25 & HD-Typen</h3>
+<p><strong>Generatoren mit Gate 25</strong>: Ihre Selbst-Liebe kommt durch Arbeit. Sie wissen, dass ihr Wert nicht von ihrer Produktivität abhängt — aber ihre Praxis zeigt es.</p>
+<p><strong>Projektors mit Gate 25</strong>: Ihre Selbst-Liebe ist ihre Führung. Wenn sie sich selbst lieben, können sie andere führen. Wenn nicht — sind sie wie Löffel ohne Griff.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Love yourself first — not because you're special, but because you're human."</em></p>
+<p>Gate 25 ist nicht narzisstisch. Es ist das Gegenteil: Es ist die Erkenntnis, dass wir alle gleich sind — begrenzt, fehlbar, und trotzdem liebenswert.</p>
+<p>Die Frage ist nicht: "Was muss ich tun, um mich zu verdienen?" Die Frage ist: "Kann ich mich jetzt, in diesem Moment, bedingungslos lieben?"</p>
+<p class="next-insight" data-next="20">🔮 <strong>Nächster Insight:</strong> Gate 38 — der Kämpfer.</p>`
+  }
 ];
