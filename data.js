@@ -921,4 +921,42 @@ export const lessons = [
 <p>Gate 38 erinnert uns: Der Kampf ist nicht das Ziel. Der Kampf ist das <em>Werkzeug</em>. Die Frage ist: <strong>Wofür kämpfst du?</strong></p>
 <p class="next-insight" data-next="21">🔮 <strong>Nächster Insight:</strong> Gate 58 — die Freude der Kritik.</p>`
   }
+,
+  {
+    id: 21,
+    day: 21,
+    title: "Gate 58 — Die Freude der Kritik",
+    subtitle: "Das Tor der Freude und der tiefen Analyse",
+    teaser: "Gate 58 gibt dir die Fähigkeit, tiefe Freude zu finden — aber auch tief zu kritisieren.",
+    icon: "🔬",
+    content: `<h2 class="content-h2">Gate 58 — Die Freude der Kritik</h2>
+<hr class="content-divider">
+<p><strong>Gate 58 ist das Tor der Freude — und der tiefsten Kritik.</strong></p>
+<p>Es ist Hexagramm 38 im I Ching: <strong>Kui — Widrigkeiten</strong>. In HD ist es das Tor, das sagt: <em>"Ich finde Freude daran, Dinge zu hinterfragen — nicht aus Zerstörung, sondern aus Liebe zur Wahrheit."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 58 definiert: <strong>Die Fähigkeit, Freude zu finden</strong> — und die Fähigkeit, Dinge zu kritisieren, die keine Freude verdienen.</p>
+<p>Menschen mit Gate 58 sind die natürlichsten <strong>Evaluatoren</strong>. Sie sehen, was nicht funktioniert — nicht um zu kritisieren, sondern um zu verbessern. gate 58 will Freude — und Kritik ist der Weg dorthin.</p>
+<p>Gate 58 im Sakral-Zentrum: Die Freude ist körperlich, nicht mental. Es ist die Freude am Leben, am Funktionieren, am Sein.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 58-18</h2>
+<p>Kanal 58-18 ("Korrektur") ist einer der wichtigsten Kanäle in HD:</p>
+<p><strong>"Judging for perfection"</strong> — gate 58 (Freude) + gate 18 (Korrektur) = Der Kanal der tiefen Korrektur. Du siehst, was nicht stimmt — und du hast die Autorität, es zu korrigieren.</p>
+<p>Mit diesem Kanal: Du bist der最高-Reviewer. Du siehst die Fehler, die andere übersehen — und du hast die Geduld, sie zu verbessern.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Pessimismus:</strong> Gate 58 kann zum ewig Unzufriedenen werden — sieht alles Negative, übersieht das Positive. "Was stimmt hier nicht?" als erste Frage.</p>
+<p><strong>Vernichtende Kritik:</strong> Die Freude an der Kritik kann zur Freude an der Zerstörung werden. gate 58 will verbessern — nicht zerstören.</p>
+<p><strong>Selbst-Kritik:</strong> Gate 58 dreht sich auch nach innen. Die Fähigkeit, sich selbst zu hinterfragen, kann zur Selbst-Verurteilung werden.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 58 & HD-Typen</h3>
+<p><strong>Generatoren mit Gate 58</strong>: Ihre Freude kommt durch Arbeit. Wenn etwas nicht funktioniert, sind sie die Ersten, die es ansprechen — und die Letzten, die aufgeben.</p>
+<p><strong>Projektors mit Gate 58</strong>: Ihre Kritik ist Führung. Aber sie müssen warten, bis sie eingeladen werden, bevor sie korrigieren — sonst werden sie als bedrohlich empfunden.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Die Freude liegt nicht im Finden des Fehlers — sie liegt im Beheben des Fehlers."</em></p>
+<p>Gate 58 erinnert uns: Kritik ist nicht destruktiv — sie ist der erste Schritt zur Freude. Die Freude kommt danach, wenn das Problem gelöst ist.</p>
+<p>Die Frage ist nicht: "Was stimmt hier nicht?" Die Frage ist: "Was könnte besser sein — und wie kommen wir dorthin?"</p>
+<p class="next-insight" data-next="22">🔮 <strong>Nächster Insight:</strong> Gate 44 — der wachsame Empfänger.</p>`
+  }
 ];
