@@ -959,4 +959,37 @@ export const lessons = [
 <p>Die Frage ist nicht: "Was stimmt hier nicht?" Die Frage ist: "Was könnte besser sein — und wie kommen wir dorthin?"</p>
 <p class="next-insight" data-next="22">🔮 <strong>Nächster Insight:</strong> Gate 44 — der wachsame Empfänger.</p>`
   }
+,
+  {
+    id: 22,
+    day: 22,
+    title: "Gate 44 — Der wachsame Empfänger",
+    subtitle: "Das Tor des Empfangens und der Wachsamkeit",
+    teaser: "Gate 44 gibt dir die Fähigkeit zu empfangen — aber nur, wenn du wachsam bist.",
+    icon: "👁️",
+    content: `<h2 class="content-h2">Gate 44 — Der wachsame Empfänger</h2>
+<hr class="content-divider">
+<p><strong>Gate 44 ist das Tor des Empfangens — und der Wachsamkeit.</strong></p>
+<p>Es ist Hexagramm 26 im I Ching: <strong>Da Chu — Zähmung des Großen</strong>. In HD ist es das Tor, das sagt: <em>"Ich empfange — aber nur, was zu mir passt."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 44 definiert: <strong>Die Fähigkeit zu empfangen</strong> — nicht passiv, sondern aktiv. Du wählst, was du empfängst. Du bist nicht offen für alles — nur für das, was für dich bestimmt ist.</p>
+<p>Menschen mit Gate 44 sind die natürlichsten <strong>Empfänger</strong>. Sie wissen, wann jemand eine Nachricht für sie hat — und wann nicht. Sie sind die-postmeister des Lebens: Nur die richtige Post wird angenommen.</p>
+<p>Gate 44 sitzt im Milz-Zentrum (Intuition, Überleben) — das Empfangen ist <em>intuitiv</em>, nicht rational. Du weißt es — aber du kannst nicht erklären, woher.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Über-Selektivität:</strong> Gate 44 kann zu paranoid werden — empfängt nicht, weil es zu wählerisch ist. Die Wachsamkeit wird zur Schikane.</p>
+<p><strong>Empfangs-Angst:</strong> "Was, wenn ich etwas Falsches empfange?" Gate 44 muss lernen: Der Empfang ist ein Risiko. Aber ohne Empfang gibt es keine Verbindung.</p>
+<p><strong>Missbrauch:</strong> Gate 44 kann manipuliert werden — wenn jemand weiß, wie man den Empfangs-Kanal "füttert", kann er den Gate-44-Menschen in die Irre führen.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 44 & Beziehungen</h3>
+<p>Gate 44 ist ein <strong>Empfangs-Zentrum für Beziehungen</strong>. Menschen mit Gate 44 sind natürlich selects — nicht weil sie snobs sind, sondern weil sie <em>wissen</em>, wer gut für sie ist.</p>
+<p>In Beziehungen: Gate 44 wartet auf das Signal. Nicht das rational Brain — das intuitive Empfangen. Wenn das Signal nicht da ist, ist nichts da.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Du kannst nicht empfangen, wenn du nicht offen bist — aber du kannst nicht offen sein, wenn du nicht weißt, was du empfangen willst."</em></p>
+<p>Gate 44 erinnert uns: Empfangen ist nicht Passivität. Es ist eine aktive Entscheidung — wachsam, selektiv, und mutig.</p>
+<p>Die Frage ist nicht: "Was kommt zu mir?" Die Frage ist: "Was lasse ich zu mir kommen?"</p>
+<p class="next-insight" data-next="23">🔮 <strong>Nächster Insight:</strong> Gate 16 — die Fähigkeiten durch Erfahrung.</p>`
+  }
 ];
