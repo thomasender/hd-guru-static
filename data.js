@@ -1068,4 +1068,38 @@ export const lessons = [
 <p>Die Frage ist nicht: "Was weißt du?" Die Frage ist: <strong>"Was weißt du, das du nicht weißt?"</strong></p>
 <p class="next-insight" data-next="25">🔮 <strong>Nächster Insight:</strong> Gate 32 — Kontinuität.</p>`
   }
+,
+  {
+    id: 25,
+    day: 25,
+    title: "Gate 32 — Kontinuität",
+    subtitle: "Das Tor der Dauer und der Erhaltung",
+    teaser: "Gate 32 gibt dir die Fähigkeit, Dinge zu erhalten — durch die Zeit hindurch.",
+    icon: "⏳",
+    content: `<h2 class="content-h2">Gate 32 — Kontinuität</h2>
+<hr class="content-divider">
+<p><strong>Gate 32 ist das Tor der Kontinuität — die Fähigkeit, durchzuhalten.</strong></p>
+<p>Es ist Hexagramm 62 im I Ching: <strong>Xiao Guo — Kleine Übertretung</strong>. In HD ist es das Tor, das sagt: <em>"Was du heute tust, gibt es morgen noch — wenn du durchhältst."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 32 definiert: <strong>Die Fähigkeit, Dinge zu erhalten</strong> — nicht durch Kraft, sondern durch Beständigkeit.</p>
+<p>Menschen mit Gate 32 sind die natürlichsten <strong>Überdauerer</strong>. Sie müssen nicht der Schnellste sein — sie müssen nur nicht aufhören. Gate 32 ist der Same, der unter dem Schnee weiterlebt.</p>
+<p>Gate 32 im Sakral-Zentrum: Die Dauer ist körperlich, nicht mental. Du hältst durch — nicht weil du willst, sondern weil dein Körper es kann.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 32-54</h3>
+<p>Kanal 32-54 ("Der Muthigen") verbindet Gate 32 mit Gate 54 (Antrieb):</p>
+<p><strong>"The driver"</strong> — Du treibst durch die Zeit, nicht weil du musst, sondern weil deine Natur es will. gate 54 = "Marrying". Die Hochzeit mit dem materiellen Leben.</p>
+<p>Mit 32-54: Du bist der Unternehmer — der durch Prüfungen und Antrieb vorankommt. Die Kombination aus Dauer (32) und Drive (54) ist das Rückgrat jeder langfristigen Unternehmung.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Stagnation:</strong> Gate 32 hält an — auch wenn es nicht mehr halten sollte. Die Dauer wird zur Trägheit.</p>
+<p><strong>Angst vor dem Ende:</strong> Gate 32 will Kontinuität — aber alles endet. Die Unfähigkeit loszulassen ist die Schatten von Gate 32.</p>
+<p><strong>Selbstgefälligkeit:</strong> "Wenn ich nur weitermache, wird es gut." Gate 32 muss lernen: Durchhalten ist nicht dasselbe wie Wachsen.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Die Zeit ist keine Spirale — sie ist ein Fluss. Du kannst nicht im selben Wasser bleiben."</em></p>
+<p>Gate 32 erinnert uns: Kontinuität ist wertvoll — aber nur, wenn sie von der richtigen Sache ist. Die Frage ist nicht, wie lange du durchhältst — sondern ob du weißt, wann es Zeit ist, loszulassen.</p>
+<p>Die Frage ist nicht: "Wie lange?" Die Frage ist: <strong>"Für was?"</strong></p>
+<p class="next-insight" data-next="26">🔮 <strong>Nächster Insight:</strong> Generatoren in der Liebe.</p>`
+  }
 ];
