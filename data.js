@@ -1102,4 +1102,38 @@ export const lessons = [
 <p>Die Frage ist nicht: "Wie lange?" Die Frage ist: <strong>"Für was?"</strong></p>
 <p class="next-insight" data-next="26">🔮 <strong>Nächster Insight:</strong> Generatoren in der Liebe.</p>`
   }
+,
+  {
+    id: 26,
+    day: 26,
+    title: "Generatoren in der Liebe",
+    subtitle: "Die Kraft der Antwort",
+    teaser: "Generatoren lieben mit dem Sakral — mit Ja oder Nein, nicht mit Worten.",
+    icon: "💛",
+    content: `<h2 class="content-h2">Generatoren in der Liebe</h2>
+<hr class="content-divider">
+<p><strong>Generatoren lieben anders.</strong></p>
+<p>Die meisten Menschen denken bei Liebe an Worte, an romantisches Reden, an emotionale Intensität. Generatoren lieben mit dem <strong>Sakral</strong> — mit dem Körper, mit der Antwort, mit dem, was sie fühlen, bevor sie denken.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Generator-Liebe</h3>
+<p>Wenn ein Generator "Ja" sagt — wirklich "Ja", aus dem Bauch — dann ist es ein kosmisches Ja. Keine Worte können es ersetzen. Das Sakral kennt die Wahrheit, die der Kopf nicht sehen kann.</p>
+<p>Wenn ein Generator "Nein" sagt — auch aus dem Bauch — dann ist es ein klares Nein. Nicht böse, nicht dramatisch. Nur: Nein. Akzeptiere es.</p>
+<p>Generatoren in der Liebe zu lesen ist einfach — wenn du weißt, wie du hinhören musst. Frage nicht: "Was denkst du?" Frage: "Was fühlst du?"</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Frustrierte Liebe:</strong> Generatoren, die nicht ihrer Strategie folgen, geben ein falsches Ja. Aus Angst, aus Pflichtgefühl, aus "es ist logisch". Dann kommt die Frustration — in der Beziehung, im Bett, im Leben.</p>
+<p><strong>Über-Sacral:</strong> Ein Generator, der nur auf sein Sakral hört und nie auf Worte, kann seine Partner verwirren. "Warum sagst du nicht einfach..." — "Weil mein Körper es nicht will."</p>
+<p><strong>Emotionale Unreife:</strong> Das Sakral ist kein emotionaler Prozessor. Generatoren, die ihre emotionale Autorität nicht verstehen, können ihre Partner mit kalten "Ja/Nein" überfordern.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Generator × emotionale Autorität</h3>
+<p>Generatoren mit emotionaler Autorität haben die <strong>goldene Kombination</strong>: Die Kraft des Sakrals + die Klarheit der emotionalen Welle.</p>
+<p>In der Liebe: Warte auf die emotionale Klarheit, bevor du eine große Entscheidung triffst. Dein Sakral sagt "Ja" oder "Nein" — aber deine emotionale Welle sagt dir, wann das Ja ein klares Ja ist.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Generator × Projektor-Partnerschaft</h3>
+<p>Die klassische HD-Beziehung: Generator + Projektor.</p>
+<p>Der Generator ist die Energie. Der Projektor ist die Führung. Der Generator antwortet — der Projektor lädt ein.</p>
+<p>Problem: Wenn der Generator nicht wartet, und der Projektor nicht eingeladen wird. Dann hat man einen Generator, der initiative (und frustriert), und einen Projektor, der draußen sitzt (und bitter).</p>
+<p>Lösung: Der Generator lernt zu warten. Der Projektor lernt, für sich zu führen — auch ohne Einladung. Erst wenn beide ihrer Strategie folgen, entsteht dieMagie.</p>
+<p class="next-insight" data-next="27">🔮 <strong>Nächster Insight:</strong> Projektors in der Liebe.</p>`
+  }
 ];
