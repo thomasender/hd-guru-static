@@ -1136,4 +1136,37 @@ export const lessons = [
 <p>Lösung: Der Generator lernt zu warten. Der Projektor lernt, für sich zu führen — auch ohne Einladung. Erst wenn beide ihrer Strategie folgen, entsteht dieMagie.</p>
 <p class="next-insight" data-next="27">🔮 <strong>Nächster Insight:</strong> Projektors in der Liebe.</p>`
   }
+,
+  {
+    id: 27,
+    day: 27,
+    title: "Projektors in der Liebe",
+    subtitle: "Die Kunst, geführt zu werden — und zu führen",
+    teaser: "Projektors lieben mit Weisheit, nicht mit Energie. Das ist ihre größte Gabe.",
+    icon: "🔵",
+    content: `<h2 class="content-h2">Projektors in der Liebe</h2>
+<hr class="content-divider">
+<p><strong>Projektors lieben mit Weisheit.</strong></p>
+<p>Das klingt erstmal kalt — aber es ist tatsächlich eine der tiefsten Formen von Liebe. Projektors haben keine endlose Energie wie Generatoren. Sie haben etwas Wertvolleres: <strong>die Fähigkeit, andere zu sehen</strong>.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Projektor-Liebe</h3>
+<p>Ein Projektor liebt nicht, indem er Energie gibt. Er liebt, indem er <em>sieht</em> — die wahre Natur seines Partners, seine Bedürfnisse, seine Ängste. Projektors sind die natürlichsten Therapeuten, Berater, Führer.</p>
+<p>Das Problem: Sie sehen alles — auch die Fehler. Und sie sind offen für alle — was bedeutet, dass sie auch von allen beeinflusst werden.</p>
+<p>Projektors müssen lernen: <strong>Nicht jeder verdient deine Führung.</strong> Warte auf die Einladung. Nicht aus Stolz — aus Selbst-Schutz.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Bitterkeit:</strong> Projektors, die nicht eingeladen werden, werden bitter. In der Liebe ist das tödlich — der Partner weiß nicht, warum du plötzlich kalt bist.</p>
+<p><strong>Über-Anpassung:</strong> Ein Projektor, der seine Führung aufdrängt, verliert sich selbst. Er wird zum Spiegel des Partners — nicht mehr领导者, sondern Follower.</p>
+<p><strong>Erschöpfung:</strong> Projektors, die so tun, als hätten sie Generator-Energie, brennen aus. In der Liebe: Der Wunsch, es allen recht zu machen, frisst dich von innen auf.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Projektor × sakrale Autorität</h3>
+<p>Projektors haben nie sakrale Autorität — sie haben kein definiertes Sakral-Zentrum. Das bedeutet: <strong>Kein "Bauchgefühl" wie ein Generator</strong>. Für Entscheidungen müssen sie auf ihre spezifische Autorität hören.</p>
+<p>In der Liebe: Frage nicht deinen Kopf (die meisten tun das). Frage deine Autorität — ob Splenic, Emotional, oder Ego.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die richtige Einladung</h3>
+<p>Für Projektors ist die Einladung alles. Eine Beziehung ohne Einladung ist wie ein Haus ohne Fundament — sie wird nicht stehen.</p>
+<p>Aber: Die Einladung muss nicht Worten kommen. Sie kommt durch Handlungen. Dein Partner zeigt dir, dass er dich will — durch das, was er tut, nicht nur durch das, was er sagt.</p>
+<p>Die Frage ist nicht: "Hat er mich eingeladen?" Die Frage ist: <strong>"Spüre ich seine Einladung?"</strong></p>
+<p class="next-insight" data-next="28">🔮 <strong>Nächster Insight:</strong> Reflectors — die lunarischen Wesen.</p>`
+  }
 ];
