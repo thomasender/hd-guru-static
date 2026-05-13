@@ -1169,4 +1169,40 @@ export const lessons = [
 <p>Die Frage ist nicht: "Hat er mich eingeladen?" Die Frage ist: <strong>"Spüre ich seine Einladung?"</strong></p>
 <p class="next-insight" data-next="28">🔮 <strong>Nächster Insight:</strong> Reflectors — die lunarischen Wesen.</p>`
   }
+,
+  {
+    id: 28,
+    day: 28,
+    title: "Reflectors — die lunarischen Wesen",
+    subtitle: "Die seltensten Menschen im Human Design",
+    teaser: "Reflectors sind der Spiegel der Menschheit. 1% der Bevölkerung. Einzigartig.",
+    icon: "🌕",
+    content: `<h2 class="content-h2">Reflectors — die lunarischen Wesen</h2>
+<hr class="content-divider">
+<p><strong>Reflectors sind die seltensten Menschen im Human Design.</strong></p>
+<p>Nur <strong>1% der Bevölkerung</strong> sind Reflectors — Menschen mit完全 offenen BodyGraph. Kein einziges definiertes Zentrum. Sie sind der reinste Kanal für das, was um sie herum passiert.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Was ein Reflector ist</h3>
+<p>Ein Reflector hat alles offen — alle 9 Zentren sind nicht definiert. Das bedeutet: Er hat <strong>keine eigene energetische Signatur</strong>. Stattdessen spiegelt er die Energie anderer Menschen, Orte, Situationen.</p>
+<p>Das klingt erstmal schwach — aber es ist eine der mächtigsten Gaben in HD. Ein Reflector kann Dinge sehen, die andere nicht sehen können. Er ist der reinste Sensor.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Reflector-Strategie: 28 Tage</h3>
+<p>Die Strategie eines Reflectors ist einzigartig: <strong>Warte 28 Tage</strong> (ein vollständiger Mondzyklus), bevor du major decisions triffst.</p>
+<p>Warum? Weil Reflectors Zeit brauchen, um zu spiegeln. Ein Tag zeigt nur eine Momentaufnahme. Erst nach 28 Tagen siehst du das wahre Bild.</p>
+<p>In der Liebe: Lass dir 28 Tage. Nicht 2 Wochen, nicht 3. 28. Dann weißt du, ob die Person — oder der Ort, oder die Situation — für dich stimmt.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Enttäuschung:</strong> Reflectors, die zu schnell urteilen, sind immer enttäuscht. Jeder Mensch, jeder Ort, hat Schattenseiten — die Reflector sieht, bevor er die ganze Person kennt.</p>
+<p><strong>Instabilität:</strong> Da alles offen ist, kann alles beeinflussen. Reflectors können sich in verschiedenen Umgebungen völlig anders fühlen — ohne zu wissen, warum.</p>
+<p><strong>Isolation:</strong> Als einzige vollständig offene Zentren sind Reflectors die einsamsten Wesen. Sie fühlen alles — aber wenige verstehen sie.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Reflectors & Gemeinschaft</h3>
+<p>Reflectors brauchen <strong>Gemeinschaft</strong> — aber die richtige. Eine Gemeinschaft, die ihre Offenheit respektiert, nicht ausnutzt. Reflectors in einer toxischen Umgebung werden toxisch reflektieren. Reflectors in einer gesunden Umgebung werden Gesundheit spiegeln.</p>
+<p>Die beste Entscheidung für einen Reflector: <strong>Wo lebe ich?</strong> Der Ort formt dich. Wähle weise.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Du bist der Mond — nicht das Licht, sondern der Reflektor des Lichts."</em></p>
+<p>Reflectors erinnern uns alle: Wir sind nicht so definiert, wie wir denken. Wir sind alle offener, als wir glauben. Die Frage ist nicht, wie definiert wir sind — sondern wie wir mit unserer Offenheit umgehen.</p>
+<p class="next-insight" data-next="29">🔮 <strong>Nächster Insight:</strong> Splenic Autorität — die leise Stimme.</p>`
+  }
 ];
