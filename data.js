@@ -1205,4 +1205,39 @@ export const lessons = [
 <p>Reflectors erinnern uns alle: Wir sind nicht so definiert, wie wir denken. Wir sind alle offener, als wir glauben. Die Frage ist nicht, wie definiert wir sind — sondern wie wir mit unserer Offenheit umgehen.</p>
 <p class="next-insight" data-next="29">🔮 <strong>Nächster Insight:</strong> Splenic Autorität — die leise Stimme.</p>`
   }
+,
+  {
+    id: 29,
+    day: 29,
+    title: "Splenic Autorität",
+    subtitle: "Die leise Stimme der Intuition",
+    teaser: "Splenic Autorität ist die intimste — aber auch die leiseste. Wer nicht hört, bereut.",
+    icon: "👃",
+    content: `<h2 class="content-h2">Splenic Autorität — Die leise Stimme</h2>
+<hr class="content-divider">
+<p><strong>Dein Milz-Zentrum weiß Dinge, die dein Gehirn nicht weiß.</strong></p>
+<p>Splenic Autorität ist eine der <strong>schnellsten</strong> Autoritäten — die Entscheidung kommt in einem Moment, nicht über Zeit. Kein Warten auf die emotionale Welle, kein Warten auf 28 Tage. Ein leises "Ja" oder "Nein" — in einem einzigen Moment.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Was Splenic Autorität fühlt</h3>
+<p>Die splenische Stimme ist <strong>leise, schnell, und körperlich</strong>. Es ist kein Gedanke — es ist ein Gefühl. Ein leichtes Plus im Körper, wenn Ja. Eine Kontraktion, wenn Nein.</p>
+<p>Die meisten Menschen lernen diese Stimme nicht zu hören — oder sie verwechseln sie mit Angst. Aber die splenische Stimme ist nicht Angst. Angst ist mental. Die Splenic ist körperlich.</p>
+<p>Der Unterschied: Angst denkt nach. Splenic weiß sofort.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Überhören:</strong> Die splenische Stimme ist so leise, dass sie leicht überhört wird. Besonders unter Stress — wenn du gerade eine Entscheidung brauchst, ist sie am schwersten zu hören.</p>
+<p><strong>Verwechslung mit Angst:</strong> Viele Menschen mit Splenic Autorität haben gelernt, die leise Angst als splenisch zu interpretieren. Aber Splenic ist nicht ängstlich — es ist intuitiv.</p>
+<p><strong>Überreaktion:</strong> Einige splenische Entscheidungen können impulsiv wirken — aber sie sind es nicht. Sie sind instant, nicht impulsiv.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Splenic & Typen</h3>
+<p>Splenic Autorität kommt bei allen Typen vor — aber sie ist am stärksten bei <strong>Projektors und Manifestors</strong>.</p>
+<p><strong>Projektors mit Splenic Autorität</strong>: Die Führung kommt intuitiv, nicht mental. Aber sie müssen warten — auf die Einladung, auf die splenische Klarheit. Zwei Ebenen des Wartens.</p>
+<p><strong>Manifestors mit Splenic Autorität</strong>: Die Initiativ-Energie + die intuitive Klarheit = mächtig. Aber Manifestors müssen informieren — die Splenic sagt nicht, wie. Nur ob.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Wie man Splenic trainiert</h3>
+<p>1. <strong>Stopp, bevor du entscheidest.</strong> Atme. Spüre in deinen Körper.</p>
+<p>2. <strong>Frage: "Fühlt sich das leicht oder schwer an?"</strong> Leicht = Ja. Schwer = Nein.</p>
+<p>3. <strong>Vertraue der ersten Antwort.</strong> Splenic ist nicht für langes Nachdenken. Wenn du zu lange wartest, kommt die mentale Angst dazwischen.</p>
+<p>Die splenische Stimme verbessert sich mit Übung. Je öfter du hörst, desto klarer wird sie.</p>
+<p class="next-insight" data-next="30">🔮 <strong>Nächster Insight:</strong> Emotionale Autorität — die Welle reiten.</p>`
+  }
 ];
