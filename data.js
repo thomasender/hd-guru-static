@@ -1240,4 +1240,42 @@ export const lessons = [
 <p>Die splenische Stimme verbessert sich mit Übung. Je öfter du hörst, desto klarer wird sie.</p>
 <p class="next-insight" data-next="30">🔮 <strong>Nächster Insight:</strong> Emotionale Autorität — die Welle reiten.</p>`
   }
+,
+  {
+    id: 30,
+    day: 30,
+    title: "Emotionale Autorität",
+    subtitle: "Die Kunst, auf der Welle zu surfen",
+    teaser: "Emotionale Autorität ist die häufigste. Und die am meisten missverstandene.",
+    icon: "🌊",
+    content: `<h2 class="content-h2">Emotionale Autorität — Die Welle reiten</h2>
+<hr class="content-divider">
+<p><strong>Emotionale Autorität ist die am häufigsten vorkommende Autorität.</strong></p>
+<p>Mehr als die Hälfte aller Menschen haben ein definiertes Solar Plexus Zentrum — und damit emotionale Autorität. Das bedeutet: <strong>Sie müssen warten</strong>, bevor sie wichtige Entscheidungen treffen. Nicht ewig — aber genug, um die emotionale Welle zu klären.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die emotionale Welle</h3>
+<p>Das Solar Plexus Zentrum ist wie ein <strong>Ozean</strong> — es hat Wellen. Hoch und Tief. Klarheit und Verwirrung. Die emotionale Autorität sagt: <strong>Warte, bis die Welle sich klärt.</strong></p>
+<p>Das bedeutet nicht, dass du in einer emotionalen Krise bist. Es bedeutet, dass du lernen musst, die Wellen zu lesen — zu wissen, wann du auf dem Gipfel der Klarheit bist, und wann du in einem emotionalen Tief steckst.</p>
+<p>Die goldene Regel: <strong>Entscheide nur, wenn du dich neutral fühlst — oder auf dem Weg nach oben.</strong> Nie auf dem Weg nach unten.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Wie man die Welle liest</h3>
+<p>1. <strong>Track dein emotionale Niveau über Zeit.</strong> Nicht was du fühlst — sondern wie hoch die Welle gerade ist.</p>
+<p>2. <strong>Warne: "Ich brauche Zeit, um das zu fühlen."</strong> Wenn jemand eine große Frage stellt, ist es okay zu sagen: "Lass mich darüber schlafen." — Aber wirklich schlafen. Mehrere Nächte.</p>
+<p>3. <strong>Vertraue der Klarheit, wenn sie kommt.</strong> Emotionale Klarheit fühlt sich an wie ein Aha — ein Moment der Gewissheit, der nicht mehr weggeht.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Emotionale Autorität & Typen</h3>
+<p><strong>Generatoren mit emotionaler Autorität</strong>: Die goldene Kombination. Sakral sagt "Ja/Nein" — aber die emotionale Welle sagt dir, wann das Ja ein volles Ja ist.</p>
+<p><strong>Projektors mit emotionaler Autorität</strong>: Eine besondere Herausforderung. Projektoren haben keine eigene Energie — und die emotionale Welle braucht Zeit. Das kann frustrierend sein.</p>
+<p><strong>Manifestors mit emotionaler Autorität</strong>: Die Initiativ-Energie + die emotionale Welle = viel Reibung. Manifestors wollen handeln — aber die Welle sagt: Warte.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Emotionale Übereilung:</strong> Wenn du entscheidest, während du auf dem emotionalen Hoch bist, wirst du später bereuen. Die Welle geht auch wieder runter.</p>
+<p><strong>Emotionale Avoidance:</strong> Wenn du nie in deine Gefühle gehen willst, wirst du nie Klarheit haben. Face the wave.</p>
+<p><strong>Emotionale Manipulation:</strong> Andere können deine emotionale Welle ausnutzen — wenn sie merken, dass du gerade hoch oder runter bist.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Du bist nicht deine Gefühle — aber deine Gefühle zeigen dir den Weg."</em></p>
+<p>Die emotionale Welle ist kein Feind. Sie ist dein Kompass — wenn du weißt, wie man sie liest.</p>
+<p class="next-insight" data-next="31">🔮 <strong>Nächster Insight:</strong> Die 9 Zentren — dein inneres Universum.</p>`
+  }
 ];
