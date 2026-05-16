@@ -1278,4 +1278,36 @@ export const lessons = [
 <p>Die emotionale Welle ist kein Feind. Sie ist dein Kompass — wenn du weißt, wie man sie liest.</p>
 <p class="next-insight" data-next="31">🔮 <strong>Nächster Insight:</strong> Die 9 Zentren — dein inneres Universum.</p>`
   }
+,
+  {
+    id: 31,
+    day: 31,
+    title: "Die 9 Zentren — dein inneres Universum",
+    subtitle: "Eine Wiederholung — aber tiefer",
+    teaser: "Die 9 Zentren sind der Kern von HD. Hier eine neue Perspektive.",
+    icon: "🔴",
+    content: `<h2 class="content-h2">Die 9 Zentren — Dein inneres Universum</h2>
+<hr class="content-divider">
+<p><strong>Die 9 Zentren sind keine abstrakten Konzepte.</strong></p>
+<p>Sie sind die energetische Architektur deines Körpers — jeder Mensch funktioniert anders, weil seine Zentren anders "verdrahtet" sind.</p>
+<p>Nach den ersten 10 Tagen hast du die Grundlagen kennengelernt. Hier eine neue Perspektive: <strong>Was bedeutet es wirklich, ein Zentrum zu öffnen?</strong></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die zwei Zustände</h3>
+<p><strong>Definiert (schwarz):</strong> Ein Zentrum, das "Hot" ist — konsistent, zuverlässig, immer da. Andere können sich auf diese Energie verlassen. Du hast eine klare, stabile Funktion.</p>
+<p><strong>Offen (rot/weiß):</strong> Ein Zentrum, das "Cold" ist — flexibel, empfänglich, sich anpassend. Nicht stabil — aber offen für alle Möglichkeiten. Die Schattenseiten sind auch da: Was auch immer durch das offene Zentrum fließt, kann dich destabilisieren.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die 3 Kategorien</h3>
+<p><strong>Motor-Zentren (Druck):</strong> Sakral, Solar Plexus, Herz, Wurzel. Diese Zentren geben dir Antrieb — oder Druck. Wenn sie definiert sind, hast du eine konstante Quelle dieser Energie.</p>
+<p><strong>Manifestations-Zentren (Kanal):</strong> Kehle, G-Zentrum. Diese Zentren sind die Türen nach außen — sie bestimmen, was du manifestieren kannst.</p>
+<p><strong>Perception-Zentren (Wahrnehmung):</strong> Kopf, Ajna, Milz. Diese Zentren nehmen wahr — aber sie urteilen nicht. Sie zeigen dir, was ist.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Was passiert, wenn ein Motor offen ist?</h3>
+<p>Das Sakral ist offen: Du hast keine endlose Energie. Du wirst müde, wenn du zu viel arbeitest. Aber: Du kannst dich erholen. Offene Sakral-Menschen sind oft empathischer — sie fühlen die Müdigkeit anderer.</p>
+<p>Das Herz ist offen: Du hast keinen konstanten Selbstwert. Du wirst von außen bestimmt — durch Erfolg, durch Anerkennung. Aber: Du kannst dich über deinen Selbstwert erheben — indem du lernst, dass er nicht von außen kommen muss.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Definiert zu sein ist kein Segen. Offen zu sein ist kein Fluch. Beides ist eine Schule."</em></p>
+<p>Die Zentren sind ein Spiegel — nicht für das, was du hast, sondern für das, was du lernen darfst.</p>
+<p class="next-insight" data-next="32">🔮 <strong>Nächster Insight:</strong> Der 7-Jahres-Zyklus — dein lebenslanges Experiment.</p>`
+  }
 ];
