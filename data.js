@@ -1310,4 +1310,41 @@ export const lessons = [
 <p>Die Zentren sind ein Spiegel — nicht für das, was du hast, sondern für das, was du lernen darfst.</p>
 <p class="next-insight" data-next="32">🔮 <strong>Nächster Insight:</strong> Der 7-Jahres-Zyklus — dein lebenslanges Experiment.</p>`
   }
+,
+  {
+    id: 32,
+    day: 32,
+    title: "Der 7-Jahres-Zyklus",
+    subtitle: "Dein lebenslanges Experiment in Phasen",
+    teaser: "HD sagt: Alle 7 Jahre veränderst du dich fundamental. Hier ist warum.",
+    icon: "🗓️",
+    content: `<h2 class="content-h2">Der 7-Jahres-Zyklus</h2>
+<hr class="content-divider">
+<p><strong>Human Design sagt: Wir durchlaufen alle 7 Jahre eine fundamentale Transformation.</strong></p>
+<p>Dieser Zyklus ist in den Genen verankert — in der biologischen Realität des Körpers. Ra Uru Hu nannte ihn den "Tag-Nacht-Zyklus" oder den "Rave-Zyklus". Alle 7 Jahre bist du ein anderer Mensch — nicht metaphorisch, sondern physisch.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die 4 Phasen</h3>
+<h4 class="content-h3">0–7: Erste Kindheit — Das fundamentale Muster</h4>
+<p>Die erste Phase des Lebens. Dein Körper formt sich, dein Design beginnt sich zu manifestieren. Das ist die Phase, in der viele HD-Merkmale sich zeigen — aber noch nicht bewusst.</p>
+<h4 class="content-h3">7–14: Zweite Kindheit — Das Design wird bewusst</h4>
+<p>Die Phase, in der du dein Design kennenlernst — durch die Schule, durch Gleichaltrige, durch die Welt. Das ist die Phase der Prägung — was du jetzt lernst, formt deine Persönlichkeit.</p>
+<h4 class="content-h3">14–21: Adolescence — Die Transformation</h4>
+<p>Die wildeste Phase. Dein Körper verändert sich, dein Geist verändert sich. Die erste wichtige Öffnung — du beginnst, über die Familie hinauszudenken.</p>
+<h4 class="content-h3">21–28: Junge Erwachsenheit — Die Strategie</h4>
+<p>Die Phase, in der du lernst, nach deiner Strategie zu leben. Oder nicht. Die meisten Menschen beginnen jetzt, ihren Platz in der Welt zu finden.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Nach 28</h3>
+<p>Nach 28 beginnt ein neuer Zyklus — aber diesmal bewusst. Du kannst jetzt entscheiden: <strong>Folge ich meiner Strategie — oder meiner Gewohnheit?</strong></p>
+<p>Mit 35–42: Viele Menschen erleben eine zweite große Transformation — das "Midlife"-Update des Körpers. Mit 42–49: Eine weitere Öffnung — die Weisheit, die aus dem Leben kommt.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Was das für dich bedeutet</h3>
+<p>Dein HD-Chart verändert sich nicht — du bleibst derselbe Typ, dieselbe Autorität, dieselben Kanäle. Aber deine <strong>Beziehung</strong> zu ihnen verändert sich alle 7 Jahre.</p>
+<p>Mit 7: Du verstehst dein Design anders als mit 14. Mit 21: wieder anders. Mit 35: Die tiefste Schicht wird sichtbar.</p>
+<p>Ra sagte: <em>"Mache nicht den Fehler, dein Chart zu früh zu interpretieren. Mit 21 verstehst du es anders als mit 35."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Dein Test</h3>
+<p>Wo stehst du im Zyklus? Wenn du 28+ bist, hast du den ersten Zyklus abgeschlossen — und die Chance, bewusst in den zweiten zu gehen.</p>
+<p>Die Frage ist nicht: "Was hat sich verändert?" Die Frage ist: <strong>"Was habe ich in dieser Phase gelernt, das ich jetzt mitnehmen kann?"</strong></p>
+<p class="next-insight" data-next="33">🔮 <strong>Nächster Insight:</strong> HD und Karriere — dein Berufungsweg.</p>`
+  }
 ];
