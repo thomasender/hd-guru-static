@@ -1347,4 +1347,43 @@ export const lessons = [
 <p>Die Frage ist nicht: "Was hat sich verändert?" Die Frage ist: <strong>"Was habe ich in dieser Phase gelernt, das ich jetzt mitnehmen kann?"</strong></p>
 <p class="next-insight" data-next="33">🔮 <strong>Nächster Insight:</strong> HD und Karriere — dein Berufungsweg.</p>`
   }
+,
+  {
+    id: 33,
+    day: 33,
+    title: "HD und Karriere",
+    subtitle: "Finde den Job, der zu deinem Design passt",
+    teaser: "Dein Type bestimmt nicht deinen Job — aber wie du darin arbeitest.",
+    icon: "💼",
+    content: `<h2 class="content-h2">HD und Karriere</h2>
+<hr class="content-divider">
+<p><strong>Human Design sagt nicht: "Du bist ein Generator, also werde Tischler."</strong></p>
+<p>HD sagt: Dein Type bestimmt, <em>wie du arbeitest</em> — nicht was du tust. Ein Generator, der Musik macht, ist ein Generator — ob am Klavier oder am Computer. Ein Projektor, der führt, ist ein Projektor — ob als CEO oder als Elternteil.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Typ & Arbeitsstil</h3>
+<h4 class="content-h3">Generatoren</h4>
+<p>Du bist gebaut für <strong>lange, konsistente Arbeitssprints</strong> — nicht für 15-Minuten-Tasks. Dein Sakral braucht Flow, nicht Mikro-Management.</p>
+<p>Der beste Job für einen Generator: Etwas, das du <strong>liebst</strong>. Nicht etwas, das "Sinn macht". Dein Sakral weiß, was Flow ist — folge ihm.</p>
+<h4 class="content-h3">Manifestors</h4>
+<p>Du bist gebaut zum <strong>Initiieren</strong> — nicht zum Managen von Prozessen. Deine Stärke ist der erste Schritt, nicht der tausendste.</p>
+<p>Der beste Job für einen Manifestor: Etwas, wo du <strong>etwas Neues schaffen</strong> kannst — ein Projekt, eine Idee, eine Richtung. Nicht etwas, wo du eine Routine befolgst.</p>
+<h4 class="content-h3">Projektors</h4>
+<p>Du bist gebaut zum <strong>Führen</strong> — aber nicht zum Ausführen. Deine Stärke ist die richtige Richtung zu zeigen, nicht 12 Stunden am Stück zu arbeiten.</p>
+<p>Der beste Job für einen Projektor: Etwas, wo deine <strong>Weisheit geschätzt</strong> wird — Beratung, Führung, Strategie. Nicht etwas, wo du als "Mitarbeiter" behandelt wirst.</p>
+<h4 class="content-h3">Reflectors</h4>
+<p>Du bist gebaut zum <strong>Beurteilen</strong> — nicht zum dauerhaften Engagieren. Deine Stärke ist zu sehen, ob ein Ort, ein Team, eine Situation für dich stimmt.</p>
+<p>Der beste Job für einen Reflector: Etwas, wo du <strong>flexibel</strong> bleiben kannst — Beratung, Projektarbeit, oder die richtige Gemeinschaft, die deine Offenheit respektiert.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanäle & Karriere</h3>
+<p>Bestimmte Kanäle geben klare Hinweise auf Karriere-Talent:</p>
+<p><strong>Kanal 14-2</strong> (Exzellenz): Du hast das Auge für Details, das Teams brauchen. Qualitätssicherung, Finanzen, Handwerk.</p>
+<p><strong>Kanal 10-20</strong> (Selbst-Wert): Du lebst deine Werte durch deine Arbeit. Führung, Philosophie, Beratung.</p>
+<p><strong>Kanal 1-8</strong> (Selbst-Expression): Du schaffst Neues. Kunst, Design, Unternehmertum.</p>
+<p><strong>Kanal 3-60</strong> (Mutation): Du bist der Transformation. Du hilfst anderen durch Übergänge.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Frage</h3>
+<p>Die Frage ist nicht: "Was soll ich werden?" Die Frage ist: <strong>"Wie soll ich arbeiten?"</strong></p>
+<p>Wenn du weißt, wie du arbeitest (dein Type + deine Strategie), kannst du jeden Job so gestalten, dass er zu dir passt.</p>
+<p class="next-insight" data-next="34">🔮 <strong>Nächster Insight:</strong> HD und Gesundheit — höre auf deinen Körper.</p>`
+  }
 ];
