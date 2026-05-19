@@ -1386,4 +1386,43 @@ export const lessons = [
 <p>Wenn du weißt, wie du arbeitest (dein Type + deine Strategie), kannst du jeden Job so gestalten, dass er zu dir passt.</p>
 <p class="next-insight" data-next="34">🔮 <strong>Nächster Insight:</strong> HD und Gesundheit — höre auf deinen Körper.</p>`
   }
+,
+  {
+    id: 34,
+    day: 34,
+    title: "HD und Gesundheit",
+    subtitle: "Dein Körper weiß, was er braucht",
+    teaser: "Die 9 Zentren haben eine direkte Verbindung zu deiner Gesundheit. Hier ist wie.",
+    icon: "🫀",
+    content: `<h2 class="content-h2">HD und Gesundheit</h2>
+<hr class="content-divider">
+<p><strong>Jedes Zentrum hat eine bio-elektrische Funktion — und damit eine Verbindung zu deiner Gesundheit.</strong></p>
+<p>Human Design ist keine Medizin — aber es ist ein Spiegel, der dir zeigt, wo dein Körper besonders empfindlich ist, und wie du ihn am besten unterstützt.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Zentren & Gesundheit</h3>
+<h4 class="content-h3">Sakral-Zentrum</h4>
+<p><strong>Definiert:</strong> Unerschöpfliche Energie — aber nur, wenn du in deiner Spur bist. Außerhalb deiner Spur: Erschöpfung, Burnout.</p>
+<p><strong>Offen:</strong> Anfällig für Erschöpfung. Du musst aktiv regenerieren — Schlaf, Pausen, gesunde Ernährung. Dein Körper ist wie ein Schwamm — er saugt die Müdigkeit anderer auf.</p>
+<h4 class="content-h3">Wurzel-Zentrum</h4>
+<p><strong>Definiert:</strong> Ständiger innerer Druck — der treibt dich an, aber kann auch Stress erzeugen. Das Adrenalin ist dein Kraftstoff, aber auch dein Gift.</p>
+<p><strong>Offen:</strong> Empfindlich gegen Stress. Du wirst unter Druck destabilisiert — was sich als Angst, Unruhe oder Überlastung zeigt.</p>
+<h4 class="content-h3">Herz-Zentrum</h4>
+<p><strong>Definiert:</strong> Starker Selbstwert — aber auch starke Egodynamik. Das Herz ist physisch und energetisch eng mit Stress verbunden.</p>
+<p><strong>Offen:</strong> Anfällig für Selbstwert-Themen. Der Kampf "Bin ich gut genug?" manifestiert sich physisch — oft im Herzen oder im Immunsystem.</p>
+<h4 class="content-h3">Solar Plexus</h4>
+<p><strong>Definiert:</strong> Emotionale Wellen — die können dich umhauen, wenn du sie nicht verstehst. Das Bauchgefühl ist dein Kompass, aber auch dein Risikofaktor.</p>
+<p><strong>Offen:</strong> Empathische Kapazität — du fühlst alle Emotionen. Aber auch anfällig für emotionale Überlastung, Übelkeit, Verdauungsprobleme.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Not-Self-Krankheiten</h3>
+<p>Ra sagte: <strong>Jede Krankheit beginnt als Not-Self-Thema.</strong> Wenn du nicht deiner Strategie folgst, manifestiert sich der Stress im Körper.</p>
+<p>Generator: Frustration → Erschöpfung, Muskelprobleme</p>
+<p>Manifestor: Wut → Entzündungen, Leber, Galle</p>
+<p>Projektor: Bitterkeit → Verdauung, Gewicht, Einsamkeit</p>
+<p>Reflector: Enttäuschung → Immune system, Müdigkeit</p>
+<hr class="content-divider">
+<h3 class="content-h2">Dein Körper als Experiment</h3>
+<p>HD sagt nicht: "Esse dies, nicht das." Es sagt: <strong>Beobachte, wie dein Körper auf verschiedene Dinge reagiert.</strong> Was gibt dir Energie? Was nimmt sie?</p>
+<p>Dein Sakral (wenn definiert) ist der beste Indikator: Wenn du nach dem Essen müde wirst — war es das Falsche. Wenn du voller Energie bist — war es richtig.</p>
+<p class="next-insight" data-next="35">🔮 <strong>Nächster Insight:</strong> Ra Uru Hus Chart — der Mann hinter HD.</p>`
+  }
 ];
