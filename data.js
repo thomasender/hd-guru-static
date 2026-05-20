@@ -1425,4 +1425,40 @@ export const lessons = [
 <p>Dein Sakral (wenn definiert) ist der beste Indikator: Wenn du nach dem Essen müde wirst — war es das Falsche. Wenn du voller Energie bist — war es richtig.</p>
 <p class="next-insight" data-next="35">🔮 <strong>Nächster Insight:</strong> Ra Uru Hus Chart — der Mann hinter HD.</p>`
   }
+,
+  {
+    id: 35,
+    day: 35,
+    title: "Ra Uru Hus Chart",
+    subtitle: "Der Mann hinter dem System",
+    teaser: "Ra Uru Hu's Human Design Chart ist einzigartig — und es erklärt alles über ihn.",
+    icon: "👤",
+    content: `<h2 class="content-h2">Ra Uru Hus Chart</h2>
+<hr class="content-divider">
+<p><strong>Robert Kruglak, bekannt als Ra Uru Hu, wurde am 15. Juni 1948 um 11:11 Uhr in Toronto, Kanada geboren.</strong></p>
+<p>Sein Chart ist einer der am meisten studierten in der HD-Geschichte — nicht nur, weil er der Gründer war, sondern weil es eine <strong>perfekte Synthese</strong> zeigt: ein Mensch, der die gesamte Bandbreite des Systems in sich trug.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Ra's Typ</h3>
+<p>Ra war ein <strong>Manifesting Generator</strong> — mit einem definierten Sakral-Zentrum und der Fähigkeit zu initiieren. Aber er war kein typischer Manifestor (8% der Bevölkerung). Er war einer der seltenen Manifesting Generatoren — 20% der Generatoren, aber mit der Initiativ-Qualität eines Manifestors.</p>
+<p>Seine Strategie: Informiere (wie ein Manifestor) — nicht weil er es musste, sondern weil er wusste, dass seine Initiativ-Energie andere überraschen konnte.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Ra's Profile</h3>
+<p>Ra's Profil war <strong>6/2</strong> — der Role Model / Hermit.</p>
+<p>Profile 6 ist einer der tiefsten Profile: Die dritte Linie (Martyr) + dritte Linie (Martyr) in einer anderen Form. Die 6 ist der Rollenmodell — aber nicht in der ersten Hälfte des Lebens. Profile 6 durchläuft drei Phasen:</p>
+<p>1. <strong>Phase 1 (bis ~30):</strong> Trial and Error —Experimentieren, Scheitern, Lernen.</p>
+<p>2. <strong>Phase 2 (30-50):</strong> Lernen von anderen —Mentoren, Lehrer, Weisheit.</p>
+<p>3. <strong>Phase 3 (50+):</strong> Das Rollenmodell —jetzt zeigst du anderen, ohne es zu versuchen.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Ra's Autorität</h3>
+<p>Ra hatte <strong>emotionale Autorität</strong> — er musste auf seiner emotionalen Welle surfen, bevor er Entscheidungen traf. Das erklärt vielleicht seine 8-stündige "Download"-Erfahrung — er war auf dem emotionalen Höhepunkt seiner Welle, als das Wissen kam.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Ra's Channels</h3>
+<p>Ra's Chart zeigte mehrere tiefe Kanäle, darunter <strong>Kanal 16-48</strong> (Skills to Wisdom) — der Kanal des tiefen Wissens, der durch Erfahrung kommt. Passend für jemanden, der ein ganzes System aus einer einzigen Erfahrung destillierte.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion von Ra</h3>
+<p>Ra war kein perfekter HD-Typ. Er war ein Mensch, der das System durch seine eigene Existenz validierte — nicht durch Perfektion.</p>
+<p>Er starb im April 2021 — aber sein System bleibt. Die Frage ist nicht, ob er fehlerlos lebte. Die Frage ist: <strong>Hat das System, das er brachte, für dich funktioniert?</strong></p>
+<p>Das Experiment läuft weiter.</p>
+<p class="next-insight" data-next="36">🔮 <strong>Nächster Insight:</strong> Gate 49 — die Revolution der Prinzipien.</p>`
+  }
 ];
