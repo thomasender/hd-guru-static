@@ -27,6 +27,13 @@
 
     <link rel="stylesheet" href="styles.css" />
 
+    <!-- Pageview counter -->
+    <script>
+      fetch('/.netlify/functions/pageviews')
+        .then(r => r.json())
+        .catch(() => {});
+    </script>
+
     <!-- Structured Data -->
     <script type="application/ld+json">
     {
