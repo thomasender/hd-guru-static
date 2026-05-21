@@ -1461,4 +1461,37 @@ export const lessons = [
 <p>Das Experiment läuft weiter.</p>
 <p class="next-insight" data-next="36">🔮 <strong>Nächster Insight:</strong> Gate 49 — die Revolution der Prinzipien.</p>`
   }
+,
+  {
+    id: 36,
+    day: 36,
+    title: "Gate 49 — Die Revolution der Prinzipien",
+    subtitle: "Das Tor der Werte und des Wandels",
+    teaser: "Gate 49 steht für die Bereitschaft, alles für seine Prinzipien zu geben — sogar sich selbst.",
+    icon: "⚡",
+    content: `<h2 class="content-h2">Gate 49 — Die Revolution der Prinzipien</h2>
+<hr class="content-divider">
+<p><strong>Gate 49 ist das Tor der Revolution — nicht der Gewalt, sondern der Werte.</strong></p>
+<p>Es ist Hexagramm 30 im I Ching: <strong>Li — Das Haftende</strong>. In HD ist es das Tor, das sagt: <em>"Es gibt Dinge, für die ich bereit bin, alles zu geben — sogar mich selbst."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 49 definiert: <strong>Deine Fähigkeit, für deine Werte zu kämpfen</strong> — nicht aus Sturheit, sondern aus tiefster Überzeugung.</p>
+<p>Menschen mit Gate 49 sind die natürlichsten <strong>Revolutionäre</strong> — nicht weil sie das System stürzen wollen, sondern weil sie wissen, wann das System nicht mehr funktioniert. gate 49 sitzt im G-Zentrum (Identität) — die Revolution beginnt mit dir.</p>
+<p>Gate 49 im Solar Plexus (Gefühl): Die Überzeugung ist emotional, nicht rational. Du fühlst, dass etwas falsch ist — bevor du es beweisen kannst.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 49-46</h3>
+<p>Kanal 49-46 ("Der Weg des Fahrzeugs") verbindet Gate 49 (Prinzipien) mit Gate 46 (Schicksal):</p>
+<p><strong>"The way of the vehicle"</strong> — Du findest deinen Weg durch die Hingabe an deine Prinzipien. gate 46 = "The Way of the Steed". Das Pferd, das seinen Reiter kennt.</p>
+<p>Mit 49-46: Du bist der, der das Richtige tut — nicht weil es einfach ist, sondern weil es richtig ist. Dein Gefährt ist dein Körper, dein Leben, deine Hingabe.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Dogma:</strong> Gate 49 kann zu starr werden — die Überzeugung wird zur Ideologie. "Mein Weg oder der Highway."</p>
+<p><strong>Selbst-Opferung:</strong> Die Bereitschaft, alles zu geben, kann zur Selbstzerstörung werden. Gate 49 muss lernen: Hingabe ist nicht dasselbe wie Selbst-Auslöschung.</p>
+<p><strong>Undurchdringlichkeit:</strong> Die Stärke der Überzeugung kann zur Unfähigkeit werden, andere Meinungen zu hören.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Sei bereit, alles für deine Prinzipien zu geben — aber nicht um den Preis deiner selbst."</em></p>
+<p>Gate 49 erinnert uns: Werte sind nicht verhandelbar — aber die Art, wie wir für sie kämpfen, kann es sein.</p>
+<p class="next-insight" data-next="37">🔮 <strong>Nächster Insight:</strong> Gate 57 — das Flüstern der Intuition.</p>`
+  }
 ];
