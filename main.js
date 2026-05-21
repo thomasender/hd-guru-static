@@ -4,6 +4,9 @@ import { lessons } from './data.js';
   'use strict';
 
   // ── State ─────────────────────────────────────────────────────────
+  const PAGE_SIZE = 10;
+  let currentPage = 1;
+  let sortOrder = 'desc'; // 'asc' | 'desc'
   let activeLessonId = null;
   let overlayPhase = 'closed'; // 'closed' | 'entering' | 'open' | 'exiting'
 
@@ -16,7 +19,120 @@ import { lessons } from './data.js';
   const overlayTitle = document.getElementById('overlay-title');
   const overlaySubtitle = document.getElementById('overlay-subtitle');
   const closeBtn = document.getElementById('overlay-close');
-  const cards = document.querySelectorAll('.card-wrapper');
+  const cardsGrid = document.getElementById('cards-grid');
+  const sortBtns = document.querySelectorAll('.sort-btn');
+  const pageInfo = document.getElementById('page-info');
+  const pageNumbers = document.getElementById('page-numbers');
+  const pagePrev = document.getElementById('page-prev');
+  const pageNext = document.getElementById('page-next');
+
+  // ── Helpers ───────────────────────────────────────────────────────
+  function getSortedLessons() {
+    return [...lessons].sort((a, b) => {
+      if (sortOrder === 'asc') return a.day - b.day;
+      return b.day - a.day;
+    });
+  }
+
+  function getTotalPages() {
+    return Math.ceil(lessons.length / PAGE_SIZE);
+  }
+
+  function getPageRange(page) {
+    const start = (page - 1) * PAGE_SIZE + 1;
+    const end = Math.min(page * PAGE_SIZE, lessons.length);
+    return `${start} – ${end} von ${lessons.length}`;
+  }
+
+  // ── Build card HTML ────────────────────────────────────────────────
+  function buildCard(lesson) {
+    return `<div class="card-wrapper" data-lesson-id="${lesson.id}">
+      <div class="card-inner">
+        <div class="card-face card-front">
+          <div class="card-back-design">
+            <span class="lesson-badge">Lektion ${lesson.day}</span>
+            <span class="card-icon">${lesson.icon}</span>
+            <h2 class="card-title">${lesson.title}</h2>
+            <p class="card-subtitle">${lesson.subtitle}</p>
+            <span class="flip-hint">Tippe zum Öffnen</span>
+          </div>
+        </div>
+      </div>
+    </div>`;
+  }
+
+  // ── Render ─────────────────────────────────────────────────────────
+  function renderPage() {
+    const sorted = getSortedLessons();
+    const start = (currentPage - 1) * PAGE_SIZE;
+    const page = sorted.slice(start, start + PAGE_SIZE);
+
+    cardsGrid.innerHTML = page.map(buildCard).join('');
+
+    // Rebind card clicks
+    cardsGrid.querySelectorAll('.card-wrapper').forEach(card => {
+      card.addEventListener('click', () => {
+        const id = parseInt(card.dataset.lessonId, 10);
+        if (overlayPhase === 'closed' || overlayPhase === 'exiting') {
+          openLesson(id);
+        } else if (overlayPhase === 'open') {
+          closeOverlay();
+        }
+      });
+    });
+
+    // Page info
+    pageInfo.textContent = getPageRange(currentPage);
+
+    // Prev/Next buttons
+    pagePrev.disabled = currentPage === 1;
+    pageNext.disabled = currentPage === getTotalPages();
+
+    // Page number buttons (show window of up to 5)
+    const total = getTotalPages();
+    pageNumbers.innerHTML = '';
+    let startPage = Math.max(1, currentPage - 2);
+    let endPage = Math.min(total, startPage + 4);
+    if (endPage - startPage < 4) {
+      startPage = Math.max(1, endPage - 4);
+    }
+    for (let i = startPage; i <= endPage; i++) {
+      const btn = document.createElement('button');
+      btn.className = 'page-num-btn' + (i === currentPage ? ' active' : '');
+      btn.textContent = i;
+      btn.addEventListener('click', () => {
+        currentPage = i;
+        renderPage();
+      });
+      pageNumbers.appendChild(btn);
+    }
+  }
+
+  // ── Sort ───────────────────────────────────────────────────────────
+  sortBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      sortOrder = btn.dataset.sort;
+      sortBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentPage = 1;
+      renderPage();
+    });
+  });
+
+  // ── Pagination nav ─────────────────────────────────────────────────
+  pagePrev.addEventListener('click', () => {
+    if (currentPage > 1) {
+      currentPage--;
+      renderPage();
+    }
+  });
+
+  pageNext.addEventListener('click', () => {
+    if (currentPage < getTotalPages()) {
+      currentPage++;
+      renderPage();
+    }
+  });
 
   // ── URL helpers ──────────────────────────────────────────────────
   function setLessonUrl(lessonId) {
@@ -51,7 +167,7 @@ import { lessons } from './data.js';
     overlaySubtitle.textContent = lesson.subtitle;
     overlayContent.innerHTML = lesson.content;
 
-    // Attach next-insight handler (new: look for .next-insight-btn inside wrapper)
+    // Attach next-insight handler
     const nextBtn = overlayContent.querySelector('.next-insight-btn');
     if (nextBtn) {
       nextBtn.addEventListener('click', function (e) {
@@ -104,17 +220,6 @@ import { lessons } from './data.js';
   }
 
   // ── Event listeners ────────────────────────────────────────────────
-  cards.forEach(card => {
-    card.addEventListener('click', () => {
-      const id = parseInt(card.dataset.lessonId, 10);
-      if (overlayPhase === 'closed' || overlayPhase === 'exiting') {
-        openLesson(id);
-      } else if (overlayPhase === 'open') {
-        closeOverlay();
-      }
-    });
-  });
-
   closeBtn.addEventListener('click', closeOverlay);
 
   // Click outside card to close
@@ -145,10 +250,12 @@ import { lessons } from './data.js';
     }
   });
 
+  // ── Initial render ─────────────────────────────────────────────────
+  renderPage();
+
   // ── Auto-open from URL ─────────────────────────────────────────────
   const urlLessonId = getLessonFromUrl();
   if (urlLessonId) {
-    // Small delay so page is visible first
     setTimeout(() => openLesson(urlLessonId), 100);
   }
 
