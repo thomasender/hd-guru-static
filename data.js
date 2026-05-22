@@ -1494,4 +1494,37 @@ export const lessons = [
 <p>Gate 49 erinnert uns: Werte sind nicht verhandelbar — aber die Art, wie wir für sie kämpfen, kann es sein.</p>
 <p class="next-insight" data-next="37">🔮 <strong>Nächster Insight:</strong> Gate 57 — das Flüstern der Intuition.</p>`
   }
+,
+  {
+    id: 37,
+    day: 37,
+    title: "Gate 57 — das Flüstern der Intuition",
+    subtitle: "Das Tor der intuitiven Heilung",
+    teaser: "Gate 57 gibt dir Zugang zu einer Heilung, die jenseits von Worten liegt.",
+    icon: "🦋",
+    content: `<h2 class="content-h2">Gate 57 — Das Flüstern der Intuition</h2>
+<hr class="content-divider">
+<p><strong>Gate 57 ist das Tor der intuitiven Wahrnehmung — das Ohr, das hört, was nicht gesagt wird.</strong></p>
+<p>Es ist Hexagramm 41 im I Ching: <strong>Sun — Reduktion</strong>. In HD ist es das Tor, das unsconnectet mit dem, was unter der Oberfläche liegt — die subtile Vibration, die wir "Bauchgefühl" nennen.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 57 definiert: <strong>Deine Fähigkeit, intuitiv zu wahrnehmen</strong> — nicht durch Denken, sondern durch Spüren.</p>
+<p>Menschen mit Gate 57 sind die natürlichsten <strong>Heiler</strong> — nicht durch Worte oder Techniken, sondern durch ihre pure Präsenz. Sie spüren, was andere brauchen, bevor es ausgesprochen wird.</p>
+<p>Gate 57 sitzt im Milz-Zentrum — die Wahrnehmung ist <strong>körperlich, nicht mental</strong>. Es ist ein Zittern in der Haut, ein Ziehen im Bauch, eine Gänsehaut. Nicht Einbildung — Information.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 57-10</h3>
+<p>Kanal 57-10 ("Intuitive Gesundheit") verbindet Gate 57 (Intuition) mit Gate 10 (Selbst-Verhalten):</p>
+<p><strong>"The intuitive path of health"</strong> — Du weißt intuitiv, was gut für dich ist. Nicht weil du es gelernt hast — weil dein Körper es weiß.</p>
+<p>Mit 57-10: Dein ganzes Leben ist ein Experiment in Selbst-Verständnis. Du lernst dich selbst durch deine Intuition — und die Intuition wird immer klarer, je mehr du ihr vertraust.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Paranoia:</strong> Die intuitive Offenheit kann sich übersetzen in "Ich spüre, dass etwas nicht stimmt" — auch wenn nichts ist. Gate 57 muss lernen zu unterscheiden zwischen echter Intuition und Angst.</p>
+<p><strong>Überempfindlichkeit:</strong> Gate 57 nimmt alles wahr — auch das, was es nicht wissen will. Die Intuition kann zur Last werden, wenn sie nicht kanalisiert wird.</p>
+<p><strong>Selbstzweifel:</strong> "Spüre ich das wirklich — oder bilde ich mir das ein?" Gate 57 muss lernen: Die Intuition ist nicht dasselbe wie die Vorstellungskraft.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 57 & Heilung</h3>
+<p>Gate 57 ist einer der stärksten Heiler-Kanäle — nicht für sich selbst, sondern für andere. Wenn du 57-10 hast, bist du ein natürlich Heilmittel — aber du heilst durch deine Präsenz, nicht durch Techniken.</p>
+<p>Das Problem: Die Welt will Heilung als Produkt — eine Pille, eine Sitzung, eine Technik. Gate 57 bietet etwas anderes: <strong>eine Verbindung zur eigenen Intuition</strong>.</p>
+<p class="next-insight" data-next="38">🔮 <strong>Nächster Insight:</strong> Gate 40 — das Alleinsein und die Erbringung.</p>`
+  }
 ];
