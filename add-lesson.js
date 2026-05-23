@@ -88,7 +88,7 @@ let htmlContent = fs.readFileSync(htmlPath, 'utf8');
 // Find the closing </div> of the cards-grid (before </main>)
 // We insert before the last card-wrapper closing div
 // Look for the last occurrence of </div> that closes a card-wrapper
-const insertMarker = '        </div>\n      </main>';
+const insertMarker = '        </div>\n\n\n        <!-- Pagination -->';
 if (!htmlContent.includes(insertMarker)) {
   console.error('Could not find insertion point in HTML!');
   process.exit(1);
