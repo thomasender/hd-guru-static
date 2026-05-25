@@ -1593,4 +1593,37 @@ export const lessons = [
 <p>Gate 20 erinnert uns: Wir haben nur jetzt. Nicht gestern, nicht morgen. Jetzt.</p>
 <p class="next-insight" data-next="40">🔮 <strong>Nächster Insight:</strong> Gate 28 — das Spiel, das gespielt werden muss.</p>`
   }
+,
+  {
+    id: 40,
+    day: 40,
+    title: "Gate 28 — das Spiel, das gespielt werden muss",
+    subtitle: "Das Tor des Schicksals und der Hingabe",
+    teaser: "Gate 28 steht für ein Spiel, das so groß ist, dass es dich ruft — ob du willst oder nicht.",
+    icon: "🎲",
+    content: `<h2 class="content-h2">Gate 28 — Das Spiel, das gespielt werden muss</h2>
+<hr class="content-divider">
+<p><strong>Gate 28 ist das Tor des Schicksals — ein Spiel, das so groß ist, dass es dich ruft.</strong></p>
+<p>Es ist Hexagramm 47 im I Ching: <strong>Dun — Unterdrückung</strong>. In HD ist es das Tor, das sagt: <em>"Es gibt ein Spiel, das auf dich wartet — ein Spiel, das so groß ist, dass es dich übersteigt. Und trotzdem musst du es spielen."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 28 definiert: <strong>Deine Fähigkeit, ein großes Spiel zu spielen</strong> — nicht für den Gewinn, sondern für das Spiel selbst.</p>
+<p>Menschen mit Gate 28 sind die natürlichsten <strong>Spieler</strong> — nicht im Sinne von Glücksspiel, sondern im Sinne von Lebensspiel. Sie wissen, dass das Leben ein Spiel ist — und sie spielen es mit vollem Einsatz.</p>
+<p>Gate 28 sitzt im G-Zentrum (Identität) — das Spiel ist keine Wahl, es ist eine Identitätsfrage. Entweder du spielst es — oder du bist nicht du selbst.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 28-38</h3>
+<p>Kanal 28-38 ("Der Spielspieler") verbindet Gate 28 (Das Spiel) mit Gate 38 (Der Kämpfer):</p>
+<p><strong>"The player"</strong> — Du kämpfst für das Spiel — nicht gegen etwas, sondern für etwas. gate 38 = "Fight for perspective". Die Kombination ist intensiv — der Kämpfer, der das Spiel spielt.</p>
+<p>Mit 28-38: Du bist der, der kämpft — aber für das Spiel, nicht gegen den Gegner. Die Intensität kommt von innen, nicht von außen.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Selbstzerstörung:</strong> Das Spiel kann zu groß werden — Gate 28, das sein eigenes Spiel spielt, kann sich selbst zerstören, wenn es nicht aufpasst.</p>
+<p><strong>Existentielle Verzweiflung:</strong> "Warum играю ich dieses Spiel?" Gate 28 muss sich immer wieder erinnern: Das Spiel hat keinen Sinn ausser dem Spielen selbst.</p>
+<p><strong>Isolation:</strong> Das große Spiel wird oft allein gespielt — andere verstehen nicht, wofür du kämpfst.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Das Leben ist ein Spiel. Nicht weil es nicht ernst ist — sondern weil es die einzige Art ist, das Schwere zu tragen."</em></p>
+<p>Gate 28 erinnert uns: Wir spielen alle ein Spiel — die Frage ist nur, ob wir es bewusst spielen oder nicht.</p>
+<p class="next-insight" data-next="41">🔮 <strong>Nächster Insight:</strong> Die 64 Gate — eine Reise durch das ganze System.</p>`
+  }
 ];
