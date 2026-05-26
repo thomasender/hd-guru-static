@@ -1626,4 +1626,36 @@ export const lessons = [
 <p>Gate 28 erinnert uns: Wir spielen alle ein Spiel — die Frage ist nur, ob wir es bewusst spielen oder nicht.</p>
 <p class="next-insight" data-next="41">🔮 <strong>Nächster Insight:</strong> Die 64 Gate — eine Reise durch das ganze System.</p>`
   }
+,
+  {
+    id: 41,
+    day: 41,
+    title: "Gate 2 — Der Empfänger",
+    subtitle: "Das Tor, das den ersten Schritt in eine neue Richtung ermöglicht",
+    teaser: "Gate 2 ist der Empfänger — nicht passiv, sondern bereit für das, was kommt.",
+    icon: "📥",
+    content: `<h2 class="content-h2">Gate 2 — Der Empfänger</h2>
+<hr class="content-divider">
+<p><strong>Gate 2 ist das Tor des Empfangens — nicht als Passivität, sondern als Vorbereitung.</strong></p>
+<p>Es ist Hexagramm 2 im I Ching: <strong>Kun — Die Aufnahmefähige</strong>. In HD ist es das Tor, das sagt: <em>"Ich bin bereit — nicht für irgendetwas, sondern für das Richtige."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 2 definiert: <strong>Deine Fähigkeit zu empfangen</strong> — nicht zu fordern, nicht zu suchen, sondern bereit zu sein, wenn das Richtige kommt.</p>
+<p>Menschen mit Gate 2 sind die natürlichsten <strong>Empfänger</strong> — nicht weil sie faul sind, sondern weil sie wissen, dass das Empfangen ein aktiver Prozess ist. gate 2 im G-Zentrum: Die Empfangs-Bereitschaft ist eine Frage der Identität — du bist der Empfänger.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 2-14</h3>
+<p>Kanal 2-14 ("Reiter") verbindet Gate 2 (Empfangen) mit Gate 14 (Besitz von Macht):</p>
+<p><strong>"The rider"</strong> — Du empfängst und bewegst dich dann — wie ein Reiter auf einem Pferd. gate 14 = "Power of Possessions". Die Kombination ist ein mächtiger Kanal — Empfangen und Halten.</p>
+<p>Mit 2-14: Du bist der, der die Macht empfängt und durch die Welt bewegt. Nicht der Begründer — der Beweger des bereits Begründeten.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Passivität:</strong> Gate 2 kann sich zurücklehnen und warten — aber das Warten kann zur Trägheit werden.</p>
+<p><strong>Abhängigkeit:</strong> "Ich warte auf das Richtige" kann zur Ausrede werden, nichts zu tun.</p>
+<p><strong>Selbstgefälligkeit:</strong> Das Empfangen ist kein Verdienst — Gate 2 muss lernen, die Gabe auch zu nutzen.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Empfangen ist nicht dasselbe wie Nehmen — aber es ist auch nicht dasselbe wie Warten."</em></p>
+<p>Gate 2 erinnert uns: Wir sind alle Empfänger — die Frage ist nur, ob wir bereit sind.</p>
+<p class="next-insight" data-next="42">🔮 <strong>Nächster Insight:</strong> HD in Beziehungen — das tiefste Experiment.</p>`
+  }
 ];
