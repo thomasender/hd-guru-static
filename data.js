@@ -1658,4 +1658,40 @@ export const lessons = [
 <p>Gate 2 erinnert uns: Wir sind alle Empfänger — die Frage ist nur, ob wir bereit sind.</p>
 <p class="next-insight" data-next="42">🔮 <strong>Nächster Insight:</strong> HD in Beziehungen — das tiefste Experiment.</p>`
   }
+,
+  {
+    id: 42,
+    day: 42,
+    title: "HD in Beziehungen",
+    subtitle: "Das tiefste Experiment",
+    teaser: "Human Design ist der beste Beziehungs-Guide, den es gibt — wenn man ihn richtig liest.",
+    icon: "💕",
+    content: `<h2 class="content-h2">HD in Beziehungen</h2>
+<hr class="content-divider">
+<p><strong>Human Design ist der beste Beziehungs-Guide, den es gibt.</strong></p>
+<p>Warum? Weil es nicht sagt, wer du sein sollst — es zeigt dir, wie du funktionierst. Und wie dein Partner funktioniert. Und was passiert, wenn ihr nicht aufpasst.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die 4 Typen in der Liebe</h3>
+<p><strong>Generatoren</strong> lieben durch Tun — sie zeigen Liebe, indem sie da sind, mitarbeiten, antworten. Ein Generator, der nicht liebt, ist einer, der nicht antwortet.</p>
+<p><strong>Manifestors</strong> lieben durch Initiieren — sie zeigen Liebe, indem sie den ersten Schritt machen. Ein Manifestor, der nicht liebt, ist einer, der nicht informiert.</p>
+<p><strong>Projektors</strong> lieben durch Sehen — sie zeigen Liebe, indem sie die wahre Natur des Partners sehen und anerkennen. Ein Projektor, der nicht liebt, ist einer, der nicht wartet.</p>
+<p><strong>Reflectors</strong> lieben durch Spiegeln — sie zeigen Liebe, indem sie den Partner in seiner ganzen Wahrheit reflektieren. Ein Reflector, der nicht liebt, ist einer, der zu schnell urteilt.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die häufigsten Beziehungs-Fehler</h3>
+<p><strong>Generator × Generator:</strong> Zwei Sakral-Energien, die nicht warten. Frust, wenn keine Antwort kommt.</p>
+<p><strong>Projektor × Projektor:</strong> Zwei, die warten — aber keiner lädt ein. Stillstand.</p>
+<p><strong>Manifestor × alle:</strong> Der Manifestor, der nicht informiert. Die Wut kommt — und die Beziehung brennt.</p>
+<p><strong>Reflector × alle:</strong> Der Reflector, der zu schnell urteilt. Enttäuschung, bevor die Wahrheit sich zeigt.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Beziehungs-Formel</h3>
+<p>Ra gab uns eine einfache Formel: <strong>"Beziehungen sind Labore."</strong></p>
+<p>Du experimentierst nicht mit Chemikalien — du experimentierst mit dir selbst. Dein Partner ist der Spiegel, der dir zeigt, wo du stehst.</p>
+<p>Die Frage ist nicht: "Ist er/sie der Richtige?" Die Frage ist: <strong>"Was zeigt mir diese Beziehung über mich selbst?"</strong></p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 12-22</h3>
+<p>Kanal 12-22 ("Der Charmeur") verbindet Gate 12 (Vorsicht) mit Gate 22 (Anmut):</p>
+<p>Einer der stärksten Beziehungs-Kanäle — Menschen mit 12-22 sind natürlich charmant, anmutig, und können durch ihre Präsenz andere in ihren Bann ziehen.</p>
+<p>Mit 12-22: Du bist der Magnet — nicht durch Willen, sondern durch Anmut. Andere werden von dir angezogen, ohne dass du es versuchst.</p>
+<p class="next-insight" data-next="43">🔮 <strong>Nächster Insight:</strong> Gate 55 — der Geist des Überflusses.</p>`
+  }
 ];
