@@ -1694,4 +1694,37 @@ export const lessons = [
 <p>Mit 12-22: Du bist der Magnet — nicht durch Willen, sondern durch Anmut. Andere werden von dir angezogen, ohne dass du es versuchst.</p>
 <p class="next-insight" data-next="43">🔮 <strong>Nächster Insight:</strong> Gate 55 — der Geist des Überflusses.</p>`
   }
+,
+  {
+    id: 43,
+    day: 43,
+    title: "Gate 55 — der Geist des Überflusses",
+    subtitle: "Das Tor des Geistes und der Fülle",
+    teaser: "Gate 55 gibt dir Zugang zu einer Fülle, die jenseits von Materie liegt.",
+    icon: "🌀",
+    content: `<h2 class="content-h2">Gate 55 — Der Geist des Überflusses</h2>
+<hr class="content-divider">
+<p><strong>Gate 55 ist das Tor des Geistes — und des Überflusses.</strong></p>
+<p>Es ist Hexagramm 37 im I Ching: <strong>Jia Ren — Familie</strong>. In HD ist es das Tor, das sagt: <em>"Der Geist ist reicher als die Materie — und wenn du das weißt, öffnest du die Tür zum Überfluss."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 55 definiert: <strong>Deinen Zugang zum Geist</strong> — nicht als Konzept, sondern als Realität.</p>
+<p>Menschen mit Gate 55 sind die natürlichsten <strong>Geist-reichen</strong> — nicht weil sie intelligenter sind, sondern weil sie eine Verbindung zum Geist haben, die andere nicht haben.</p>
+<p>Gate 55 im Solar Plexus: Der Geist manifestiert sich durch Emotionen — eine Emotion, die über das Normale hinausgeht, eine Freude, die nicht von außen kommt.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 55-39</h3>
+<p>Kanal 55-39 ("Provokation") verbindet Gate 55 (Geist) mit Gate 39 (Provokation):</p>
+<p><strong>"The provocateur"</strong> — Du provozierst durch deinen Geist. gate 39 = "The Provocateur". Die Kombination ist intensiv — der Geist, der andere in Bewegung setzt, indem er sie provoziert.</p>
+<p>Mit 55-39: Du bist der Anstifter — nicht durch Aggression, sondern durch Inspiration. Dein Geist bringt andere dazu, aufzuwachen.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Geist-Sucht:</strong> Gate 55 kann süchtig nach dem Geist-Erlebnis werden — die Suche nach dem "High" kann zur Vermeidung des Lebens werden.</p>
+<p><strong>Abgehobenheit:</strong> Der Geist ist reicher als die Materie — aber wir leben in der Materie. Gate 55 muss lernen, beides zuBalanceieren.</p>
+<p><strong>Emotionale Instabilität:</strong> Gate 55 im Solar Plexus kann intensive emotionale Höhen und Tiefen bedeuten — der Geist ist nicht stabil.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Der Geist ist eine Ressource — nicht das Ziel. Das Ziel ist, den Geist zu nutzen, um in der Welt zu leben."</em></p>
+<p>Gate 55 erinnert uns: Wir sind mehr als Materie — aber wir sind nicht weniger.</p>
+<p class="next-insight" data-next="44">🔮 <strong>Nächster Insight:</strong> Gate 61 — das innere Geheimnis.</p>`
+  }
 ];
