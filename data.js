@@ -1727,4 +1727,37 @@ export const lessons = [
 <p>Gate 55 erinnert uns: Wir sind mehr als Materie — aber wir sind nicht weniger.</p>
 <p class="next-insight" data-next="44">🔮 <strong>Nächster Insight:</strong> Gate 61 — das innere Geheimnis.</p>`
   }
+,
+  {
+    id: 44,
+    day: 44,
+    title: "Gate 61 — das innere Geheimnis",
+    subtitle: "Das Tor der inneren Wahrheit und des metaphysischen Wissens",
+    teaser: "Gate 61 ist das Tor zur inneren Wahrheit — das Wissen, das nicht von dieser Welt ist.",
+    icon: "🔮",
+    content: `<h2 class="content-h2">Gate 61 — Das innere Geheimnis</h2>
+<hr class="content-divider">
+<p><strong>Gate 61 ist das Tor der inneren Wahrheit — das Wissen, das nicht von dieser Welt kommt.</strong></p>
+<p>Es ist Hexagramm 61 im I Ching: <strong>Zhong Fu — Innerliche Wahrheit</strong>. In HD ist es das Tor, das sagt: <em>"Es gibt eine Wahrheit in mir, die tiefer geht als alles, was ich wissen kann — und diese Wahrheit ist real."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 61 definiert: <strong>Deinen Zugang zur inneren Wahrheit</strong> — nicht als Glaube, sondern als Wissen.</p>
+<p>Menschen mit Gate 61 sind die natürlichsten <strong>Mystiker</strong> — nicht weil sie es suchen, sondern weil sie es <em>haben</em>. Eine Gewissheit, die nicht von dieser Welt stammt.</p>
+<p>Gate 61 sitzt im G-Zentrum (Identität) — die innere Wahrheit ist keine Meinung, sie ist Identität. Du bist diese Wahrheit — nicht weil du sie verstehst, sondern weil du sie bist.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 61-24</h3>
+<p>Kanal 61-24 ("Der Denker") verbindet Gate 61 (innere Wahrheit) mit Gate 24 (Rationalisierung):</p>
+<p><strong>"The thinker"</strong> — Du denkst — aber das Denken kommt von der inneren Wahrheit. gate 24 = "Rationalizing". Die Kombination ist komplex — der Geist, der die tiefste Wahrheit rationalisieren will.</p>
+<p>Mit 61-24: Du bist der, der die Wahrheit denkt — aber die Wahrheit ist zu groß für den Kopf. Du musst lernen, sie zu fühlen, nicht nur zu denken.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Arroganz:</strong> "Ich weiß die Wahrheit" kann zur Überheblichkeit werden — die andere Meinungen nicht zulässt.</p>
+<p><strong>Selbsttäuschung:</strong> Gate 61 kann sich selbst täuschen — die "innere Wahrheit" kann zur Ideologie werden.</p>
+<p><strong>Isolation:</strong> Die tiefste Wahrheit kann einsam machen — niemand versteht, was du weißt.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 61 & Meditation</h3>
+<p>Gate 61 ist einer der stärksten Gates für stille Praktiken — Meditation, Kontemplation, Gebet. Menschen mit Gate 61 finden in der Stille nicht Leere, sondern Fülle.</p>
+<p>Die Empfehlung: Mehr Stille. Nicht weil die Welt zu laut ist — sondern weil die Wahrheit in der Stille spricht.</p>
+<p class="next-insight" data-next="45">🔮 <strong>Nächster Insight:</strong> Gate 63 — die Wahrheit der Gegenwart.</p>`
+  }
 ];
