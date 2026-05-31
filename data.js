@@ -1793,4 +1793,31 @@ export const lessons = [
 <p>Gate 63 erinnert uns: Der Zweifel ist keine Schwäche — er ist der erste Schritt zur Erkenntnis.</p>
 <p class="next-insight" data-next="46">🔮 <strong>Nächster Insight:</strong> Gate 64 — die Verwirrung vor der Erleuchtung.</p>`
   }
+,
+  {
+    id: 46,
+    day: 46,
+    title: "Gate 64 — die Verwirrung vor der Erleuchtung",
+    subtitle: "Das Tor der Fülle und des Übergangs",
+    teaser: "Gate 64 steht für die letzte Hürde vor der Klarheit — die Verwirrung, die alles verändert.",
+    icon: "🌊",
+    content: `<h2 class="content-h2">Gate 64 — Die Verwirrung vor der Erleuchtung</h2>
+<hr class="content-divider">
+<p><strong>Gate 64 ist das Tor der Fülle — und der Verwirrung, die vor der Klarheit kommt.</strong></p>
+<p>Es ist Hexagramm 64 im I Ching: <strong>Wei Ji — Vor der Vollendung</strong>. In HD ist es das Tor, das sagt: <em>"Du bist fast da — aber fast zählt nicht. Die letzte Meile ist die schwerste."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 64 definiert: <strong>Die Fähigkeit, in der Verwirrung zu bleiben</strong> — bis die Klarheit kommt.</p>
+<p>Menschen mit Gate 64 sind die natürlichsten <strong>Übergänger</strong> — sie leben in dem Raum zwischen der alten Ordnung und der neuen. gate 64 sitzt im G-Zentrum (Identität) — die Verwirrung ist eine Identitätskrise.</p>
+<p>Gate 64 ist das letzte Gate im I Ching — das letzte Hexagramm, das "Vor der Vollendung" bedeutet. Es ist der Moment, bevor alles zusammenkommt — und oft der Moment der größten Dunkelheit.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 64 & die Not-Self</h3>
+<p>Gate 64 Not-Self: <strong>Verwirrung ohne Erleuchtung</strong> — der endlose Zustand der Unklarheit, ohne dass je Klarheit kommt.</p>
+<p>Das passiert, wenn Gate 64 nicht von einem Kanal unterstützt wird. Dann ist die Verwirrung nicht der Weg zur Erleuchtung — sie ist der Zustand selbst.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Bevor die Erleuchtung kommt die Dunkelheit. Aber die Dunkelheit ist nicht das Ende — sie ist der Übergang."</em></p>
+<p>Gate 64 erinnert uns: Manchmal musst du durch die Nacht gehen, um den Tag zu erreichen.</p>
+<p class="next-insight" data-next="47">🔮 <strong>Nächster Insight:</strong> Gate 56 — der Strom der Kultur.</p>`
+  }
 ];
