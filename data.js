@@ -1853,4 +1853,36 @@ export const lessons = [
 <p>Gate 56 erinnert uns: Wir sind alle Geschichten — und die beste Version ist die, die wir selbst leben.</p>
 <p class="next-insight" data-next="48">🔮 <strong>Nächster Insight:</strong> Gate 17 — die Meinung und ihre Kraft.</p>`
   }
+,
+  {
+    id: 48,
+    day: 48,
+    title: "Gate 17 — die Meinung und ihre Kraft",
+    subtitle: "Das Tor der Meinung, die andere trägt",
+    teaser: "Gate 17 steht für die Meinung — und die Verantwortung, die sie mit sich bringt.",
+    icon: "🗣️",
+    content: `<h2 class="content-h2">Gate 17 — Die Meinung und ihre Kraft</h2>
+<hr class="content-divider">
+<p><strong>Gate 17 ist das Tor der Meinung — nicht als Überzeugung, sondern als Wegweiser.</strong></p>
+<p>Es ist Hexagramm 6 im I Ching: <strong>Song — Streit</strong>. In HD ist es das Tor, das sagt: <em>"Meine Meinung ist keine Meinung — sie ist ein Wegweiser für andere."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 17 definiert: <strong>Deine Fähigkeit, Meinungen zu haben</strong> — die andere tragen und orientieren.</p>
+<p>Menschen mit Gate 17 sind die natürlichsten <strong>Meinungsführer</strong> — nicht weil sie recht haben, sondern weil sie eine Meinung haben, die anderen hilft. gate 17 sitzt im Ajna-Zentrum (Konzepte) — die Meinung ist mental, nicht emotional.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 17-62</h3>
+<p>Kanal 17-62 ("Der Form-Dienst") verbindet Gate 17 (Meinung) mit Gate 62 (Details):</p>
+<p><strong>"The service of form"</strong> — Die Meinung, die sich um Details kümmert. gate 62 = "The Details". Die Kombination ist präzise — die Meinung, die auf Fakten basiert.</p>
+<p>Mit 17-62: Du gibst Meinungen — nicht als Ideologie, sondern als präzise Analyse. Andere verlassen sich auf deine Einschätzung, weil sie fundiert ist.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Dogma:</strong> Gate 17 kann zur Ideologie werden — die Meinung, die sich weigert, sich zu ändern.</p>
+<p><strong>Arroganz:</strong> "Ich habe recht" kann zur Überheblichkeit werden — die andere Meinungen nicht zulässt.</p>
+<p><strong>Schuld:</strong> Die Verantwortung für die eigene Meinung kann zur Last werden — was wenn ich falsch liege?</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Meine Meinung ist ein Wegweiser — nicht ein Gesetz. Der Wanderer entscheidet, welchen Weg er nimmt."</em></p>
+<p>Gate 17 erinnert uns: Eine Meinung zu haben ist eine Verantwortung — nicht ein Recht.</p>
+<p class="next-insight" data-next="49">🔮 <strong>Nächster Insight:</strong> Gate 3 — das Chaos, das Ordnung schafft.</p>`
+  }
 ];
