@@ -1885,4 +1885,37 @@ export const lessons = [
 <p>Gate 17 erinnert uns: Eine Meinung zu haben ist eine Verantwortung — nicht ein Recht.</p>
 <p class="next-insight" data-next="49">🔮 <strong>Nächster Insight:</strong> Gate 3 — das Chaos, das Ordnung schafft.</p>`
   }
+,
+  {
+    id: 49,
+    day: 49,
+    title: "Gate 3 — das Chaos, das Ordnung schafft",
+    subtitle: "Das Tor der Anfänge und des Experiments",
+    teaser: "Gate 3 steht für das Chaos vor der Ordnung — und die Notwendigkeit, es zu durchlaufen.",
+    icon: "🌀",
+    content: `<h2 class="content-h2">Gate 3 — Das Chaos, das Ordnung schafft</h2>
+<hr class="content-divider">
+<p><strong>Gate 3 ist das Tor des Anfangs — und des Experiments.</strong></p>
+<p>Es ist Hexagramm 3 im I Ching: <strong>Meng — Anfangsschwierigkeiten</strong>. In HD ist es das Tor, das sagt: <em>"Alles beginnt im Chaos. Und das ist gut so. Denn ohne Chaos gibt es keine Schöpfung."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 3 definiert: <strong>Deine Fähigkeit, durch das Chaos zu navigieren</strong> — und dabei Ordnung zu finden.</p>
+<p>Menschen mit Gate 3 sind die natürlichsten <strong>Experimentierer</strong> — nicht weil sie gut planen können, sondern weil sie wissen, dass der erste Schritt immer in die falsche Richtung geht.</p>
+<p>Gate 3 ist der erste Schritt — nicht der letzte. Es ist das Tor, das sagt: <em>"Fang an. Der Rest kommt durch das Gehen."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 3-60</h3>
+<p>Kanal 3-60 ("Der Mutation") verbindet Gate 3 (Chaos) mit Gate 60 (Schwelle):</p>
+<p><strong>"The mutation"</strong> — Das Chaos, das zur Mutation führt. gate 60 = "The Liminal". Die Kombination ist tief — der Prozess, bei dem etwas Altes stirbt und etwas Neues geboren wird.</p>
+<p>Mit 3-60: Du bist der Transformer — nicht durch Sanftheit, sondern durch das Durchleben des Chaos. Du weißt, dass die Verwandlung schmerzhaft ist — und gehst trotzdem.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Chaos-Sucht:</strong> Gate 3 kann süchtig nach dem Anfang werden — nie zuende bringen, weil das Chaos süchtig macht.</p>
+<p><strong>Frustration:</strong> Wenn das Chaos nicht zur Ordnung führt, wird Gate 3 frustriert.</p>
+<p><strong>Überstürzung:</strong> Der erste Schritt ist wichtig — aber er muss nicht überstürzt werden.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Das Chaos ist nicht das Ende — es ist der Anfang. Und jeder Anfang ist ein Sprung ins Leere."</em></p>
+<p>Gate 3 erinnert uns: Der erste Schritt ist der schwerste — aber ohne ihn gibt es keinen Weg.</p>
+<p class="next-insight" data-next="50">🔮 <strong>Nächster Insight:</strong> Gate 36 — die Dunkelheit und das Licht.</p>`
+  }
 ];
