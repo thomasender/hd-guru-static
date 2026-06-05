@@ -1918,4 +1918,37 @@ export const lessons = [
 <p>Gate 3 erinnert uns: Der erste Schritt ist der schwerste — aber ohne ihn gibt es keinen Weg.</p>
 <p class="next-insight" data-next="50">🔮 <strong>Nächster Insight:</strong> Gate 36 — die Dunkelheit und das Licht.</p>`
   }
+,
+  {
+    id: 50,
+    day: 50,
+    title: "Gate 36 — die Dunkelheit und das Licht",
+    subtitle: "Das Tor der Krise und der Erleuchtung",
+    teaser: "Gate 36 steht für die dunkelste Stunde — und was auf der anderen Seite wartet.",
+    icon: "🌑",
+    content: `<h2 class="content-h2">Gate 36 — Die Dunkelheit und das Licht</h2>
+<hr class="content-divider">
+<p><strong>Gate 36 ist das Tor der Dunkelheit — und der Erleuchtung, die auf der anderen Seite wartet.</strong></p>
+<p>Es ist Hexagramm 36 im I Ching: <strong>Ming Yi — Erleuchtung des Dunkels</strong>. In HD ist es das Tor, das sagt: <em>"Durch die Dunkelheit kommt das Licht — aber du musst die Dunkelheit durchstehen, um es zu sehen."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 36 definiert: <strong>Deine Fähigkeit, durch die Dunkelheit zu gehen</strong> — und dabei nicht zerstört zu werden.</p>
+<p>Menschen mit Gate 36 sind die natürlichsten <strong>Durchkämpfer</strong> — nicht weil sie stärker sind, sondern weil sie wissen, dass die Dunkelheit ein Durchgangsstadium ist.</p>
+<p>Gate 36 im Solar Plexus: Die Dunkelheit ist emotional — Phasen der Hoffnungslosigkeit, der Verzweiflung, des Verlusts. Aber auf der anderen Seite: eine emotionale Klarheit, die nur durch die Dunkelheit kommt.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 36-6</h3>
+<p>Kanal 36-6 ("Der Konflikt") verbindet Gate 36 (Dunkelheit) mit Gate 6 (Konflikt):</p>
+<p><strong>"The conflict"</strong> — Der Konflikt, der durch die Dunkelheit kommt. gate 6 = "The Conflict". Die Kombination ist intensiv — der Konflikt, der nicht gelöst werden kann, sondern durchgelebt.</p>
+<p>Mit 36-6: Du bist der, der durch den Konflikt geht — nicht um ihn zu gewinnen, sondern um ihn zu erfahren.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Selbstzerstörung:</strong> Gate 36 kann sich in der Dunkelheit verlieren — die Krise, die nicht endet.</p>
+<p><strong>Drama-Sucht:</strong> Die Dunkelheit kann süchtig machen — das Drama, das die emotionale Welle hochhält.</p>
+<p><strong>Isolation:</strong> Die Dunkelheit ist am dunkelsten allein — Gate 36 muss lernen, um Hilfe zu bitten.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Es gibt keine Erleuchtung ohne Dunkelheit — und keine Dunkelheit ohne Erleuchtung."</em></p>
+<p>Gate 36 erinnert uns: Die dunkelste Stunde ist vor dem Morgengrauen.</p>
+<p class="next-insight" data-next="51">🔮 <strong>Nächster Insight:</strong> Gate 42 — die Entwicklung, die Zeit braucht.</p>`
+  }
 ];
