@@ -1982,4 +1982,36 @@ export const lessons = [
 <p>Gate 42 erinnert uns: Wir wachsen alle — aber in unserem eigenen Tempo.</p>
 <p class="next-insight" data-next="52">🔮 <strong>Nächster Insight:</strong> Gate 18 — die Korrektur des Fehlers.</p>`
   }
+,
+  {
+    id: 52,
+    day: 52,
+    title: "Gate 18 — die Korrektur des Fehlers",
+    subtitle: "Das Tor der Korrektur und der Perfektion",
+    teaser: "Gate 18 steht für die Korrektur — nicht aus Perfektionismus, sondern aus Liebe zur Wahrheit.",
+    icon: "🔧",
+    content: `<h2 class="content-h2">Gate 18 — Die Korrektur des Fehlers</h2>
+<hr class="content-divider">
+<p><strong>Gate 18 ist das Tor der Korrektur — nicht aus Perfektionismus, sondern aus Liebe.</strong></p>
+<p>Es ist Hexagramm 18 im I Ching: <strong>Gu — Arbeit am Fehlenden</strong>. In HD ist es das Tor, das sagt: <em>"Ich sehe den Fehler — nicht um zu verurteilen, sondern um zu korrigieren."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 18 definiert: <strong>Deine Fähigkeit, Fehler zu sehen</strong> — und zu wissen, wie man sie korrigiert.</p>
+<p>Menschen mit Gate 18 sind die natürlichsten <strong>Kritiker</strong> — nicht um zu zerstören, sondern um zu verbessern. gate 18 sitzt im Ajna-Zentrum (Konzepte) — die Korrektur ist mental, nicht emotional.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 18-58</h3>
+<p>Kanal 18-58 ("Korrektur") verbindet Gate 18 (Fehler) mit Gate 58 (Freude):</p>
+<p><strong>"The judge"</strong> — Du korrigierst mit Freude — nicht aus Strenge, sondern aus dem Wunsch nach Perfektion. gate 58 = "Joy". Die Kombination ist tief — die Freude an der Korrektur, nicht die Qual.</p>
+<p>Mit 18-58: Du bist der最高-Reviewer — du siehst die Fehler, und du weißt, wie man sie behebt. Aber du tust es mit Freude, nicht mit Verurteilung.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Perfektionismus:</strong> Gate 18 kann zum Perfektionisten werden — der den Fehler sucht, auch wo keiner ist.</p>
+<p><strong>Verurteilung:</strong> Die Korrektur kann zur Verurteilung werden — der Fehler wird zum Makel.</p>
+<p><strong>Selbst-Kritik:</strong> Gate 18 dreht sich auch nach innen — die Fähigkeit, eigene Fehler zu sehen, kann zur Selbstzerstörung werden.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Der Fehler ist nicht das Ende — er ist der Anfang der Korrektur. Und die Korrektur ist nicht die Strafe — sie ist die Liebe."</em></p>
+<p>Gate 18 erinnert uns: Fehler sind menschlich — aber die Korrektur ist es auch.</p>
+<p class="next-insight" data-next="53">🔮 <strong>Nächster Insight:</strong> Gate 7 — die Führung durch die Gruppe.</p>`
+  }
 ];
