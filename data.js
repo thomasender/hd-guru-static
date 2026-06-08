@@ -2014,4 +2014,36 @@ export const lessons = [
 <p>Gate 18 erinnert uns: Fehler sind menschlich — aber die Korrektur ist es auch.</p>
 <p class="next-insight" data-next="53">🔮 <strong>Nächster Insight:</strong> Gate 7 — die Führung durch die Gruppe.</p>`
   }
+,
+  {
+    id: 53,
+    day: 53,
+    title: "Gate 7 — die Führung durch die Gruppe",
+    subtitle: "Das Tor des Anführers, der die Gruppe kennt",
+    teaser: "Gate 7 steht für die Führung, die aus der Gruppe kommt — und für die Gruppe da ist.",
+    icon: "👑",
+    content: `<h2 class="content-h2">Gate 7 — Die Führung durch die Gruppe</h2>
+<hr class="content-divider">
+<p><strong>Gate 7 ist das Tor der Führung — nicht über die Gruppe, sondern mit ihr.</strong></p>
+<p>Es ist Hexagramm 7 im I Ching: <strong>Shi — Das Heer</strong>. In HD ist es das Tor, das sagt: <em>"Führung ist nicht Herrschaft — sie ist der Dienst an der Gruppe."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 7 definiert: <strong>Deine Fähigkeit, die Gruppe zu führen</strong> — nicht因为你 ist, sondern weil du in ihr bist.</p>
+<p>Menschen mit Gate 7 sind die natürlichsten <strong>Anführer</strong> — nicht weil sie es wollen, sondern weil sie wissen, wohin die Gruppe gehen muss. gate 7 sitzt im G-Zentrum (Identität) — die Führung ist eine Identitätsfrage.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 7-31</h3>
+<p>Kanal 7-31 ("Die Führung") verbindet Gate 7 (Führung) mit Gate 31 (Einfluss):</p>
+<p><strong>"The leading"</strong> — Die Führung, die Einfluss hat. gate 31 = "The Beta". Die Kombination ist kraftvoll — der Anführer, der nicht gewählt wird, sondern sich durchsetzt.</p>
+<p>Mit 7-31: Du bist der natürlich Anführer — nicht durch Titel, sondern durch Präsenz. Die Gruppe folgt dir, weil sie dir vertraut.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Machtmissbrauch:</strong> Gate 7 kann zur Tyrannei werden — die Führung, die nur für sich selbst sorgt.</p>
+<p><strong>Überidentifikation mit der Gruppe:</strong> "Ich bin die Gruppe" kann zur Selbstaufgabe führen.</p>
+<p><strong>Isolation:</strong> Der Anführer ist oft allein — Gate 7 muss lernen, diese Einsamkeit zu tragen.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Führung ist der höchste Dienst — nicht das höchste Privileg."</em></p>
+<p>Gate 7 erinnert uns: Ein Anführer ist nicht wegen seines Rechts anzuführen — sondern wegen seiner Bereitschaft, für die Gruppe da zu sein.</p>
+<p class="next-insight" data-next="54">🔮 <strong>Nächster Insight:</strong> Gate 21 — der Biss der Entscheidung.</p>`
+  }
 ];
