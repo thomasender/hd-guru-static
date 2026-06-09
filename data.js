@@ -2046,4 +2046,36 @@ export const lessons = [
 <p>Gate 7 erinnert uns: Ein Anführer ist nicht wegen seines Rechts anzuführen — sondern wegen seiner Bereitschaft, für die Gruppe da zu sein.</p>
 <p class="next-insight" data-next="54">🔮 <strong>Nächster Insight:</strong> Gate 21 — der Biss der Entscheidung.</p>`
   }
+,
+  {
+    id: 54,
+    day: 54,
+    title: "Gate 21 — der Biss der Entscheidung",
+    subtitle: "Das Tor des Jägers und der klaren Entscheidung",
+    teaser: "Gate 21 steht für die klare Entscheidung — und die Verantwortung, die sie mit sich bringt.",
+    icon: "🎯",
+    content: `<h2 class="content-h2">Gate 21 — Der Biss der Entscheidung</h2>
+<hr class="content-divider">
+<p><strong>Gate 21 ist das Tor der klaren Entscheidung — und der Verantwortung, die sie fordert.</strong></p>
+<p>Es ist Hexagramm 21 im I Ching: <strong>Shi Ke — Durchbeißen</strong>. In HD ist es das Tor, das sagt: <em>"Die Entscheidung muss klar sein — nicht weil sie einfach ist, sondern weil sie Konsequenzen hat."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 21 definiert: <strong>Deine Fähigkeit, klare Entscheidungen zu treffen</strong> — und sie durchzuziehen.</p>
+<p>Menschen mit Gate 21 sind die natürlichsten <strong>Entscheider</strong> — nicht weil sie schneller sind, sondern weil sie die Konsequenzen tragen. gate 21 sitzt in der Kehle — die Entscheidung manifestiert sich durch Handlung.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 21-45</h3>
+<p>Kanal 21-45 ("Der König") verbindet Gate 21 (klare Entscheidung) mit Gate 45 (Zusammenkunft):</p>
+<p><strong>"The king"</strong> — Der König, der entscheidet. gate 45 = "The Crown". Die Kombination ist majestätisch — die Entscheidung, die eine ganze Gruppe betrifft.</p>
+<p>Mit 21-45: Du bist der, der entscheidet — nicht für sich selbst, sondern für alle. Die Verantwortung ist groß, aber du trägst sie.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Übereilung:</strong> Gate 21 kann zu schnell entscheiden — ohne alle Informationen.</p>
+<p><strong>Willkür:</strong> "Ich habe entschieden" kann zur Tyrannei werden — die Entscheidung, die keine Begründung braucht.</p>
+<p><strong>Angst vor der Verantwortung:</strong> Gate 21, das nicht entscheiden kann, leidet unter der Last der Unentschlossenheit.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Die Entscheidung ist nicht das Ende — sie ist der Anfang. Und mit jeder Entscheidung kommt die Verantwortung."</em></p>
+<p>Gate 21 erinnert uns: Wir entscheiden jeden Tag — die Frage ist nur, ob wir es bewusst tun.</p>
+<p class="next-insight" data-next="55">🔮 <strong>Nächster Insight:</strong> Gate 13 — der Zuhörer der Geschichte.</p>`
+  }
 ];
