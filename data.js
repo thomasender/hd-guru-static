@@ -2078,4 +2078,36 @@ export const lessons = [
 <p>Gate 21 erinnert uns: Wir entscheiden jeden Tag — die Frage ist nur, ob wir es bewusst tun.</p>
 <p class="next-insight" data-next="55">🔮 <strong>Nächster Insight:</strong> Gate 13 — der Zuhörer der Geschichte.</p>`
   }
+,
+  {
+    id: 55,
+    day: 55,
+    title: "Gate 13 — der Zuhörer der Geschichte",
+    subtitle: "Das Tor des Geschichtenerzählers und der Historie",
+    teaser: "Gate 13 steht für die Geschichte — und die Verantwortung, sie richtig zu erzählen.",
+    icon: "📜",
+    content: `<h2 class="content-h2">Gate 13 — Der Zuhörer der Geschichte</h2>
+<hr class="content-divider">
+<p><strong>Gate 13 ist das Tor des Geschichtenerzählers — und des Zuhörers.</strong></p>
+<p>Es ist Hexagramm 13 im I Ching: <strong>Tong Ren — Menschenfreundschaft</strong>. In HD ist es das Tor, das sagt: <em>"Die Geschichte ist der Schlüssel — nicht um die Zukunft zu predict, sondern um die Gegenwart zu verstehen."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 13 definiert: <strong>Deine Fähigkeit, Geschichten zu hören</strong> — und sie weiterzugeben.</p>
+<p>Menschen mit Gate 13 sind die natürlichsten <strong>Geschichtenerzähler</strong> — nicht weil sie gut erzählen können, sondern weil sie gut zuhören. gate 13 sitzt im G-Zentrum (Identität) — die Geschichte formt die Identität.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 13-33</h3>
+<p>Kanal 13-33 ("Der Prophet") verbindet Gate 13 (Geschichte) mit Gate 33 (Geheimnis):</p>
+<p><strong>"The prophet"</strong> — Die Geschichte, die die Zukunft Predict. gate 33 = "The Secret". Die Kombination ist mystisch — der Geschichtenerzähler, der in die Zukunft sieht.</p>
+<p>Mit 13-33: Du bist der, der die Geschichte kennt — nicht weil du sie erfunden hast, sondern weil du sie gehört hast. Andere kommen zu dir, um die Geschichte zu verstehen.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Geschichten-Sucht:</strong> Gate 13 kann süchtig nach Geschichten werden — die Vergangenheit, die die Gegenwart überschattet.</p>
+<p><strong>Manipulation:</strong> Wer die Geschichte kontrolliert, kontrolliert die Wahrheit — Gate 13 kann zur Propaganda werden.</p>
+<p><strong>Identitätsverlust:</strong> Die Geschichte kann die eigene Identität überlagern — "Ich bin die Geschichte, die ich erzähle."</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Die Geschichte ist nicht die Wahrheit — aber sie ist der Weg zur Wahrheit."</em></p>
+<p>Gate 13 erinnert uns: Wir sind alle Geschichten — und die beste Geschichte ist die, die wir selbst schreiben.</p>
+<p class="next-insight" data-next="56">🔮 <strong>Nächster Insight:</strong> Gate 11 — die Idee, die Harmonie bringt.</p>`
+  }
 ];
