@@ -2110,4 +2110,36 @@ export const lessons = [
 <p>Gate 13 erinnert uns: Wir sind alle Geschichten — und die beste Geschichte ist die, die wir selbst schreiben.</p>
 <p class="next-insight" data-next="56">🔮 <strong>Nächster Insight:</strong> Gate 11 — die Idee, die Harmonie bringt.</p>`
   }
+,
+  {
+    id: 56,
+    day: 56,
+    title: "Gate 11 — die Idee, die Harmonie bringt",
+    subtitle: "Das Tor der Ideen und der kulturellen Inspiration",
+    teaser: "Gate 11 steht für die Idee — und die Verantwortung, sie in Harmonie zu bringen.",
+    icon: "💡",
+    content: `<h2 class="content-h2">Gate 11 — Die Idee, die Harmonie bringt</h2>
+<hr class="content-divider">
+<p><strong>Gate 11 ist das Tor der Ideen — und der kulturellen Harmonie.</strong></p>
+<p>Es ist Hexagramm 11 im I Ching: <strong>Tai — Frieden</strong>. In HD ist es das Tor, das sagt: <em>"Die Idee ist nicht genug — sie muss in Harmonie gebracht werden, um zu wirken."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 11 definiert: <strong>Deine Fähigkeit, Ideen zu haben</strong> — und sie in die Welt zu bringen.</p>
+<p>Menschen mit Gate 11 sind die natürlichsten <strong>KulturellenInnovatoren</strong> — nicht weil sie trends setzen, sondern weil sie wissen, was die Kultur braucht. gate 11 sitzt im G-Zentrum (Identität) — die Idee ist eine Identitätsfrage.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 11 & Kanal 11-56</h3>
+<p>Kanal 11-56 ("Der Reisende") verbindet Gate 11 (Idee) mit Gate 56 (Geschichte):</p>
+<p><strong>"The traveler"</strong> — Die Idee, die durch die Geschichte reist. gate 56 = "The Story". Die Kombination ist tief — der Reisende, der Ideen durch die Kultur trägt.</p>
+<p>Mit 11-56: Du bist der kulturelle Geschichtenerzähler — nicht für Fame, sondern für die Bildung. Deine Ideen sind Brücken zwischen dem, was war, und dem, was kommt.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Ideen-Sucht:</strong> Gate 11 kann süchtig nach der nächsten Idee werden — nie bei einer bleiben.</p>
+<p><strong>Realitätsflucht:</strong> Die Idee kann von der Realität abschrecken — "Die Welt ist nicht bereit für meine Idee."</p>
+<p><strong>Isolation:</strong> Die Idee, die nicht geteilt wird, bleibt einsam — Gate 11 muss lernen, die Idee loszulassen.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Die Idee ist der Same — aber die Harmonie ist die Frucht."</em></p>
+<p>Gate 11 erinnert uns: Eine Idee zu haben ist einfach — sie in Harmonie zu bringen ist die Kunst.</p>
+<p class="next-insight" data-next="57">🔮 <strong>Nächster Insight:</strong> Gate 4 — die Suche nach der Antwort.</p>`
+  }
 ];
