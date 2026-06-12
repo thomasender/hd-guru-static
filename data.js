@@ -2142,4 +2142,35 @@ export const lessons = [
 <p>Gate 11 erinnert uns: Eine Idee zu haben ist einfach — sie in Harmonie zu bringen ist die Kunst.</p>
 <p class="next-insight" data-next="57">🔮 <strong>Nächster Insight:</strong> Gate 4 — die Suche nach der Antwort.</p>`
   }
+,
+  {
+    id: 57,
+    day: 57,
+    title: "Gate 4 — die Suche nach der Antwort",
+    subtitle: "Das Tor des Geistes, der Fragen beantwortet",
+    teaser: "Gate 4 steht für die Frage — und für die Antwort, die in dir wartet.",
+    icon: "🧠",
+    content: `<h2 class="content-h2">Gate 4 — Die Suche nach der Antwort</h2>
+<hr class="content-divider">
+<p><strong>Gate 4 ist das Tor der Frage — und der Antwort, die in dir wartet.</strong></p>
+<p>Es ist Hexagramm 4 im I Ching: <strong>Meng — Jugend</strong>. In HD ist es das Tor, das sagt: <em>"Die Antwort ist nicht draussen — sie ist in dir. Und sie wartet darauf, dass du sie findest."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 4 definiert: <strong>Deine Fähigkeit, Antworten zu finden</strong> — nicht durch Suche, sondern durch Empfang.</p>
+<p>Menschen mit Gate 4 sind die natürlichsten <strong>Sucher</strong> — nicht weil sie nicht wissen, sondern weil sie wissen, dass die Antwort immer tiefer liegt. gate 4 sitzt im G-Zentrum (Identität) — die Antwort formt die Identität.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 4 & Kopf-Zentrum</h3>
+<p>Gate 4 ist oft mit dem Kopf-Zentrum verbunden — die Frage, die im Kopf entsteht, wird im G-Zentrum beantwortet.</p>
+<p>Das ist einer der tiefsten Prozesse in HD: Die Frage geht durch den Kopf, aber die Antwort kommt aus dem G-Zentrum — der Ort der Identität.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Fragen-Sucht:</strong> Gate 4 kann süchtig nach der Frage werden — nie zur Antwort kommen.</p>
+<p><strong>Abhängigkeit von externen Antworten:</strong> Die Antwort ist in dir — aber Gate 4 kann sie ausserhalb suchen.</p>
+<p><strong>Identitätskrise:</strong> Wer die Antwort nicht findet, verliert sich selbst.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Die Antwort ist nicht das Ziel — sie ist der Weg. Und die Frage ist der erste Schritt."</em></p>
+<p>Gate 4 erinnert uns: Wir sind alle Sucher — aber die Antwort ist näher als wir denken.</p>
+<p class="next-insight" data-next="58">🔮 <strong>Nächster Insight:</strong> Gate 5 — das Warten, das die Antwort bringt.</p>`
+  }
 ];
