@@ -2173,4 +2173,36 @@ export const lessons = [
 <p>Gate 4 erinnert uns: Wir sind alle Sucher — aber die Antwort ist näher als wir denken.</p>
 <p class="next-insight" data-next="58">🔮 <strong>Nächster Insight:</strong> Gate 5 — das Warten, das die Antwort bringt.</p>`
   }
+,
+  {
+    id: 58,
+    day: 58,
+    title: "Gate 5 — das Warten, das die Antwort bringt",
+    subtitle: "Das Tor der Geduld und der inneren Ruhe",
+    teaser: "Gate 5 steht für das Warten — und was auf der anderen Seite des Wartens kommt.",
+    icon: "⏳",
+    content: `<h2 class="content-h2">Gate 5 — Das Warten, das die Antwort bringt</h2>
+<hr class="content-divider">
+<p><strong>Gate 5 ist das Tor des Wartens — und der Antwort, die auf der anderen Seite kommt.</strong></p>
+<p>Es ist Hexagramm 5 im I Ching: <strong>Xu — Warten</strong>. In HD ist es das Tor, das sagt: <em>"Nicht jetzt. Aber bald. Das Warten ist nicht leer — es ist voller Vorbereitung."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 5 definiert: <strong>Deine Fähigkeit zu warten</strong> — nicht passiv, sondern vorbereitend.</p>
+<p>Menschen mit Gate 5 sind die natürlichsten <strong>Warter</strong> — nicht weil sie faul sind, sondern weil sie wissen, dass Timing alles ist. gate 5 sitzt im G-Zentrum (Identität) — das Warten ist eine Identitätsfrage.</p>
+<p>Gate 5 ist auch das Tor der <strong>Ram</strong> (Widder) — das Tier, das nicht stoppt, bis es sein Ziel erreicht. Im HD ist es die Energie, die nicht aufgibt — aber nur, wenn das Timing stimmt.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Gate 5 & Profil</h3>
+<p><strong>Profile 1/3 und 1/4</strong> (Design = Linie 1): Die Investigator-Energie + Gate 5 = Warten als Methode. Du findest die Antwort nicht durch Suchen — sondern durch geduldiges Warten.</p>
+<p><strong>Profile 2/5 und 4/5</strong> (Persönlichkeit = Linie 5): Die Transformer-Energie + Gate 5 = Die Antwort, die andere transformiert. Du wartest nicht für dich — du wartest für andere.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Passivität:</strong> Gate 5 kann das Warten zur Faulheit machen — "Ich warte, also handle ich nicht."</p>
+<p><strong>Frustration:</strong> Wenn das Warten zu lange dauert, wird Gate 5 frustriert.</p>
+<p><strong>Angst:</strong> "Was wenn die Antwort nie kommt?" Das Warten kann zur Paranoia werden.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Das Warten ist nicht das Ende — es ist der Anfang. Und wer wartet, ist nicht verloren."</em></p>
+<p>Gate 5 erinnert uns: Manchmal ist die beste Antwort die, die du nicht gesucht hast.</p>
+<p class="next-insight" data-next="59">🔮 <strong>Nächster Insight:</strong> Gate 29 — das Tao der Kommunikation.</p>`
+  }
 ];
