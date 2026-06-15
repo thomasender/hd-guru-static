@@ -2237,4 +2237,36 @@ export const lessons = [
 <p>Gate 29 erinnert uns: Manchmal ist das Schweigen die tiefste Verbindung.</p>
 <p class="next-insight" data-next="60">🔮 <strong>Nächster Insight:</strong> Gate 34 — die Macht der Sinne.</p>`
   }
+,
+  {
+    id: 60,
+    day: 60,
+    title: "Gate 34 — die Macht der Sinne",
+    subtitle: "Das Tor der kraftvollen Sinneswahrnehmung",
+    teaser: "Gate 34 steht für die rohe Kraft — und die Verantwortung, sie weise einzusetzen.",
+    icon: "💥",
+    content: `<h2 class="content-h2">Gate 34 — Die Macht der Sinne</h2>
+<hr class="content-divider">
+<p><strong>Gate 34 ist das Tor der Macht — und der Sinneswahrnehmung.</strong></p>
+<p>Es ist Hexagramm 34 im I Ching: <strong>Da Zhuang — Das Große Starke</strong>. In HD ist es das Tor, das sagt: <em>"Die Macht ist nicht das Ziel — sie ist das Werkzeug. Und die Sinne sind der Weg."</em></p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Energie</h3>
+<p>Gate 34 definiert: <strong>Deine Fähigkeit, Macht zu haben</strong> — und sie durch die Sinne zu kanalisieren.</p>
+<p>Menschen mit Gate 34 haben eine <strong>rohe, körperliche Macht</strong> — nicht durch Titel oder Position, sondern durch das, was sie sind. gate 34 ist im Sakral-Zentrum — die Macht ist körperlich, nicht mental.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Kanal 34-20</h3>
+<p>Kanal 34-20 ("Macht der Sinne") verbindet Gate 34 (Macht) mit Gate 20 (Präsenz):</p>
+<p><strong>"The power of the senses"</strong> — Die Macht, die durch die Sinne kommt. gate 20 = "The Now". Die Kombination ist präsent — die Macht, die jetzt ist, nicht morgen.</p>
+<p>Mit 34-20: Du bist diepure Präsenz — nicht weil du etwas tust, sondern weil du bist. Andere spüren deine Macht, ohne dass du etwas sagst.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Schatten</h3>
+<p><strong>Machtmissbrauch:</strong> Gate 34 kann die Macht missbrauchen — nicht für das Ganze, sondern für sich selbst.</p>
+<p><strong>Aggression:</strong> Die rohe Kraft kann zur Gewalt werden — wenn sie nicht weise kanalisiert wird.</p>
+<p><strong>Arroganz:</strong> "Ich habe Macht" kann zur Überheblichkeit werden — die andere erniedrigt.</p>
+<hr class="content-divider">
+<h3 class="content-h2">Die Lektion</h3>
+<p><em>"Macht ist nicht das, was du hast — sie ist das, was du damit tust."</em></p>
+<p>Gate 34 erinnert uns: Die größte Macht ist die, die andere stärkt — nicht die, die andere schwächt.</p>
+<p class="next-insight" data-next="1">🔮 <strong>Nächster Insight:</strong> Dein täglicher Insight — zurück zu den Anfängen.</p>`
+  }
 ];
