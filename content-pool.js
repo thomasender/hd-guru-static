@@ -4,7 +4,7 @@
 
 export const contentPool = [
   {
-    id: 11,
+    id: 111,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     icon: "✴️",
@@ -47,7 +47,7 @@ export const contentPool = [
 <p class="next-insight" data-next="12">🔮 <strong>Nächster Insight:</strong> Not-Self — wie jeder Typ in die Falle tappt.</p>`
   },
   {
-    id: 12,
+    id: 110,
     title: "Not-Self — Die Falle",
     subtitle: "Wie jeder Typ seinen Weg verliert",
     icon: "🪤",
@@ -90,7 +90,7 @@ export const contentPool = [
 <p class="next-insight" data-next="13">🔮 <strong>Nächster Insight:</strong> Die 4 Transmitter — die kollektive Energie der Menschheit.</p>`
   },
   {
-    id: 13,
+    id: 109,
     title: "Die 4 Transmitter",
     subtitle: "Die kollektive Energie, die uns alle antreibt",
     icon: "📡",
@@ -131,7 +131,7 @@ export const contentPool = [
 <p class="next-insight" data-next="14">🔮 <strong>Nächster Insight:</strong> Gate 1 — das Tor des Genies.</p>`
   },
   {
-    id: 14,
+    id: 108,
     title: "Gate 1 — Das Tor des Genies",
     subtitle: "Die kreative Vision, die niemand aufhalten kann",
     icon: "💡",
@@ -170,7 +170,7 @@ export const contentPool = [
 <p class="next-insight" data-next="15">🔮 <strong>Nächster Insight:</strong> Gate 8 — Selbst-Genug.</p>`
   },
   {
-    id: 15,
+    id: 106,
     title: "Gate 8 — Selbst-Genug",
     subtitle: "Das Tor, das sich selbst trägt",
     icon: "🏛️",
@@ -205,7 +205,7 @@ export const contentPool = [
 <p class="next-insight" data-next="16">🔮 <strong>Nächster Insight:</strong> Gate 41 — der Traum, der noch kommt.</p>`
   },
   {
-    id: 15,
+    id: 107,
     title: "Gate 41 — Der Traum",
     subtitle: "Das Tor der Reduktion und der Vision",
     icon: "🌙",
@@ -241,7 +241,7 @@ export const contentPool = [
 <p class="next-insight" data-next="16">🔮 <strong>Nächster Insight:</strong> Gate 30 — das Feuer des Wollens.</p>`
   },
   {
-    id: 16,
+    id: 105,
     title: "Gate 30 — Das Feuer des Wollens",
     subtitle: "Das Tor, das weiß was es will",
     icon: "🔥",
@@ -277,7 +277,7 @@ export const contentPool = [
 <p class="next-insight" data-next="17">🔮 <strong>Nächster Insight:</strong> Gate 15 — die Extreme der Menschheit.</p>`
   },
   {
-    id: 17,
+    id: 104,
     title: "Gate 15 — Die Extreme der Menschheit",
     subtitle: "Das Tor der Moderation und des Kosmos",
     icon: "⚖️",
@@ -313,7 +313,7 @@ export const contentPool = [
 <p class="next-insight" data-next="18">🔮 <strong>Nächster Insight:</strong> Gate 10 — Selbst-Verhalten.</p>`
   },
   {
-    id: 18,
+    id: 103,
     title: "Gate 10 — Selbst-Verhalten",
     subtitle: "Das Tor, das zeigt, wer du wirklich bist",
     icon: "🪞",
@@ -349,7 +349,7 @@ export const contentPool = [
 <p class="next-insight" data-next="19">🔮 <strong>Nächster Insight:</strong> Gate 25 — die Selbst-Liebe.</p>`
   },
   {
-    id: 19,
+    id: 102,
     title: "Gate 25 — Die Selbst-Liebe",
     subtitle: "Das Tor des Geistes, der sich selbst bootstrapt",
     icon: "🌿",
@@ -386,7 +386,7 @@ export const contentPool = [
 <p class="next-insight" data-next="20">🔮 <strong>Nächster Insight:</strong> Gate 38 — der Kämpfer.</p>`
   },
   {
-    id: 20,
+    id: 101,
     title: "Gate 38 — Der Kämpfer",
     subtitle: "Das Tor des Widerstands und der Perspektive",
     icon: "⚔️",
@@ -421,7 +421,7 @@ export const contentPool = [
 <p class="next-insight" data-next="21">🔮 <strong>Nächster Insight:</strong> Gate 58 — die Freude der Kritik.</p>`
   },
   {
-    id: 21,
+    id: 100,
     title: "Gate 58 — Die Freude der Kritik",
     subtitle: "Das Tor der Freude und der tiefen Analyse",
     icon: "🔬",
@@ -457,7 +457,7 @@ export const contentPool = [
 <p class="next-insight" data-next="22">🔮 <strong>Nächster Insight:</strong> Gate 44 — der wachsame Empfänger.</p>`
   },
   {
-    id: 22,
+    id: 99,
     title: "Gate 44 — Der wachsame Empfänger",
     subtitle: "Das Tor des Empfangens und der Wachsamkeit",
     icon: "👁️",
@@ -488,7 +488,7 @@ export const contentPool = [
 <p class="next-insight" data-next="23">🔮 <strong>Nächster Insight:</strong> Gate 16 — die Fähigkeiten durch Erfahrung.</p>`
   },
   {
-    id: 23,
+    id: 98,
     title: "Gate 16 — Fähigkeiten durch Erfahrung",
     subtitle: "Das Tor der Talente und des Enthusiasmus",
     icon: "🎹",
@@ -524,7 +524,7 @@ export const contentPool = [
 <p class="next-insight" data-next="24">🔮 <strong>Nächster Insight:</strong> Gate 48 — die Tiefe der Weisheit.</p>`
   },
   {
-    id: 24,
+    id: 97,
     title: "Gate 48 — Die Tiefe der Weisheit",
     subtitle: "Das Tor des tiefen Wissens und der Entdeckung",
     icon: "🪣",
@@ -560,7 +560,7 @@ export const contentPool = [
 <p class="next-insight" data-next="25">🔮 <strong>Nächster Insight:</strong> Gate 32 — Kontinuität.</p>`
   },
   {
-    id: 25,
+    id: 96,
     title: "Gate 32 — Kontinuität",
     subtitle: "Das Tor der Dauer und der Erhaltung",
     icon: "⏳",
@@ -592,7 +592,7 @@ export const contentPool = [
 <p class="next-insight" data-next="26">🔮 <strong>Nächster Insight:</strong> Generatoren in der Liebe.</p>`
   },
   {
-    id: 26,
+    id: 95,
     title: "Generatoren in der Liebe",
     subtitle: "Die Kraft der Antwort",
     icon: "💛",
@@ -624,7 +624,7 @@ export const contentPool = [
 <p class="next-insight" data-next="27">🔮 <strong>Nächster Insight:</strong> Projektors in der Liebe.</p>`
   },
   {
-    id: 27,
+    id: 94,
     title: "Projektors in der Liebe",
     subtitle: "Die Kunst, geführt zu werden — und zu führen",
     icon: "🔵",
@@ -655,7 +655,7 @@ export const contentPool = [
 <p class="next-insight" data-next="28">🔮 <strong>Nächster Insight:</strong> Reflectors — die lunarischen Wesen.</p>`
   },
   {
-    id: 28,
+    id: 93,
     title: "Reflectors — die lunarischen Wesen",
     subtitle: "Die seltensten Menschen im Human Design",
     icon: "🌕",
@@ -689,7 +689,7 @@ export const contentPool = [
 <p class="next-insight" data-next="29">🔮 <strong>Nächster Insight:</strong> Splenic Autorität — die leise Stimme.</p>`
   },
   {
-    id: 29,
+    id: 92,
     title: "Splenic Autorität",
     subtitle: "Die leise Stimme der Intuition",
     icon: "👃",
@@ -722,7 +722,7 @@ export const contentPool = [
 <p class="next-insight" data-next="30">🔮 <strong>Nächster Insight:</strong> Emotionale Autorität — die Welle reiten.</p>`
   },
   {
-    id: 30,
+    id: 91,
     title: "Emotionale Autorität",
     subtitle: "Die Kunst, auf der Welle zu surfen",
     icon: "🌊",
@@ -758,7 +758,7 @@ export const contentPool = [
 <p class="next-insight" data-next="31">🔮 <strong>Nächster Insight:</strong> Die 9 Zentren — dein inneres Universum.</p>`
   },
   {
-    id: 31,
+    id: 90,
     title: "Die 9 Zentren — dein inneres Universum",
     subtitle: "Eine Wiederholung — aber tiefer",
     icon: "🔴",
@@ -788,7 +788,7 @@ export const contentPool = [
 <p class="next-insight" data-next="32">🔮 <strong>Nächster Insight:</strong> Der 7-Jahres-Zyklus — dein lebenslanges Experiment.</p>`
   },
   {
-    id: 32,
+    id: 89,
     title: "Der 7-Jahres-Zyklus",
     subtitle: "Dein lebenslanges Experiment in Phasen",
     icon: "🗓️",
@@ -823,7 +823,7 @@ export const contentPool = [
 <p class="next-insight" data-next="33">🔮 <strong>Nächster Insight:</strong> HD und Karriere — dein Berufungsweg.</p>`
   },
   {
-    id: 33,
+    id: 88,
     title: "HD und Karriere",
     subtitle: "Finde den Job, der zu deinem Design passt",
     icon: "💼",
@@ -860,7 +860,7 @@ export const contentPool = [
 <p class="next-insight" data-next="34">🔮 <strong>Nächster Insight:</strong> HD und Gesundheit — höre auf deinen Körper.</p>`
   },
   {
-    id: 34,
+    id: 87,
     title: "HD und Gesundheit",
     subtitle: "Dein Körper weiß, was er braucht",
     icon: "🫀",
@@ -897,7 +897,7 @@ export const contentPool = [
 <p class="next-insight" data-next="35">🔮 <strong>Nächster Insight:</strong> Ra Uru Hus Chart — der Mann hinter HD.</p>`
   },
   {
-    id: 35,
+    id: 86,
     title: "Ra Uru Hus Chart",
     subtitle: "Der Mann hinter dem System",
     icon: "👤",
@@ -931,7 +931,7 @@ export const contentPool = [
 <p class="next-insight" data-next="36">🔮 <strong>Nächster Insight:</strong> Gate 49 — die Revolution der Prinzipien.</p>`
   },
   {
-    id: 36,
+    id: 85,
     title: "Gate 49 — Die Revolution der Prinzipien",
     subtitle: "Das Tor der Werte und des Wandels",
     icon: "⚡",
@@ -962,7 +962,7 @@ export const contentPool = [
 <p class="next-insight" data-next="37">🔮 <strong>Nächster Insight:</strong> Gate 57 — das Flüstern der Intuition.</p>`
   },
   {
-    id: 37,
+    id: 84,
     title: "Gate 57 — das Flüstern der Intuition",
     subtitle: "Das Tor der intuitiven Heilung",
     icon: "🦋",
@@ -993,7 +993,7 @@ export const contentPool = [
 <p class="next-insight" data-next="38">🔮 <strong>Nächster Insight:</strong> Gate 40 — das Alleinsein und die Erbringung.</p>`
   },
   {
-    id: 38,
+    id: 83,
     title: "Gate 40 — das Alleinsein und die Erbringung",
     subtitle: "Das Tor, das Heil durch Trennung bringt",
     icon: "🚪",
@@ -1024,7 +1024,7 @@ export const contentPool = [
 <p class="next-insight" data-next="39">🔮 <strong>Nächster Insight:</strong> Gate 20 — die Präsenz des Jetzt.</p>`
   },
   {
-    id: 39,
+    id: 82,
     title: "Gate 20 — die Präsenz des Jetzt",
     subtitle: "Das Tor, das uns in die Gegenwart zieht",
     icon: "⏰",
@@ -1055,7 +1055,7 @@ export const contentPool = [
 <p class="next-insight" data-next="40">🔮 <strong>Nächster Insight:</strong> Gate 28 — das Spiel, das gespielt werden muss.</p>`
   },
   {
-    id: 40,
+    id: 81,
     title: "Gate 28 — das Spiel, das gespielt werden muss",
     subtitle: "Das Tor des Schicksals und der Hingabe",
     icon: "🎲",
@@ -1086,7 +1086,7 @@ export const contentPool = [
 <p class="next-insight" data-next="41">🔮 <strong>Nächster Insight:</strong> Die 64 Gate — eine Reise durch das ganze System.</p>`
   },
   {
-    id: 41,
+    id: 80,
     title: "Gate 2 — Der Empfänger",
     subtitle: "Das Tor, das den ersten Schritt in eine neue Richtung ermöglicht",
     icon: "📥",
@@ -1116,7 +1116,7 @@ export const contentPool = [
 <p class="next-insight" data-next="42">🔮 <strong>Nächster Insight:</strong> HD in Beziehungen — das tiefste Experiment.</p>`
   },
   {
-    id: 42,
+    id: 79,
     title: "HD in Beziehungen",
     subtitle: "Das tiefste Experiment",
     icon: "💕",
@@ -1150,7 +1150,7 @@ export const contentPool = [
 <p class="next-insight" data-next="43">🔮 <strong>Nächster Insight:</strong> Gate 55 — der Geist des Überflusses.</p>`
   },
   {
-    id: 43,
+    id: 78,
     title: "Gate 55 — der Geist des Überflusses",
     subtitle: "Das Tor des Geistes und der Fülle",
     icon: "🌀",
@@ -1181,7 +1181,7 @@ export const contentPool = [
 <p class="next-insight" data-next="44">🔮 <strong>Nächster Insight:</strong> Gate 61 — das innere Geheimnis.</p>`
   },
   {
-    id: 44,
+    id: 77,
     title: "Gate 61 — das innere Geheimnis",
     subtitle: "Das Tor der inneren Wahrheit und des metaphysischen Wissens",
     icon: "🔮",
@@ -1212,7 +1212,7 @@ export const contentPool = [
 <p class="next-insight" data-next="45">🔮 <strong>Nächster Insight:</strong> Gate 63 — die Wahrheit der Gegenwart.</p>`
   },
   {
-    id: 45,
+    id: 76,
     title: "Gate 63 — die Wahrheit der Gegenwart",
     subtitle: "Das Tor des Zweifels und der Wahrheitsfindung",
     icon: "❓",
@@ -1243,7 +1243,7 @@ export const contentPool = [
 <p class="next-insight" data-next="46">🔮 <strong>Nächster Insight:</strong> Gate 64 — die Verwirrung vor der Erleuchtung.</p>`
   },
   {
-    id: 46,
+    id: 75,
     title: "Gate 64 — die Verwirrung vor der Erleuchtung",
     subtitle: "Das Tor der Fülle und des Übergangs",
     icon: "🌊",
@@ -1268,7 +1268,7 @@ export const contentPool = [
 <p class="next-insight" data-next="47">🔮 <strong>Nächster Insight:</strong> Gate 56 — der Strom der Kultur.</p>`
   },
   {
-    id: 47,
+    id: 74,
     title: "Gate 56 — der Strom der Kultur",
     subtitle: "Das Tor des Geschichtenerzählers und der Inspiration",
     icon: "📖",
@@ -1299,7 +1299,7 @@ export const contentPool = [
 <p class="next-insight" data-next="48">🔮 <strong>Nächster Insight:</strong> Gate 17 — die Meinung und ihre Kraft.</p>`
   },
   {
-    id: 48,
+    id: 73,
     title: "Gate 17 — die Meinung und ihre Kraft",
     subtitle: "Das Tor der Meinung, die andere trägt",
     icon: "🗣️",
@@ -1329,7 +1329,7 @@ export const contentPool = [
 <p class="next-insight" data-next="49">🔮 <strong>Nächster Insight:</strong> Gate 3 — das Chaos, das Ordnung schafft.</p>`
   },
   {
-    id: 49,
+    id: 72,
     title: "Gate 3 — das Chaos, das Ordnung schafft",
     subtitle: "Das Tor der Anfänge und des Experiments",
     icon: "🌀",
@@ -1360,7 +1360,7 @@ export const contentPool = [
 <p class="next-insight" data-next="50">🔮 <strong>Nächster Insight:</strong> Gate 36 — die Dunkelheit und das Licht.</p>`
   },
   {
-    id: 50,
+    id: 71,
     title: "Gate 36 — die Dunkelheit und das Licht",
     subtitle: "Das Tor der Krise und der Erleuchtung",
     icon: "🌑",
@@ -1391,7 +1391,7 @@ export const contentPool = [
 <p class="next-insight" data-next="51">🔮 <strong>Nächster Insight:</strong> Gate 42 — die Entwicklung, die Zeit braucht.</p>`
   },
   {
-    id: 51,
+    id: 70,
     title: "Gate 42 — die Entwicklung, die Zeit braucht",
     subtitle: "Das Tor der Vermehrung und des langfristigen Wachstums",
     icon: "🌱",
@@ -1420,7 +1420,7 @@ export const contentPool = [
 <p class="next-insight" data-next="52">🔮 <strong>Nächster Insight:</strong> Gate 18 — die Korrektur des Fehlers.</p>`
   },
   {
-    id: 52,
+    id: 69,
     title: "Gate 18 — die Korrektur des Fehlers",
     subtitle: "Das Tor der Korrektur und der Perfektion",
     icon: "🔧",
@@ -1450,7 +1450,7 @@ export const contentPool = [
 <p class="next-insight" data-next="53">🔮 <strong>Nächster Insight:</strong> Gate 7 — die Führung durch die Gruppe.</p>`
   },
   {
-    id: 53,
+    id: 68,
     title: "Gate 7 — die Führung durch die Gruppe",
     subtitle: "Das Tor des Anführers, der die Gruppe kennt",
     icon: "👑",
@@ -1480,7 +1480,7 @@ export const contentPool = [
 <p class="next-insight" data-next="54">🔮 <strong>Nächster Insight:</strong> Gate 21 — der Biss der Entscheidung.</p>`
   },
   {
-    id: 54,
+    id: 67,
     title: "Gate 21 — der Biss der Entscheidung",
     subtitle: "Das Tor des Jägers und der klaren Entscheidung",
     icon: "🎯",
@@ -1510,7 +1510,7 @@ export const contentPool = [
 <p class="next-insight" data-next="55">🔮 <strong>Nächster Insight:</strong> Gate 13 — der Zuhörer der Geschichte.</p>`
   },
   {
-    id: 55,
+    id: 66,
     title: "Gate 13 — der Zuhörer der Geschichte",
     subtitle: "Das Tor des Geschichtenerzählers und der Historie",
     icon: "📜",
@@ -1540,7 +1540,7 @@ export const contentPool = [
 <p class="next-insight" data-next="56">🔮 <strong>Nächster Insight:</strong> Gate 11 — die Idee, die Harmonie bringt.</p>`
   },
   {
-    id: 56,
+    id: 65,
     title: "Gate 11 — die Idee, die Harmonie bringt",
     subtitle: "Das Tor der Ideen und der kulturellen Inspiration",
     icon: "💡",
@@ -1570,7 +1570,7 @@ export const contentPool = [
 <p class="next-insight" data-next="57">🔮 <strong>Nächster Insight:</strong> Gate 4 — die Suche nach der Antwort.</p>`
   },
   {
-    id: 57,
+    id: 64,
     title: "Gate 4 — die Suche nach der Antwort",
     subtitle: "Das Tor des Geistes, der Fragen beantwortet",
     icon: "🧠",
@@ -1599,7 +1599,7 @@ export const contentPool = [
 <p class="next-insight" data-next="58">🔮 <strong>Nächster Insight:</strong> Gate 5 — das Warten, das die Antwort bringt.</p>`
   },
   {
-    id: 58,
+    id: 63,
     title: "Gate 5 — das Warten, das die Antwort bringt",
     subtitle: "Das Tor der Geduld und der inneren Ruhe",
     icon: "⏳",
@@ -1629,7 +1629,7 @@ export const contentPool = [
 <p class="next-insight" data-next="59">🔮 <strong>Nächster Insight:</strong> Gate 29 — das Tao der Kommunikation.</p>`
   },
   {
-    id: 59,
+    id: 62,
     title: "Gate 29 — das Tao der Kommunikation",
     subtitle: "Das Tor des Tao und der tiefen Verbindung",
     icon: "🌊",
@@ -1659,7 +1659,7 @@ export const contentPool = [
 <p class="next-insight" data-next="60">🔮 <strong>Nächster Insight:</strong> Gate 34 — die Macht der Sinne.</p>`
   },
   {
-    id: 60,
+    id: 61,
     title: "Gate 34 — die Macht der Sinne",
     subtitle: "Das Tor der kraftvollen Sinneswahrnehmung",
     icon: "💥",
