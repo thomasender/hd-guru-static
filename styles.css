@@ -243,6 +243,18 @@ body {
   white-space: nowrap;
 }
 
+/* Touch devices: disable hover transform to prevent visual glitch on tap */
+@media (hover: none) {
+  .card-wrapper:hover .card-inner {
+    transform: none;
+    box-shadow: none;
+  }
+  .card-wrapper:active .card-inner {
+    transform: scale(0.97);
+    box-shadow: 0 4px 16px rgba(45, 74, 62, 0.2);
+  }
+}
+
 /* ── Overlay ───────────────────────────────────────── */
 .overlay {
   position: fixed;

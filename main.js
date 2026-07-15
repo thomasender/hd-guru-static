@@ -69,16 +69,20 @@ import { lessons } from './data.js';
 
     cardsGrid.innerHTML = page.map(buildCard).join('');
 
-    // Rebind card clicks
+    // Rebind card interactions (click + touch)
     cardsGrid.querySelectorAll('.card-wrapper').forEach(card => {
-      card.addEventListener('click', () => {
+      const openOnInteraction = (e) => {
+        e.preventDefault();
         const id = parseInt(card.dataset.lessonId, 10);
         if (overlayPhase === 'closed' || overlayPhase === 'exiting') {
           openLesson(id);
         } else if (overlayPhase === 'open') {
           closeOverlay();
         }
-      });
+      };
+
+      card.addEventListener('touchstart', openOnInteraction, { passive: false });
+      card.addEventListener('click', openOnInteraction);
     });
 
     // Page info
