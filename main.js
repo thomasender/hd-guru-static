@@ -3,15 +3,11 @@ import { lessons } from './data.js';
 (function () {
   'use strict';
 
-  // ── State ─────────────────────────────────────────────────────────
   const PAGE_SIZE = 10;
   let currentPage = 1;
-  let sortOrder = 'desc'; // 'asc' | 'desc'
-  let activeLessonId = null;
-  let overlayPhase = 'closed'; // 'closed' | 'entering' | 'open' | 'exiting'
-  let touchDevice = ('ontouchstart' in window) || (navigator.maxTouchPoints > 0);
+  let sortOrder = 'desc';
+  let touchOpened = false; // guard against synthetic click after touchstart
 
-  // ── DOM refs ──────────────────────────────────────────────────────
   const overlay = document.getElementById('overlay');
   const overlayCard = document.getElementById('overlay-card');
   const overlayContent = document.getElementById('overlay-content');
@@ -27,12 +23,11 @@ import { lessons } from './data.js';
   const pagePrev = document.getElementById('page-prev');
   const pageNext = document.getElementById('page-next');
 
-  // ── Helpers ───────────────────────────────────────────────────────
+  // ── Helpers ─────────────────────────────────────────────────────────
   function getSortedLessons() {
-    return [...lessons].sort((a, b) => {
-      if (sortOrder === 'asc') return a.day - b.day;
-      return b.day - a.day;
-    });
+    return [...lessons].sort((a, b) =>
+      sortOrder === 'asc' ? a.day - b.day : b.day - a.day
+    );
   }
 
   function getTotalPages() {
@@ -45,13 +40,10 @@ import { lessons } from './data.js';
     return `${start} – ${end} von ${lessons.length}`;
   }
 
-  // ── Core: open / close ─────────────────────────────────────────────
+  // ── Open / Close — instant, no animation ───────────────────────────
   function openLesson(lessonId) {
     const lesson = lessons.find(l => l.id === lessonId);
     if (!lesson) return;
-    if (overlayPhase === 'entering' || overlayPhase === 'open') return;
-
-    activeLessonId = lessonId;
 
     overlayBadge.textContent = `Lektion ${lesson.day}`;
     overlayIcon.textContent = lesson.icon;
@@ -59,55 +51,31 @@ import { lessons } from './data.js';
     overlaySubtitle.textContent = lesson.subtitle;
     overlayContent.innerHTML = lesson.content;
 
+    // Next lesson button
     const nextBtn = overlayContent.querySelector('.next-insight-btn');
     if (nextBtn) {
-      nextBtn.addEventListener('click', function (e) {
+      nextBtn.addEventListener('click', e => {
         e.preventDefault();
-        const nextId = parseInt(this.dataset.next, 10);
-        if (nextId && nextId <= lessons.length) {
-          overlayCard.className = 'overlay-card card-exiting';
-          overlay.classList.remove('overlay-visible');
-          overlayPhase = 'exiting';
-          setLessonUrl(nextId);
-          setTimeout(() => openLesson(nextId), 520);
-        }
+        const nextId = parseInt(nextBtn.dataset.next, 10);
+        if (nextId && nextId <= lessons.length) openLesson(nextId);
       });
     }
 
-    document.body.style.overflow = 'hidden';
+    overlay.style.display = 'flex';
     setLessonUrl(lessonId);
-
-    overlayCard.className = 'overlay-card card-entering';
-    overlay.classList.add('overlay-visible');
-    overlayPhase = 'entering';
-
-    setTimeout(() => {
-      overlayCard.className = 'overlay-card card-open';
-      overlayPhase = 'open';
-    }, 650);
   }
 
   function closeOverlay() {
-    if (overlayPhase === 'closed' || overlayPhase === 'exiting') return;
-
-    overlayPhase = 'exiting';
-    overlayCard.className = 'overlay-card card-exiting';
-    overlay.classList.remove('overlay-visible');
-
-    setTimeout(() => {
-      activeLessonId = null;
-      overlayPhase = 'closed';
-      overlayCard.className = 'overlay-card';
-      document.body.style.overflow = '';
-      clearLessonUrl();
-    }, 520);
+    overlay.style.display = 'none';
+    clearLessonUrl();
   }
 
-  // ── Card interaction handler ───────────────────────────────────────
-  function handleCardInteraction(lessonId) {
-    if (overlayPhase === 'open') {
+  // ── Card interaction ────────────────────────────────────────────────
+  function handleCardClick(lessonId, fromTouch) {
+    if (overlay.style.display === 'flex') {
       closeOverlay();
-    } else if (overlayPhase === 'closed' || overlayPhase === 'exiting') {
+    } else {
+      if (fromTouch) touchOpened = true;
       openLesson(lessonId);
     }
   }
@@ -137,55 +105,42 @@ import { lessons } from './data.js';
 
     cardsGrid.innerHTML = page.map(buildCard).join('');
 
-    // Attach events to fresh DOM elements
+    // Attach events
     cardsGrid.querySelectorAll('.card-wrapper').forEach(card => {
       const id = parseInt(card.dataset.lessonId, 10);
 
-      if (touchDevice) {
-        // Touch device: touchstart opens immediately (no 300ms delay)
-        card.addEventListener('touchstart', function (e) {
-          e.preventDefault();
-          handleCardInteraction(id);
-        }, { passive: false });
+      // Touch — fires first, opens card
+      card.addEventListener('touchstart', function (e) {
+        e.preventDefault();
+        touchOpened = false;
+        handleCardClick(id, true);
+      }, { passive: false });
 
-        // click still fires after ~300ms — ignore it to prevent
-        // "touch opens → click immediately closes" race condition
-        card.addEventListener('click', function (e) {
-          e.stopPropagation();
-          // swallow the event — don't let it toggle the overlay shut
-        });
-      } else {
-        // Desktop: click works fine
-        card.addEventListener('click', function (e) {
-          e.stopPropagation();
-          handleCardInteraction(id);
-        });
-      }
+      // Click — on touch devices, ignore if touchstart already opened it
+      card.addEventListener('click', function (e) {
+        e.stopPropagation();
+        if (touchOpened) {
+          touchOpened = false;
+          return;
+        }
+        handleCardClick(id, false);
+      });
     });
 
-    // Page info
     pageInfo.textContent = getPageRange(currentPage);
-
-    // Prev/Next buttons
     pagePrev.disabled = currentPage === 1;
     pageNext.disabled = currentPage === getTotalPages();
 
-    // Page number buttons
     const total = getTotalPages();
     pageNumbers.innerHTML = '';
     let startPage = Math.max(1, currentPage - 2);
     let endPage = Math.min(total, startPage + 4);
-    if (endPage - startPage < 4) {
-      startPage = Math.max(1, endPage - 4);
-    }
+    if (endPage - startPage < 4) startPage = Math.max(1, endPage - 4);
     for (let i = startPage; i <= endPage; i++) {
       const btn = document.createElement('button');
       btn.className = 'page-num-btn' + (i === currentPage ? ' active' : '');
       btn.textContent = i;
-      btn.addEventListener('click', () => {
-        currentPage = i;
-        renderPage();
-      });
+      btn.addEventListener('click', () => { currentPage = i; renderPage(); });
       pageNumbers.appendChild(btn);
     }
   }
@@ -201,19 +156,21 @@ import { lessons } from './data.js';
     });
   });
 
-  // ── Pagination nav ─────────────────────────────────────────────────
+  // ── Pagination ─────────────────────────────────────────────────────
   pagePrev.addEventListener('click', () => {
-    if (currentPage > 1) {
-      currentPage--;
-      renderPage();
-    }
+    if (currentPage > 1) { currentPage--; renderPage(); }
+  });
+  pageNext.addEventListener('click', () => {
+    if (currentPage < getTotalPages()) { currentPage++; renderPage(); }
   });
 
-  pageNext.addEventListener('click', () => {
-    if (currentPage < getTotalPages()) {
-      currentPage++;
-      renderPage();
-    }
+  // ── Close overlay ──────────────────────────────────────────────────
+  closeBtn.addEventListener('click', closeOverlay);
+  overlay.addEventListener('click', e => {
+    if (e.target === overlay) closeOverlay();
+  });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && overlay.style.display === 'flex') closeOverlay();
   });
 
   // ── URL helpers ───────────────────────────────────────────────────
@@ -222,53 +179,35 @@ import { lessons } from './data.js';
     url.searchParams.set('open', lessonId);
     history.pushState({ lessonId }, '', url.toString());
   }
-
   function clearLessonUrl() {
     const url = new URL(window.location.href);
     url.searchParams.delete('open');
     history.pushState({}, '', url.toString());
   }
-
   function getLessonFromUrl() {
     const params = new URLSearchParams(window.location.search);
     const id = parseInt(params.get('open'), 10);
     return lessons.find(l => l.id === id) ? id : null;
   }
 
-  // ── Event listeners ────────────────────────────────────────────────
-  closeBtn.addEventListener('click', closeOverlay);
-
-  overlay.addEventListener('click', e => {
-    if (e.target === overlay && overlayPhase === 'open') {
-      closeOverlay();
-    }
-  });
-
-  document.addEventListener('keydown', e => {
-    if (e.key === 'Escape' && overlayPhase === 'open') {
-      closeOverlay();
-    }
-  });
-
+  // ── Popstate ───────────────────────────────────────────────────────
   window.addEventListener('popstate', e => {
     if (e.state && e.state.lessonId) {
-      if (overlayPhase === 'open' || overlayPhase === 'entering') {
+      if (overlay.style.display === 'flex') {
         closeOverlay();
-        setTimeout(() => openLesson(e.state.lessonId), 550);
+        setTimeout(() => openLesson(e.state.lessonId), 50);
       } else {
         openLesson(e.state.lessonId);
       }
     } else {
-      if (overlayPhase === 'open') closeOverlay();
+      if (overlay.style.display === 'flex') closeOverlay();
     }
   });
 
-  // ── Initial render ─────────────────────────────────────────────────
+  // ── Init ───────────────────────────────────────────────────────────
+  overlay.style.display = 'none';
   renderPage();
 
   const urlLessonId = getLessonFromUrl();
-  if (urlLessonId) {
-    setTimeout(() => openLesson(urlLessonId), 100);
-  }
-
+  if (urlLessonId) openLesson(urlLessonId);
 })();
