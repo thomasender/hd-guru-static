@@ -69,21 +69,41 @@ import { lessons } from './data.js';
 
     cardsGrid.innerHTML = page.map(buildCard).join('');
 
-    // Rebind card interactions (click + touch)
-    cardsGrid.querySelectorAll('.card-wrapper').forEach(card => {
-      const openOnInteraction = (e) => {
+  let touchIsRecent = false;
+  let touchTimer = null;
+
+  // Rebind card interactions (click + touch)
+  cardsGrid.querySelectorAll('.card-wrapper').forEach(card => {
+    const openOnInteraction = (e) => {
+      const id = parseInt(card.dataset.lessonId, 10);
+
+      // Touch: open immediately, then ignore the synthetic click that follows
+      if (e.type === 'touchstart') {
+        touchIsRecent = true;
+        clearTimeout(touchTimer);
+        touchTimer = setTimeout(() => { touchIsRecent = false; }, 500);
         e.preventDefault();
-        const id = parseInt(card.dataset.lessonId, 10);
         if (overlayPhase === 'closed' || overlayPhase === 'exiting') {
           openLesson(id);
         } else if (overlayPhase === 'open') {
           closeOverlay();
         }
-      };
+        return;
+      }
 
-      card.addEventListener('touchstart', openOnInteraction, { passive: false });
-      card.addEventListener('click', openOnInteraction);
-    });
+      // Click: ignore if a touch just fired (synthetic click on iOS)
+      if (e.type === 'click' && touchIsRecent) return;
+
+      if (overlayPhase === 'closed' || overlayPhase === 'exiting') {
+        openLesson(id);
+      } else if (overlayPhase === 'open') {
+        closeOverlay();
+      }
+    };
+
+    card.addEventListener('touchstart', openOnInteraction, { passive: false });
+    card.addEventListener('click', openOnInteraction);
+  });
 
     // Page info
     pageInfo.textContent = getPageRange(currentPage);
