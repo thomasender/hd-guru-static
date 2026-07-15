@@ -606,9 +606,19 @@ body {
 
 /* ── Responsive ─────────────────────────────────────── */
 @media (max-width: 600px) {
+  .cards-section {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
   .cards-grid {
     grid-template-columns: 1fr;
     gap: 16px;
+  }
+
+  .card-wrapper {
+    max-width: 340px;
+    margin: 0 auto;
   }
 
   .header {
