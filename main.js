@@ -148,9 +148,11 @@ import { lessons } from './data.js';
           handleCardInteraction(id);
         }, { passive: false });
 
-        // click still fires after ~300ms — guard against double-open
+        // click still fires after ~300ms — ignore it to prevent
+        // "touch opens → click immediately closes" race condition
         card.addEventListener('click', function (e) {
           e.stopPropagation();
+          // swallow the event — don't let it toggle the overlay shut
         });
       } else {
         // Desktop: click works fine
