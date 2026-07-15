@@ -40,7 +40,7 @@ import { lessons } from './data.js';
     return `${start} – ${end} von ${lessons.length}`;
   }
 
-  // ── Open / Close — instant, no animation ───────────────────────────
+  // ── Open / Close — magic growth animation ───────────────────────
   function openLesson(lessonId) {
     const lesson = lessons.find(l => l.day === lessonId);
     if (!lesson) return;
@@ -62,12 +62,19 @@ import { lessons } from './data.js';
     }
 
     overlay.style.display = 'flex';
+    overlayCard.style.animation = 'none';
+    overlayCard.offsetHeight; // force reflow to restart animation
+    overlayCard.style.animation = 'overlayGrowthOpen 0.45s cubic-bezier(0.34, 1.56, 0.64, 1) forwards';
     setLessonUrl(lessonId);
   }
 
   function closeOverlay() {
-    overlay.style.display = 'none';
-    clearLessonUrl();
+    overlayCard.style.animation = 'overlayGrowthClose 0.3s ease-in forwards';
+    overlayCard.addEventListener('animationend', () => {
+      overlay.style.display = 'none';
+      overlayCard.style.animation = 'none';
+      clearLessonUrl();
+    }, { once: true });
   }
 
   // ── Card interaction ────────────────────────────────────────────────

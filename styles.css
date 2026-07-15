@@ -11,6 +11,20 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+/* ── Magic Animations ──────────────────────────────── */
+@keyframes overlayGrowthOpen {
+  0%   { opacity: 0; transform: scale(0.7) rotate(-8deg); }
+  60%  { opacity: 1; transform: scale(1.04) rotate(1.5deg); }
+  80%  { transform: scale(0.97) rotate(-0.5deg); }
+  100% { opacity: 1; transform: scale(1) rotate(0deg); }
+}
+
+@keyframes overlayGrowthClose {
+  0%   { opacity: 1; transform: scale(1) rotate(0deg); }
+  40%  { opacity: 1; transform: scale(1.05) rotate(2deg); }
+  100% { opacity: 0; transform: scale(0.75) rotate(-6deg); }
+}
+
 /* ── Header ────────────────────────────────────────── */
 .header {
   background: linear-gradient(135deg, #2D4A3E 0%, #1D3A2E 100%);
