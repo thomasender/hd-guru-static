@@ -109,11 +109,25 @@ import { lessons } from './data.js';
     cardsGrid.querySelectorAll('.card-wrapper').forEach(card => {
       const id = parseInt(card.dataset.lessonId, 10);
 
-      // Touch — fires first, opens card
+      // Touch — only opens card if it's a tap (finger didn't move far)
+      let touchStartX = 0;
+      let touchStartY = 0;
+
       card.addEventListener('touchstart', function (e) {
-        e.preventDefault();
-        touchOpened = false;
-        handleCardClick(id, true);
+        touchStartX = e.touches[0].clientX;
+        touchStartY = e.touches[0].clientY;
+        touchOpened = false; // reset for this touch
+      }, { passive: true });
+
+      card.addEventListener('touchend', function (e) {
+        const dx = Math.abs(e.changedTouches[0].clientX - touchStartX);
+        const dy = Math.abs(e.changedTouches[0].clientY - touchStartY);
+        const isTap = dx < 10 && dy < 10;
+        if (isTap) {
+          e.preventDefault();
+          touchOpened = true;
+          handleCardClick(id, true);
+        }
       }, { passive: false });
 
       // Click — on touch devices, ignore if touchstart already opened it
