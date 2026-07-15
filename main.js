@@ -64,12 +64,12 @@ import { lessons } from './data.js';
     overlay.style.display = 'flex';
     overlayCard.style.animation = 'none';
     overlayCard.offsetHeight; // force reflow to restart animation
-    overlayCard.style.animation = 'overlayGrowthOpen 0.45s cubic-bezier(0.34, 1.56, 0.64, 1) forwards';
+    overlayCard.style.animation = 'overlayGrowthOpen 0.55s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards';
     setLessonUrl(lessonId);
   }
 
   function closeOverlay() {
-    overlayCard.style.animation = 'overlayGrowthClose 0.3s ease-in forwards';
+    overlayCard.style.animation = 'overlayGrowthClose 0.4s ease-in forwards';
     overlayCard.addEventListener('animationend', () => {
       overlay.style.display = 'none';
       overlayCard.style.animation = 'none';
