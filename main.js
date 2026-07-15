@@ -42,7 +42,7 @@ import { lessons } from './data.js';
 
   // ── Open / Close — instant, no animation ───────────────────────────
   function openLesson(lessonId) {
-    const lesson = lessons.find(l => l.id === lessonId);
+    const lesson = lessons.find(l => l.day === lessonId);
     if (!lesson) return;
 
     overlayBadge.textContent = `Lektion ${lesson.day}`;
@@ -82,7 +82,7 @@ import { lessons } from './data.js';
 
   // ── Build card HTML ────────────────────────────────────────────────
   function buildCard(lesson) {
-    return `<div class="card-wrapper" data-lesson-id="${lesson.id}">
+    return `<div class="card-wrapper" data-lesson-id="${lesson.day}">
       <div class="card-inner">
         <div class="card-face card-front">
           <div class="card-back-design">
@@ -187,7 +187,7 @@ import { lessons } from './data.js';
   function getLessonFromUrl() {
     const params = new URLSearchParams(window.location.search);
     const id = parseInt(params.get('open'), 10);
-    return lessons.find(l => l.id === id) ? id : null;
+    return lessons.find(l => l.day === id) ? id : null;
   }
 
   // ── Popstate ───────────────────────────────────────────────────────
