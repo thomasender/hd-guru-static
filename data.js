@@ -1,6 +1,5 @@
 export const lessons = [
   {
-    id: 1,
     day: 1,
     title: "Die rätselhaften Anfänge",
     subtitle: "Ra Uru Hu und die Offenbarung von 1983",
@@ -36,7 +35,6 @@ export const lessons = [
 <p>Ra was very clear: <strong>Don't believe in Human Design. Experiment with it.</strong></p>`
   },
   {
-    id: 2,
     day: 2,
     title: "Was ist Human Design?",
     subtitle: "Die Karte, das Experiment, der Code",
@@ -68,7 +66,6 @@ export const lessons = [
 <div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="3">🔮 <strong>Nächster Insight:</strong> Die 9 Zentren — dein inneres Architektur-System. →</a></div>`
   },
   {
-    id: 3,
     day: 3,
     title: "Die 9 Zentren",
     subtitle: "Deine innere Architektur",
@@ -115,7 +112,6 @@ export const lessons = [
 <div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="4">🔮 <strong>Nächster Insight:</strong> Die 4 Typen — wie sie die Welt bewegen. →</a></div>`
   },
   {
-    id: 4,
     day: 4,
     title: "Die 4 Bio-Energie-Typen",
     subtitle: "Wie du die Welt bewegst",
@@ -164,7 +160,6 @@ export const lessons = [
 <div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="5">🔮 <strong>Nächster Insight:</strong> Strategie & Autorität — wie du wirklich entscheidest. →</a></div>`
   },
   {
-    id: 5,
     day: 5,
     title: "Strategie & Autorität",
     subtitle: "Wie du Entscheidungen triffst",
@@ -215,7 +210,6 @@ export const lessons = [
 <div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="6">🔮 <strong>Nächster Insight:</strong> Die 12 Profile — deine Persönlichkeits-Archetypen. →</a></div>`
   },
   {
-    id: 6,
     day: 6,
     title: "Die 12 Profile",
     subtitle: "Deine Persönlichkeits-Archetypen",
@@ -281,7 +275,6 @@ export const lessons = [
 <div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="7">🔮 <strong>Nächster Insight:</strong> Gates & Linien — die 64 Hexagramme und die I Ching Verbindung. →</a></div>`
   },
   {
-    id: 7,
     day: 7,
     title: "Gates & Linien",
     subtitle: "Die 64 Hexagramme und die I Ching Verbindung",
@@ -336,7 +329,6 @@ export const lessons = [
 <div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="8">🔮 <strong>Nächster Insight:</strong> Die 36 Kanäle — was sie bedeuten und warum sie wichtiger sind als einzelne Gates. →</a></div>`
   },
   {
-    id: 8,
     day: 8,
     title: "Die 36 Kanäle",
     subtitle: "Die Kraft der Verbindungen",
@@ -393,7 +385,6 @@ export const lessons = [
 <div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="9">🔮 <strong>Nächster Insight:</strong> Die 6 Kreisläufe — wie dein System zusammenarbeitet. →</a></div>`
   },
   {
-    id: 9,
     day: 9,
     title: "Die 6 Kreisläufe",
     subtitle: "Die Architektur des Ganzen",
@@ -454,7 +445,6 @@ export const lessons = [
 <div class="next-insight-wrapper" style="position:relative;margin:20px 0 8px;"><a href="#" class="next-insight-btn" data-next="10">🔮 <strong>Nächster Insight:</strong> Design & Persönlichkeit — die zwei Körper, in denen du lebst. →</a></div>`
   },
   {
-    id: 10,
     day: 10,
     title: "Design & Persönlichkeit",
     subtitle: "Die zwei Körper, in denen du lebst",
@@ -522,7 +512,6 @@ export const lessons = [
   }
 ,
   {
-    id: 11,
     day: 11,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
@@ -567,7 +556,6 @@ export const lessons = [
   }
 ,
   {
-    id: 12,
     day: 12,
     title: "Not-Self — Die Falle",
     subtitle: "Wie jeder Typ seinen Weg verliert",
@@ -612,7 +600,6 @@ export const lessons = [
   }
 ,
   {
-    id: 13,
     day: 13,
     title: "Die 4 Transmitter",
     subtitle: "Die kollektive Energie, die uns alle antreibt",
@@ -655,7 +642,6 @@ export const lessons = [
   }
 ,
   {
-    id: 14,
     day: 14,
     title: "Gate 1 — Das Tor des Genies",
     subtitle: "Die kreative Vision, die niemand aufhalten kann",
@@ -696,7 +682,6 @@ export const lessons = [
   }
 ,
   {
-    id: 15,
     day: 15,
     title: "Gate 8 — Selbst-Genug",
     subtitle: "Das Tor, das sich selbst trägt",
@@ -733,7 +718,6 @@ export const lessons = [
   }
 ,
   {
-    id: 16,
     day: 16,
     title: "Gate 30 — Das Feuer des Wollens",
     subtitle: "Das Tor, das weiß was es will",
@@ -771,7 +755,6 @@ export const lessons = [
   }
 ,
   {
-    id: 17,
     day: 17,
     title: "Gate 15 — Die Extreme der Menschheit",
     subtitle: "Das Tor der Moderation und des Kosmos",
@@ -809,7 +792,6 @@ export const lessons = [
   }
 ,
   {
-    id: 18,
     day: 18,
     title: "Gate 10 — Selbst-Verhalten",
     subtitle: "Das Tor, das zeigt, wer du wirklich bist",
@@ -847,7 +829,6 @@ export const lessons = [
   }
 ,
   {
-    id: 19,
     day: 19,
     title: "Gate 25 — Die Selbst-Liebe",
     subtitle: "Das Tor des Geistes, der sich selbst bootstrapt",
@@ -886,7 +867,6 @@ export const lessons = [
   }
 ,
   {
-    id: 20,
     day: 20,
     title: "Gate 38 — Der Kämpfer",
     subtitle: "Das Tor des Widerstands und der Perspektive",
@@ -923,7 +903,6 @@ export const lessons = [
   }
 ,
   {
-    id: 21,
     day: 21,
     title: "Gate 58 — Die Freude der Kritik",
     subtitle: "Das Tor der Freude und der tiefen Analyse",
@@ -961,7 +940,6 @@ export const lessons = [
   }
 ,
   {
-    id: 22,
     day: 22,
     title: "Gate 44 — Der wachsame Empfänger",
     subtitle: "Das Tor des Empfangens und der Wachsamkeit",
@@ -994,7 +972,6 @@ export const lessons = [
   }
 ,
   {
-    id: 23,
     day: 23,
     title: "Gate 16 — Fähigkeiten durch Erfahrung",
     subtitle: "Das Tor der Talente und des Enthusiasmus",
@@ -1032,7 +1009,6 @@ export const lessons = [
   }
 ,
   {
-    id: 24,
     day: 24,
     title: "Gate 48 — Die Tiefe der Weisheit",
     subtitle: "Das Tor des tiefen Wissens und der Entdeckung",
@@ -1070,7 +1046,6 @@ export const lessons = [
   }
 ,
   {
-    id: 25,
     day: 25,
     title: "Gate 32 — Kontinuität",
     subtitle: "Das Tor der Dauer und der Erhaltung",
@@ -1104,7 +1079,6 @@ export const lessons = [
   }
 ,
   {
-    id: 26,
     day: 26,
     title: "Generatoren in der Liebe",
     subtitle: "Die Kraft der Antwort",
@@ -1138,7 +1112,6 @@ export const lessons = [
   }
 ,
   {
-    id: 27,
     day: 27,
     title: "Projektors in der Liebe",
     subtitle: "Die Kunst, geführt zu werden — und zu führen",
@@ -1171,7 +1144,6 @@ export const lessons = [
   }
 ,
   {
-    id: 28,
     day: 28,
     title: "Reflectors — die lunarischen Wesen",
     subtitle: "Die seltensten Menschen im Human Design",
@@ -1207,7 +1179,6 @@ export const lessons = [
   }
 ,
   {
-    id: 29,
     day: 29,
     title: "Splenic Autorität",
     subtitle: "Die leise Stimme der Intuition",
@@ -1242,7 +1213,6 @@ export const lessons = [
   }
 ,
   {
-    id: 30,
     day: 30,
     title: "Emotionale Autorität",
     subtitle: "Die Kunst, auf der Welle zu surfen",
@@ -1280,7 +1250,6 @@ export const lessons = [
   }
 ,
   {
-    id: 31,
     day: 31,
     title: "Die 9 Zentren — dein inneres Universum",
     subtitle: "Eine Wiederholung — aber tiefer",
@@ -1312,7 +1281,6 @@ export const lessons = [
   }
 ,
   {
-    id: 32,
     day: 32,
     title: "Der 7-Jahres-Zyklus",
     subtitle: "Dein lebenslanges Experiment in Phasen",
@@ -1349,7 +1317,6 @@ export const lessons = [
   }
 ,
   {
-    id: 33,
     day: 33,
     title: "HD und Karriere",
     subtitle: "Finde den Job, der zu deinem Design passt",
@@ -1388,7 +1355,6 @@ export const lessons = [
   }
 ,
   {
-    id: 34,
     day: 34,
     title: "HD und Gesundheit",
     subtitle: "Dein Körper weiß, was er braucht",
@@ -1427,7 +1393,6 @@ export const lessons = [
   }
 ,
   {
-    id: 35,
     day: 35,
     title: "Ra Uru Hus Chart",
     subtitle: "Der Mann hinter dem System",
@@ -1463,7 +1428,6 @@ export const lessons = [
   }
 ,
   {
-    id: 36,
     day: 36,
     title: "Gate 49 — Die Revolution der Prinzipien",
     subtitle: "Das Tor der Werte und des Wandels",
@@ -1496,7 +1460,6 @@ export const lessons = [
   }
 ,
   {
-    id: 37,
     day: 37,
     title: "Gate 57 — das Flüstern der Intuition",
     subtitle: "Das Tor der intuitiven Heilung",
@@ -1529,7 +1492,6 @@ export const lessons = [
   }
 ,
   {
-    id: 38,
     day: 38,
     title: "Gate 40 — das Alleinsein und die Erbringung",
     subtitle: "Das Tor, das Heil durch Trennung bringt",
@@ -1562,7 +1524,6 @@ export const lessons = [
   }
 ,
   {
-    id: 39,
     day: 39,
     title: "Gate 20 — die Präsenz des Jetzt",
     subtitle: "Das Tor, das uns in die Gegenwart zieht",
@@ -1595,7 +1556,6 @@ export const lessons = [
   }
 ,
   {
-    id: 40,
     day: 40,
     title: "Gate 28 — das Spiel, das gespielt werden muss",
     subtitle: "Das Tor des Schicksals und der Hingabe",
@@ -1628,7 +1588,6 @@ export const lessons = [
   }
 ,
   {
-    id: 41,
     day: 41,
     title: "Gate 2 — Der Empfänger",
     subtitle: "Das Tor, das den ersten Schritt in eine neue Richtung ermöglicht",
@@ -1660,7 +1619,6 @@ export const lessons = [
   }
 ,
   {
-    id: 42,
     day: 42,
     title: "HD in Beziehungen",
     subtitle: "Das tiefste Experiment",
@@ -1696,7 +1654,6 @@ export const lessons = [
   }
 ,
   {
-    id: 43,
     day: 43,
     title: "Gate 55 — der Geist des Überflusses",
     subtitle: "Das Tor des Geistes und der Fülle",
@@ -1729,7 +1686,6 @@ export const lessons = [
   }
 ,
   {
-    id: 44,
     day: 44,
     title: "Gate 61 — das innere Geheimnis",
     subtitle: "Das Tor der inneren Wahrheit und des metaphysischen Wissens",
@@ -1762,7 +1718,6 @@ export const lessons = [
   }
 ,
   {
-    id: 45,
     day: 45,
     title: "Gate 63 — die Wahrheit der Gegenwart",
     subtitle: "Das Tor des Zweifels und der Wahrheitsfindung",
@@ -1795,7 +1750,6 @@ export const lessons = [
   }
 ,
   {
-    id: 46,
     day: 46,
     title: "Gate 64 — die Verwirrung vor der Erleuchtung",
     subtitle: "Das Tor der Fülle und des Übergangs",
@@ -1822,7 +1776,6 @@ export const lessons = [
   }
 ,
   {
-    id: 47,
     day: 47,
     title: "Gate 56 — der Strom der Kultur",
     subtitle: "Das Tor des Geschichtenerzählers und der Inspiration",
@@ -1855,7 +1808,6 @@ export const lessons = [
   }
 ,
   {
-    id: 48,
     day: 48,
     title: "Gate 17 — die Meinung und ihre Kraft",
     subtitle: "Das Tor der Meinung, die andere trägt",
@@ -1887,7 +1839,6 @@ export const lessons = [
   }
 ,
   {
-    id: 49,
     day: 49,
     title: "Gate 3 — das Chaos, das Ordnung schafft",
     subtitle: "Das Tor der Anfänge und des Experiments",
@@ -1920,7 +1871,6 @@ export const lessons = [
   }
 ,
   {
-    id: 50,
     day: 50,
     title: "Gate 36 — die Dunkelheit und das Licht",
     subtitle: "Das Tor der Krise und der Erleuchtung",
@@ -1953,7 +1903,6 @@ export const lessons = [
   }
 ,
   {
-    id: 51,
     day: 51,
     title: "Gate 42 — die Entwicklung, die Zeit braucht",
     subtitle: "Das Tor der Vermehrung und des langfristigen Wachstums",
@@ -1984,7 +1933,6 @@ export const lessons = [
   }
 ,
   {
-    id: 52,
     day: 52,
     title: "Gate 18 — die Korrektur des Fehlers",
     subtitle: "Das Tor der Korrektur und der Perfektion",
@@ -2016,7 +1964,6 @@ export const lessons = [
   }
 ,
   {
-    id: 53,
     day: 53,
     title: "Gate 7 — die Führung durch die Gruppe",
     subtitle: "Das Tor des Anführers, der die Gruppe kennt",
@@ -2048,7 +1995,6 @@ export const lessons = [
   }
 ,
   {
-    id: 54,
     day: 54,
     title: "Gate 21 — der Biss der Entscheidung",
     subtitle: "Das Tor des Jägers und der klaren Entscheidung",
@@ -2080,7 +2026,6 @@ export const lessons = [
   }
 ,
   {
-    id: 55,
     day: 55,
     title: "Gate 13 — der Zuhörer der Geschichte",
     subtitle: "Das Tor des Geschichtenerzählers und der Historie",
@@ -2112,7 +2057,6 @@ export const lessons = [
   }
 ,
   {
-    id: 56,
     day: 56,
     title: "Gate 11 — die Idee, die Harmonie bringt",
     subtitle: "Das Tor der Ideen und der kulturellen Inspiration",
@@ -2144,7 +2088,6 @@ export const lessons = [
   }
 ,
   {
-    id: 57,
     day: 57,
     title: "Gate 4 — die Suche nach der Antwort",
     subtitle: "Das Tor des Geistes, der Fragen beantwortet",
@@ -2175,7 +2118,6 @@ export const lessons = [
   }
 ,
   {
-    id: 58,
     day: 58,
     title: "Gate 5 — das Warten, das die Antwort bringt",
     subtitle: "Das Tor der Geduld und der inneren Ruhe",
@@ -2207,7 +2149,6 @@ export const lessons = [
   }
 ,
   {
-    id: 59,
     day: 59,
     title: "Gate 29 — das Tao der Kommunikation",
     subtitle: "Das Tor des Tao und der tiefen Verbindung",
@@ -2239,7 +2180,6 @@ export const lessons = [
   }
 ,
   {
-    id: 60,
     day: 60,
     title: "Gate 34 — die Macht der Sinne",
     subtitle: "Das Tor der kraftvollen Sinneswahrnehmung",
@@ -2271,12 +2211,11 @@ export const lessons = [
   }
 ,
   {
-    id: 61,
     day: 61,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "💥",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2316,12 +2255,11 @@ export const lessons = [
   }
 ,
   {
-    id: 62,
     day: 62,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "🌊",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2361,12 +2299,11 @@ export const lessons = [
   }
 ,
   {
-    id: 63,
     day: 63,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "⏳",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2406,12 +2343,11 @@ export const lessons = [
   }
 ,
   {
-    id: 64,
     day: 64,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "🧠",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2451,12 +2387,11 @@ export const lessons = [
   }
 ,
   {
-    id: 65,
     day: 65,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "💡",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2496,12 +2431,11 @@ export const lessons = [
   }
 ,
   {
-    id: 66,
     day: 66,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "📜",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2541,12 +2475,11 @@ export const lessons = [
   }
 ,
   {
-    id: 67,
     day: 67,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "🎯",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2586,12 +2519,11 @@ export const lessons = [
   }
 ,
   {
-    id: 68,
     day: 68,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "👑",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2631,12 +2563,11 @@ export const lessons = [
   }
 ,
   {
-    id: 69,
     day: 69,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "🔧",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2676,12 +2607,11 @@ export const lessons = [
   }
 ,
   {
-    id: 70,
     day: 70,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "🌱",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2721,12 +2651,11 @@ export const lessons = [
   }
 ,
   {
-    id: 71,
     day: 71,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "🌑",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2766,12 +2695,11 @@ export const lessons = [
   }
 ,
   {
-    id: 72,
     day: 72,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "🌀",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2811,12 +2739,11 @@ export const lessons = [
   }
 ,
   {
-    id: 73,
     day: 73,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "🗣️",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2856,12 +2783,11 @@ export const lessons = [
   }
 ,
   {
-    id: 74,
     day: 74,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "📖",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2901,12 +2827,11 @@ export const lessons = [
   }
 ,
   {
-    id: 75,
     day: 75,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "🌊",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2946,12 +2871,11 @@ export const lessons = [
   }
 ,
   {
-    id: 76,
     day: 76,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "❓",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -2991,12 +2915,11 @@ export const lessons = [
   }
 ,
   {
-    id: 77,
     day: 77,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "🔮",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -3036,12 +2959,11 @@ export const lessons = [
   }
 ,
   {
-    id: 78,
     day: 78,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "🌀",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -3081,12 +3003,11 @@ export const lessons = [
   }
 ,
   {
-    id: 79,
     day: 79,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "💕",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -3126,12 +3047,11 @@ export const lessons = [
   }
 ,
   {
-    id: 80,
     day: 80,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "📥",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -3171,12 +3091,11 @@ export const lessons = [
   }
 ,
   {
-    id: 81,
     day: 81,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
     teaser: "Type und Profil sind erst der Anfang. Das Incarnation Cross zeigt dein kosmisches Ziel.",
-    icon: "✴️",
+    icon: "🎲",
     content: `<h2 class="content-h2">Dein Incarnation Cross — Deine Seelen-Aufgabe</h2>
 <hr class="content-divider">
 <p><strong>Type und Profil sind erst der Anfang.</strong></p>
@@ -3216,7 +3135,6 @@ export const lessons = [
   }
 ,
   {
-    id: 82,
     day: 82,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
@@ -3261,7 +3179,6 @@ export const lessons = [
   }
 ,
   {
-    id: 83,
     day: 83,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
@@ -3306,7 +3223,6 @@ export const lessons = [
   }
 ,
   {
-    id: 84,
     day: 84,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
@@ -3351,7 +3267,6 @@ export const lessons = [
   }
 ,
   {
-    id: 85,
     day: 85,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
@@ -3396,7 +3311,6 @@ export const lessons = [
   }
 ,
   {
-    id: 86,
     day: 86,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
@@ -3441,7 +3355,6 @@ export const lessons = [
   }
 ,
   {
-    id: 87,
     day: 87,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
@@ -3486,7 +3399,6 @@ export const lessons = [
   }
 ,
   {
-    id: 88,
     day: 88,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
@@ -3531,7 +3443,6 @@ export const lessons = [
   }
 ,
   {
-    id: 89,
     day: 89,
     title: "Dein Incarnation Cross",
     subtitle: "Deine Seelen-Aufgabe jenseits des Profils",
