@@ -28,8 +28,8 @@ const poolPath   = path.join(__dirname, 'content-pool.js');
 
 const dataContent = fs.readFileSync(dataPath, 'utf8');
 
-// Find all lesson IDs via regex
-const idMatches = [...dataContent.matchAll(/id:\s*(\d+),/g)].map(m => parseInt(m[1]));
+// Find all lesson IDs via regex — data.js uses 'day', not 'id'
+const idMatches = [...dataContent.matchAll(/^\s+day:\s*(\d+),/gm)].map(m => parseInt(m[1]));
 const currentMaxId = Math.max(...idMatches);
 const nextId = currentMaxId + 1;
 
@@ -101,7 +101,6 @@ console.log('✓ Updated index.html with new card');
 
 // ── Append lesson data to data.js ──────────────────────────────────
 const lessonEntry = `  {
-    id: ${nextId},
     day: ${nextId},
     title: "${lesson.title}",
     subtitle: "${lesson.subtitle}",
